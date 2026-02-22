@@ -1,0 +1,2733 @@
+RVA,Runtime,Type,Module,Label,Original,EXE_Value
+0x2ee57d,0x6ee57c,Sing,Chassis,Net Weight (lbs),3400.5,3400.5
+0x2ee5ad,0x6ee5ac,Sing,Chassis,Net Weight (lbs),3300.5,3300.5
+0x2ee5d9,0x6ee5d8,Sing,Chassis,Net Weight (lbs),2600.5,2600.5
+0x2ee579,0x6ee578,Sing,Chassis,Gross Weight (lbs),3600,3600
+0x2ee5a9,0x6ee5a8,Sing,Chassis,Gross Weight (lbs),3500,3500
+0x2ee5d5,0x6ee5d4,Sing,Chassis,Gross Weight (lbs),2800,2800
+0x2c1ed,0x42c1ec,Sing,Chassis,???,0.3,0.3
+0x2c6cd,0x42c6cc,Sing,Chassis,???,0.3,0.3
+0x2cbad,0x42cbac,Sing,Chassis,???,0.3,0.3
+0x2d08d,0x42d08c,Sing,Chassis,???,0.3,0.3
+0x2d568,0x42d567,Sing,Chassis,???,0.3,0.3
+0x2da35,0x42da34,Sing,Chassis,???,0.3,0.3
+0x2df0d,0x42df0c,Sing,Chassis,???,0.3,0.3
+0x2e3ed,0x42e3ec,Sing,Chassis,???,0.3,0.3
+0x2e8cd,0x42e8cc,Sing,Chassis,???,0.3,0.3
+0x2edad,0x42edac,Sing,Chassis,???,0.3,0.3
+0x2f288,0x42f287,Sing,Chassis,???,0.3,0.3
+0x2f755,0x42f754,Sing,Chassis,???,0.3,0.3
+0x2fc2d,0x42fc2c,Sing,Chassis,???,0.3,0.3
+0x3011d,0x43011c,Sing,Chassis,???,0.3,0.3
+0x305fd,0x4305fc,Sing,Chassis,???,0.3,0.3
+0x30ad8,0x430ad7,Sing,Chassis,???,0.3,0.3
+0x30fb5,0x430fb4,Sing,Chassis,???,0.3,0.3
+0x3149d,0x43149c,Sing,Chassis,???,0.225,0.225
+0x3197d,0x43197c,Sing,Chassis,???,0.225,0.225
+0x31e5d,0x431e5c,Sing,Chassis,???,0.225,0.225
+0x32338,0x432337,Sing,Chassis,???,0.225,0.225
+0x32818,0x432817,Sing,Chassis,???,0.225,0.225
+0x2c1f7,0x42c1f6,Sing,Chassis,???,1.564,1.564
+0x2c6d7,0x42c6d6,Sing,Chassis,???,1.564,1.564
+0x2cbb7,0x42cbb6,Sing,Chassis,???,1.564,1.564
+0x2d097,0x42d096,Sing,Chassis,???,1.564,1.564
+0x2d572,0x42d571,Sing,Chassis,???,1.564,1.564
+0x2da54,0x42da53,Sing,Chassis,???,1.564,1.564
+0x2df17,0x42df16,Sing,Chassis,???,1.564,1.564
+0x2e3f7,0x42e3f6,Sing,Chassis,???,1.564,1.564
+0x2e8d7,0x42e8d6,Sing,Chassis,???,1.564,1.564
+0x2edb7,0x42edb6,Sing,Chassis,???,1.564,1.564
+0x2f292,0x42f291,Sing,Chassis,???,1.564,1.564
+0x2f774,0x42f773,Sing,Chassis,???,1.564,1.564
+0x2fc37,0x42fc36,Sing,Chassis,???,1.564,1.564
+0x30127,0x430126,Sing,Chassis,???,1.564,1.564
+0x30607,0x430606,Sing,Chassis,???,1.564,1.564
+0x30ae2,0x430ae1,Sing,Chassis,???,1.564,1.564
+0x30fd4,0x430fd3,Sing,Chassis,???,1.564,1.564
+0x314a7,0x4314a6,Sing,Chassis,???,1.273,1.273
+0x31987,0x431986,Sing,Chassis,???,1.273,1.273
+0x31e67,0x431e66,Sing,Chassis,???,1.273,1.273
+0x32357,0x432356,Sing,Chassis,???,1.273,1.273
+0x32837,0x432836,Sing,Chassis,???,1.273,1.273
+0x2c207,0x42c206,Sing,Chassis,???,1.717,1.717
+0x2c6e7,0x42c6e6,Sing,Chassis,???,1.717,1.717
+0x2cbc7,0x42cbc6,Sing,Chassis,???,1.717,1.717
+0x2d0a7,0x42d0a6,Sing,Chassis,???,1.717,1.717
+0x2d57c,0x42d57b,Sing,Chassis,???,1.717,1.717
+0x2da5e,0x42da5d,Sing,Chassis,???,1.717,1.717
+0x2df27,0x42df26,Sing,Chassis,???,1.717,1.717
+0x2e407,0x42e406,Sing,Chassis,???,1.717,1.717
+0x2e8e7,0x42e8e6,Sing,Chassis,???,1.717,1.717
+0x2edc7,0x42edc6,Sing,Chassis,???,1.717,1.717
+0x2f29c,0x42f29b,Sing,Chassis,???,1.717,1.717
+0x2f77e,0x42f77d,Sing,Chassis,???,1.717,1.717
+0x2fc47,0x42fc46,Sing,Chassis,???,1.717,1.717
+0x30137,0x430136,Sing,Chassis,???,1.717,1.717
+0x30617,0x430616,Sing,Chassis,???,1.717,1.717
+0x30aec,0x430aeb,Sing,Chassis,???,1.717,1.717
+0x30fde,0x430fdd,Sing,Chassis,???,1.717,1.717
+0x314b7,0x4314b6,Sing,Chassis,???,1.387,1.387
+0x31997,0x431996,Sing,Chassis,???,1.387,1.387
+0x31e77,0x431e76,Sing,Chassis,???,1.387,1.387
+0x32361,0x432360,Sing,Chassis,???,1.387,1.387
+0x32841,0x432840,Sing,Chassis,???,1.387,1.387
+0x2c211,0x42c210,Sing,Chassis,??? Front Weight (kg),0,0
+0x2c6f1,0x42c6f0,Sing,Chassis,??? Front Weight (kg),0,0
+0x2cbd1,0x42cbd0,Sing,Chassis,??? Front Weight (kg),0,0
+0x2d0b1,0x42d0b0,Sing,Chassis,??? Front Weight (kg),0,0
+0x2d58c,0x42d58b,Sing,Chassis,??? Front Weight (kg),0,0
+0x2da68,0x42da67,Sing,Chassis,??? Front Weight (kg),0,0
+0x2df31,0x42df30,Sing,Chassis,??? Front Weight (kg),0,0
+0x2e411,0x42e410,Sing,Chassis,??? Front Weight (kg),0,0
+0x2e8f1,0x42e8f0,Sing,Chassis,??? Front Weight (kg),0,0
+0x2edd1,0x42edd0,Sing,Chassis,??? Front Weight (kg),0,0
+0x2f2ac,0x42f2ab,Sing,Chassis,??? Front Weight (kg),0,0
+0x2f788,0x42f787,Sing,Chassis,??? Front Weight (kg),0,0
+0x2fc51,0x42fc50,Sing,Chassis,??? Front Weight (kg),0,0
+0x30141,0x430140,Sing,Chassis,??? Front Weight (kg),0,0
+0x30621,0x430620,Sing,Chassis,??? Front Weight (kg),0,0
+0x30afc,0x430afb,Sing,Chassis,??? Front Weight (kg),0,0
+0x30fe8,0x430fe7,Sing,Chassis,??? Front Weight (kg),0,0
+0x314c1,0x4314c0,Sing,Chassis,??? Front Weight (kg),0,0
+0x319a1,0x4319a0,Sing,Chassis,??? Front Weight (kg),0,0
+0x31e81,0x431e80,Sing,Chassis,??? Front Weight (kg),0,0
+0x3236b,0x43236a,Sing,Chassis,??? Front Weight (kg),0,0
+0x3284b,0x43284a,Sing,Chassis,??? Front Weight (kg),0,0
+0x2c21b,0x42c21a,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x2c6fb,0x42c6fa,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x2cbdb,0x42cbda,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x2d0bb,0x42d0ba,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x2d596,0x42d595,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x2da78,0x42da77,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x2df3b,0x42df3a,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x2e41b,0x42e41a,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x2e8fb,0x42e8fa,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x2eddb,0x42edda,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x2f2b6,0x42f2b5,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x2f798,0x42f797,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x2fc5b,0x42fc5a,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x3014b,0x43014a,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x3062b,0x43062a,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x30b06,0x430b05,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x30ff8,0x430ff7,Sing,Chassis,??? Rear Weight (kg),67.3,67.3
+0x314cb,0x4314ca,Sing,Chassis,??? Rear Weight (kg),50,50
+0x319ab,0x4319aa,Sing,Chassis,??? Rear Weight (kg),50,50
+0x31e8b,0x431e8a,Sing,Chassis,??? Rear Weight (kg),50,50
+0x3237b,0x43237a,Sing,Chassis,??? Rear Weight (kg),50,50
+0x3285b,0x43285a,Sing,Chassis,??? Rear Weight (kg),50,50
+0x2ee581,0x6ee580,Sing,Chassis,Fuel - cup/gns Frontal Area,22,22
+0x2ee585,0x6ee584,Sing,Chassis,cup plate fuel,13.5,13.5
+0x2c225,0x42c224,Sing,Chassis,???,0.1,0.1
+0x2c705,0x42c704,Sing,Chassis,???,0.1,0.1
+0x2cbe5,0x42cbe4,Sing,Chassis,???,0.1,0.1
+0x2d0c5,0x42d0c4,Sing,Chassis,???,0.1,0.1
+0x2d5a0,0x42d59f,Sing,Chassis,???,0.1,0.1
+0x2da82,0x42da81,Sing,Chassis,???,0.1,0.1
+0x2df45,0x42df44,Sing,Chassis,???,0.1,0.1
+0x2e425,0x42e424,Sing,Chassis,???,0.1,0.1
+0x2e905,0x42e904,Sing,Chassis,???,0.1,0.1
+0x2ede5,0x42ede4,Sing,Chassis,???,0.1,0.1
+0x2f2c0,0x42f2bf,Sing,Chassis,???,0.1,0.1
+0x2f7a2,0x42f7a1,Sing,Chassis,???,0.1,0.1
+0x2fc65,0x42fc64,Sing,Chassis,???,0.1,0.1
+0x30155,0x430154,Sing,Chassis,???,0.1,0.1
+0x30635,0x430634,Sing,Chassis,???,0.1,0.1
+0x30b10,0x430b0f,Sing,Chassis,???,0.1,0.1
+0x31002,0x431001,Sing,Chassis,???,0.1,0.1
+0x314d5,0x4314d4,Sing,Chassis,???,0.1,0.1
+0x319b5,0x4319b4,Sing,Chassis,???,0.1,0.1
+0x31e95,0x431e94,Sing,Chassis,???,0.1,0.1
+0x32385,0x432384,Sing,Chassis,???,0.1,0.1
+0x32865,0x432864,Sing,Chassis,???,0.1,0.1
+0x2c235,0x42c234,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x2c715,0x42c714,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x2cbf5,0x42cbf4,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x2d0d5,0x42d0d4,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x2d5aa,0x42d5a9,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x2da8c,0x42da8b,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x2df55,0x42df54,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x2e435,0x42e434,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x2e915,0x42e914,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x2edf5,0x42edf4,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x2f2ca,0x42f2c9,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x2f7ac,0x42f7ab,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x2fc75,0x42fc74,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x30165,0x430164,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x30645,0x430644,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x30b1a,0x430b19,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x3100c,0x43100b,Sing,Chassis,??? Fuel Tank Location,-1.95,-1.95
+0x314e5,0x4314e4,Sing,Chassis,??? Fuel Tank Location,-1.6,-1.6
+0x319c5,0x4319c4,Sing,Chassis,??? Fuel Tank Location,-1.6,-1.6
+0x31ea5,0x431ea4,Sing,Chassis,??? Fuel Tank Location,-1.6,-1.6
+0x3238f,0x43238e,Sing,Chassis,??? Fuel Tank Location,-1.6,-1.6
+0x3286f,0x43286e,Sing,Chassis,??? Fuel Tank Location,-1.6,-1.6
+0x2c23f,0x42c23e,Sing,Chassis,???,0,0
+0x2c71f,0x42c71e,Sing,Chassis,???,0,0
+0x2cbff,0x42cbfe,Sing,Chassis,???,0,0
+0x2d0df,0x42d0de,Sing,Chassis,???,0,0
+0x2d5ba,0x42d5b9,Sing,Chassis,???,0,0
+0x2da96,0x42da95,Sing,Chassis,???,0,0
+0x2df5f,0x42df5e,Sing,Chassis,???,0,0
+0x2e43f,0x42e43e,Sing,Chassis,???,0,0
+0x2e91f,0x42e91e,Sing,Chassis,???,0,0
+0x2edff,0x42edfe,Sing,Chassis,???,0,0
+0x2f2da,0x42f2d9,Sing,Chassis,???,0,0
+0x2f7b6,0x42f7b5,Sing,Chassis,???,0,0
+0x2fc7f,0x42fc7e,Sing,Chassis,???,0,0
+0x3016f,0x43016e,Sing,Chassis,???,0,0
+0x3064f,0x43064e,Sing,Chassis,???,0,0
+0x30b2a,0x430b29,Sing,Chassis,???,0,0
+0x31016,0x431015,Sing,Chassis,???,0,0
+0x314ef,0x4314ee,Sing,Chassis,???,0,0
+0x319cf,0x4319ce,Sing,Chassis,???,0,0
+0x31eaf,0x431eae,Sing,Chassis,???,0,0
+0x32399,0x432398,Sing,Chassis,???,0,0
+0x32879,0x432878,Sing,Chassis,???,0,0
+0x2c249,0x42c248,Sing,Chassis,???,-0.05,-0.05
+0x2c729,0x42c728,Sing,Chassis,???,-0.05,-0.05
+0x2cc09,0x42cc08,Sing,Chassis,???,-0.05,-0.05
+0x2d0e9,0x42d0e8,Sing,Chassis,???,-0.05,-0.05
+0x2d5c4,0x42d5c3,Sing,Chassis,???,-0.05,-0.05
+0x2daa0,0x42da9f,Sing,Chassis,???,-0.05,-0.05
+0x2df69,0x42df68,Sing,Chassis,???,-0.05,-0.05
+0x2e449,0x42e448,Sing,Chassis,???,-0.05,-0.05
+0x2e929,0x42e928,Sing,Chassis,???,-0.05,-0.05
+0x2ee09,0x42ee08,Sing,Chassis,???,-0.05,-0.05
+0x2f2e4,0x42f2e3,Sing,Chassis,???,-0.05,-0.05
+0x2f7c0,0x42f7bf,Sing,Chassis,???,-0.05,-0.05
+0x2fc89,0x42fc88,Sing,Chassis,???,-0.05,-0.05
+0x30179,0x430178,Sing,Chassis,???,-0.05,-0.05
+0x30659,0x430658,Sing,Chassis,???,-0.05,-0.05
+0x30b34,0x430b33,Sing,Chassis,???,-0.05,-0.05
+0x31020,0x43101f,Sing,Chassis,???,-0.05,-0.05
+0x314f9,0x4314f8,Sing,Chassis,???,-0.05,-0.05
+0x319d9,0x4319d8,Sing,Chassis,???,-0.05,-0.05
+0x31eb9,0x431eb8,Sing,Chassis,???,-0.05,-0.05
+0x323a3,0x4323a2,Sing,Chassis,???,-0.05,-0.05
+0x32883,0x432882,Sing,Chassis,???,-0.05,-0.05
+0x2ee575,0x6ee574,Sing,Chassis,Wheelbase (in),110,110
+0x2ee5a5,0x6ee5a4,Sing,Chassis,Wheelbase (in),105,105
+0x2ee5c1,0x6ee5c0,Sing,Chassis,Wheelbase (in),112,112
+0x2ee5d1,0x6ee5d0,Sing,Chassis,Wheelbase (in),98,98
+0x2ee571,0x6ee570,Sing,Chassis,F Track (in),59.5,59.5
+0x2ee5bd,0x6ee5bc,Sing,Chassis,F Track (in),60.625,60.625
+0x2ee5cd,0x6ee5cc,Sing,Chassis,F Track (in),64,64
+0x2ee591,0x6ee590,Sing,Chassis,R Track (in),60.5,60.5
+0x2ee5c9,0x6ee5c8,Sing,Chassis,R Track (in),63,63
+0x2c253,0x42c252,Sing,Chassis,???,5,5
+0x2c733,0x42c732,Sing,Chassis,???,5,5
+0x2cc13,0x42cc12,Sing,Chassis,???,5,5
+0x2d0f3,0x42d0f2,Sing,Chassis,???,5,5
+0x2d5ce,0x42d5cd,Sing,Chassis,???,5,5
+0x2daaa,0x42daa9,Sing,Chassis,???,5,5
+0x2df73,0x42df72,Sing,Chassis,???,5,5
+0x2e453,0x42e452,Sing,Chassis,???,5,5
+0x2e933,0x42e932,Sing,Chassis,???,5,5
+0x2ee13,0x42ee12,Sing,Chassis,???,5,5
+0x2f2ee,0x42f2ed,Sing,Chassis,???,5,5
+0x2f7ca,0x42f7c9,Sing,Chassis,???,5,5
+0x2fc93,0x42fc92,Sing,Chassis,???,5,5
+0x30183,0x430182,Sing,Chassis,???,5,5
+0x30663,0x430662,Sing,Chassis,???,5,5
+0x30b3e,0x430b3d,Sing,Chassis,???,5,5
+0x3102a,0x431029,Sing,Chassis,???,5,5
+0x31503,0x431502,Sing,Chassis,???,5,5
+0x319e3,0x4319e2,Sing,Chassis,???,5,5
+0x31ec3,0x431ec2,Sing,Chassis,???,5,5
+0x323ad,0x4323ac,Sing,Chassis,???,5,5
+0x3288d,0x43288c,Sing,Chassis,???,5,5
+0x2c25d,0x42c25c,Sing,Chassis,??? Weight Balance (%),0.4725,0.4725
+0x2c73d,0x42c73c,Sing,Chassis,??? Weight Balance (%),0.483,0.483
+0x2cc1d,0x42cc1c,Sing,Chassis,??? Weight Balance (%),0.4725,0.4725
+0x2d0fd,0x42d0fc,Sing,Chassis,??? Weight Balance (%),0.4726,0.4726
+0x2d5d8,0x42d5d7,Sing,Chassis,??? Weight Balance (%),0.4726,0.4726
+0x2dac6,0x42dac5,Sing,Chassis,??? Weight Balance (%),0.4726,0.4726
+0x2df7d,0x42df7c,Sing,Chassis,??? Weight Balance (%),0.4703,0.4703
+0x2e45d,0x42e45c,Sing,Chassis,??? Weight Balance (%),0.4817,0.4817
+0x2e93d,0x42e93c,Sing,Chassis,??? Weight Balance (%),0.4704,0.4704
+0x2ee1d,0x42ee1c,Sing,Chassis,??? Weight Balance (%),0.4704,0.4704
+0x2f2f8,0x42f2f7,Sing,Chassis,??? Weight Balance (%),0.4704,0.4704
+0x2f7e6,0x42f7e5,Sing,Chassis,??? Weight Balance (%),0.4704,0.4704
+0x2fc9d,0x42fc9c,Sing,Chassis,??? Weight Balance (%),0.473,0.473
+0x3018d,0x43018c,Sing,Chassis,??? Weight Balance (%),0.473,0.473
+0x3066d,0x43066c,Sing,Chassis,??? Weight Balance (%),0.4731,0.4731
+0x30b48,0x430b47,Sing,Chassis,??? Weight Balance (%),0.4731,0.4731
+0x31046,0x431045,Sing,Chassis,??? Weight Balance (%),0.4731,0.4731
+0x3150d,0x43150c,Sing,Chassis,??? Weight Balance (%),0.4671,0.4671
+0x319ed,0x4319ec,Sing,Chassis,??? Weight Balance (%),0.4672,0.4672
+0x31ecd,0x431ecc,Sing,Chassis,??? Weight Balance (%),0.4672,0.4672
+0x323c9,0x4323c8,Sing,Chassis,??? Weight Balance (%),0.4674,0.4674
+0x328a9,0x4328a8,Sing,Chassis,??? Weight Balance (%),0.4674,0.4674
+0x2c1de,0x42c1dd,Long,Chassis,"Wheels (LF, RF, LR, RR)",2,2
+0x2c6be,0x42c6bd,Long,Chassis,"Wheels (LF, RF, LR, RR)",2,2
+0x2cb9e,0x42cb9d,Long,Chassis,"Wheels (LF, RF, LR, RR)",4,4
+0x2d07e,0x42d07d,Long,Chassis,"Wheels (LF, RF, LR, RR)",6,6
+0x2d55e,0x42d55d,Long,Chassis,"Wheels (LF, RF, LR, RR)",8,8
+0x2defe,0x42defd,Long,Chassis,"Wheels (LF, RF, LR, RR)",2,2
+0x2e3de,0x42e3dd,Long,Chassis,"Wheels (LF, RF, LR, RR)",2,2
+0x2e8be,0x42e8bd,Long,Chassis,"Wheels (LF, RF, LR, RR)",4,4
+0x2ed9e,0x42ed9d,Long,Chassis,"Wheels (LF, RF, LR, RR)",6,6
+0x2f27e,0x42f27d,Long,Chassis,"Wheels (LF, RF, LR, RR)",8,8
+0x2fc1e,0x42fc1d,Long,Chassis,"Wheels (LF, RF, LR, RR)",9,9
+0x3010e,0x43010d,Long,Chassis,"Wheels (LF, RF, LR, RR)",11,11
+0x305ee,0x4305ed,Long,Chassis,"Wheels (LF, RF, LR, RR)",13,13
+0x30ace,0x430acd,Long,Chassis,"Wheels (LF, RF, LR, RR)",15,15
+0x3148e,0x43148d,Long,Chassis,"Wheels (LF, RF, LR, RR)",18,18
+0x3196e,0x43196d,Long,Chassis,"Wheels (LF, RF, LR, RR)",20,20
+0x31e4e,0x431e4d,Long,Chassis,"Wheels (LF, RF, LR, RR)",22,22
+0x3232e,0x43232d,Long,Chassis,"Wheels (LF, RF, LR, RR)",24,24
+0x3280e,0x43280d,Long,Chassis,"Wheels (LF, RF, LR, RR)",16,16
+0x2c1e3,0x42c1e2,Long,Chassis,"Wheels (LF, RF, LR, RR)",3,3
+0x2c6c3,0x42c6c2,Long,Chassis,"Wheels (LF, RF, LR, RR)",3,3
+0x2cba3,0x42cba2,Long,Chassis,"Wheels (LF, RF, LR, RR)",5,5
+0x2d083,0x42d082,Long,Chassis,"Wheels (LF, RF, LR, RR)",7,7
+0x2df03,0x42df02,Long,Chassis,"Wheels (LF, RF, LR, RR)",3,3
+0x2e3e3,0x42e3e2,Long,Chassis,"Wheels (LF, RF, LR, RR)",3,3
+0x2e8c3,0x42e8c2,Long,Chassis,"Wheels (LF, RF, LR, RR)",5,5
+0x2eda3,0x42eda2,Long,Chassis,"Wheels (LF, RF, LR, RR)",7,7
+0x2fc23,0x42fc22,Long,Chassis,"Wheels (LF, RF, LR, RR)",10,10
+0x30113,0x430112,Long,Chassis,"Wheels (LF, RF, LR, RR)",12,12
+0x305f3,0x4305f2,Long,Chassis,"Wheels (LF, RF, LR, RR)",14,14
+0x31493,0x431492,Long,Chassis,"Wheels (LF, RF, LR, RR)",19,19
+0x31973,0x431972,Long,Chassis,"Wheels (LF, RF, LR, RR)",21,21
+0x31e53,0x431e52,Long,Chassis,"Wheels (LF, RF, LR, RR)",23,23
+0x2da4a,0x42da49,Long,Chassis,"Wheels (LF, RF, LR, RR)",1,1
+0x2f76a,0x42f769,Long,Chassis,"Wheels (LF, RF, LR, RR)",1,1
+0x30fca,0x430fc9,Long,Chassis,"Wheels (LF, RF, LR, RR)",1,1
+0x3234d,0x43234c,Long,Chassis,"Wheels (LF, RF, LR, RR)",25,25
+0x3282d,0x43282c,Long,Chassis,"Wheels (LF, RF, LR, RR)",17,17
+0x2ea631,0x6ea630,Sing,Chassis,??? Suspension (in),12,12
+0x2ee56d,0x6ee56c,Sing,Chassis,??? Suspension (in),16.5,16.5
+0x2ee5b9,0x6ee5b8,Sing,Chassis,??? Suspension (in),18.5,18.5
+0x2ea68d,0x6ea68c,Sing,Chassis,??? Ride Height - Suspension (in),11,11
+0x2ee5b5,0x6ee5b4,Sing,Chassis,??? Ride Height - Suspension (in),13,13
+0x2ee5c5,0x6ee5c4,Sing,Chassis,??? Ride Height - Suspension (in),6.5,6.5
+0x2ea50d,0x6ea50c,Sing,Chassis,??? (in),0.25,0.25
+0x2ed6c9,0x6ed6c8,Sing,Chassis,??? (in),0.75,0.75
+0x2ee599,0x6ee598,Sing,Chassis,??? (in),2.5,2.5
+0x2ea455,0x6ea454,Sing,Chassis,???,0,0
+0x2ed741,0x6ed740,Sing,Chassis,???,-2,-2
+0x2c28f,0x42c28e,Sing,Chassis,???,0.4,0.4
+0x2c76f,0x42c76e,Sing,Chassis,???,0.4,0.4
+0x2cc4f,0x42cc4e,Sing,Chassis,???,0.4,0.4
+0x2d12f,0x42d12e,Sing,Chassis,???,0.4,0.4
+0x2d608,0x42d607,Sing,Chassis,???,0.4,0.4
+0x2dada,0x42dad9,Sing,Chassis,???,0.4,0.4
+0x2dfaf,0x42dfae,Sing,Chassis,???,0.4,0.4
+0x2e48f,0x42e48e,Sing,Chassis,???,0.4,0.4
+0x2e96f,0x42e96e,Sing,Chassis,???,0.4,0.4
+0x2ee4f,0x42ee4e,Sing,Chassis,???,0.4,0.4
+0x2f328,0x42f327,Sing,Chassis,???,0.4,0.4
+0x2f7fa,0x42f7f9,Sing,Chassis,???,0.4,0.4
+0x2fccf,0x42fcce,Sing,Chassis,???,0.4,0.4
+0x301bf,0x4301be,Sing,Chassis,???,0.4,0.4
+0x3069f,0x43069e,Sing,Chassis,???,0.4,0.4
+0x30b78,0x430b77,Sing,Chassis,???,0.4,0.4
+0x3105a,0x431059,Sing,Chassis,???,0.4,0.4
+0x3153f,0x43153e,Sing,Chassis,???,0.4,0.4
+0x31a1f,0x431a1e,Sing,Chassis,???,0.4,0.4
+0x31eff,0x431efe,Sing,Chassis,???,0.4,0.4
+0x323dd,0x4323dc,Sing,Chassis,???,0.4,0.4
+0x328bd,0x4328bc,Sing,Chassis,???,0.4,0.4
+0x2c299,0x42c298,Sing,Chassis,???,0.4,0.4
+0x2c779,0x42c778,Sing,Chassis,???,0.4,0.4
+0x2cc59,0x42cc58,Sing,Chassis,???,0.5,0.5
+0x2d139,0x42d138,Sing,Chassis,???,0.35,0.35
+0x2d612,0x42d611,Sing,Chassis,???,0.35,0.35
+0x2dae4,0x42dae3,Sing,Chassis,???,0.35,0.35
+0x2dfb9,0x42dfb8,Sing,Chassis,???,0.4,0.4
+0x2e499,0x42e498,Sing,Chassis,???,0.4,0.4
+0x2e979,0x42e978,Sing,Chassis,???,0.5,0.5
+0x2ee59,0x42ee58,Sing,Chassis,???,0.35,0.35
+0x2f332,0x42f331,Sing,Chassis,???,0.35,0.35
+0x2f804,0x42f803,Sing,Chassis,???,0.35,0.35
+0x2fcd9,0x42fcd8,Sing,Chassis,???,0.4,0.4
+0x301c9,0x4301c8,Sing,Chassis,???,0.5,0.5
+0x306a9,0x4306a8,Sing,Chassis,???,0.35,0.35
+0x30b82,0x430b81,Sing,Chassis,???,0.35,0.35
+0x31064,0x431063,Sing,Chassis,???,0.35,0.35
+0x31549,0x431548,Sing,Chassis,???,0.4,0.4
+0x31a29,0x431a28,Sing,Chassis,???,0.5,0.5
+0x31f09,0x431f08,Sing,Chassis,???,0.35,0.35
+0x323e7,0x4323e6,Sing,Chassis,???,0.35,0.35
+0x328c7,0x4328c6,Sing,Chassis,???,0.35,0.35
+0x2ea629,0x6ea628,Sing,Chassis,??? (in),8,8
+0x2ee569,0x6ee568,Sing,Chassis,??? (in),-0.51,-0.51
+0x2ee58d,0x6ee58c,Sing,Chassis,??? (in),-0.45,-0.45
+0x2ee595,0x6ee594,Sing,Chassis,??? (in),-0.72,-0.72
+0x2ee59d,0x6ee59c,Sing,Chassis,??? (in),-0.92,-0.92
+0x2ee5a1,0x6ee5a0,Sing,Chassis,??? (in),-0.8,-0.8
+0x2c2a3,0x42c2a2,Sing,Chassis,???,0,0
+0x2c783,0x42c782,Sing,Chassis,???,0,0
+0x2cc63,0x42cc62,Sing,Chassis,???,0,0
+0x2d143,0x42d142,Sing,Chassis,???,0,0
+0x2d61c,0x42d61b,Sing,Chassis,???,0,0
+0x2daee,0x42daed,Sing,Chassis,???,0,0
+0x2dfc3,0x42dfc2,Sing,Chassis,???,0,0
+0x2e4a3,0x42e4a2,Sing,Chassis,???,0,0
+0x2e983,0x42e982,Sing,Chassis,???,0,0
+0x2ee63,0x42ee62,Sing,Chassis,???,0,0
+0x2f33c,0x42f33b,Sing,Chassis,???,0,0
+0x2f80e,0x42f80d,Sing,Chassis,???,0,0
+0x2fce3,0x42fce2,Sing,Chassis,???,0,0
+0x301d3,0x4301d2,Sing,Chassis,???,0,0
+0x306b3,0x4306b2,Sing,Chassis,???,0,0
+0x30b8c,0x430b8b,Sing,Chassis,???,0,0
+0x3106e,0x43106d,Sing,Chassis,???,0,0
+0x31553,0x431552,Sing,Chassis,???,0,0
+0x31a33,0x431a32,Sing,Chassis,???,0,0
+0x31f13,0x431f12,Sing,Chassis,???,0,0
+0x323f1,0x4323f0,Sing,Chassis,???,0,0
+0x328d1,0x4328d0,Sing,Chassis,???,0,0
+0x2c2bf,0x42c2be,Sing,Chassis,???,0,0
+0x2c79f,0x42c79e,Sing,Chassis,???,0,0
+0x2cc7f,0x42cc7e,Sing,Chassis,???,0,0
+0x2d15f,0x42d15e,Sing,Chassis,???,0,0
+0x2d626,0x42d625,Sing,Chassis,???,0,0
+0x2db0a,0x42db09,Sing,Chassis,???,0,0
+0x2dfdf,0x42dfde,Sing,Chassis,???,0,0
+0x2e4bf,0x42e4be,Sing,Chassis,???,0,0
+0x2e99f,0x42e99e,Sing,Chassis,???,0,0
+0x2ee7f,0x42ee7e,Sing,Chassis,???,0,0
+0x2f346,0x42f345,Sing,Chassis,???,0,0
+0x2f82a,0x42f829,Sing,Chassis,???,0,0
+0x2fcff,0x42fcfe,Sing,Chassis,???,0,0
+0x301ef,0x4301ee,Sing,Chassis,???,0,0
+0x306cf,0x4306ce,Sing,Chassis,???,0,0
+0x30b96,0x430b95,Sing,Chassis,???,0,0
+0x3108a,0x431089,Sing,Chassis,???,0,0
+0x3156f,0x43156e,Sing,Chassis,???,0,0
+0x31a4f,0x431a4e,Sing,Chassis,???,0,0
+0x31f2f,0x431f2e,Sing,Chassis,???,0,0
+0x3240d,0x43240c,Sing,Chassis,???,0,0
+0x328ed,0x4328ec,Sing,Chassis,???,0,0
+0x2c2c9,0x42c2c8,Sing,Chassis,???,0,0
+0x2c7a9,0x42c7a8,Sing,Chassis,???,0,0
+0x2cc89,0x42cc88,Sing,Chassis,???,0,0
+0x2d169,0x42d168,Sing,Chassis,???,0,0
+0x2d642,0x42d641,Sing,Chassis,???,0,0
+0x2db14,0x42db13,Sing,Chassis,???,0,0
+0x2dfe9,0x42dfe8,Sing,Chassis,???,0,0
+0x2e4c9,0x42e4c8,Sing,Chassis,???,0,0
+0x2e9a9,0x42e9a8,Sing,Chassis,???,0,0
+0x2ee89,0x42ee88,Sing,Chassis,???,0,0
+0x2f362,0x42f361,Sing,Chassis,???,0,0
+0x2f834,0x42f833,Sing,Chassis,???,0,0
+0x2fd09,0x42fd08,Sing,Chassis,???,0,0
+0x301f9,0x4301f8,Sing,Chassis,???,0,0
+0x306d9,0x4306d8,Sing,Chassis,???,0,0
+0x30bb2,0x430bb1,Sing,Chassis,???,0,0
+0x31094,0x431093,Sing,Chassis,???,0,0
+0x31579,0x431578,Sing,Chassis,???,0,0
+0x31a59,0x431a58,Sing,Chassis,???,0,0
+0x31f39,0x431f38,Sing,Chassis,???,0,0
+0x32417,0x432416,Sing,Chassis,???,0,0
+0x328f7,0x4328f6,Sing,Chassis,???,0,0
+0x2ea515,0x6ea514,Sing,Chassis,??? (in),5,5
+0x2c2d3,0x42c2d2,Sing,Chassis,???,10000,10000
+0x2c7b3,0x42c7b2,Sing,Chassis,???,10000,10000
+0x2cc93,0x42cc92,Sing,Chassis,???,21000,21000
+0x2d173,0x42d172,Sing,Chassis,???,14000,14000
+0x2d64c,0x42d64b,Sing,Chassis,???,14000,14000
+0x2db1e,0x42db1d,Sing,Chassis,???,10000,10000
+0x2dff3,0x42dff2,Sing,Chassis,???,10000,10000
+0x2e4d3,0x42e4d2,Sing,Chassis,???,10000,10000
+0x2e9b3,0x42e9b2,Sing,Chassis,???,21000,21000
+0x2ee93,0x42ee92,Sing,Chassis,???,14000,14000
+0x2f36c,0x42f36b,Sing,Chassis,???,14000,14000
+0x2f83e,0x42f83d,Sing,Chassis,???,10000,10000
+0x2fd13,0x42fd12,Sing,Chassis,???,10000,10000
+0x30203,0x430202,Sing,Chassis,???,21000,21000
+0x306e3,0x4306e2,Sing,Chassis,???,14000,14000
+0x30bbc,0x430bbb,Sing,Chassis,???,14000,14000
+0x3109e,0x43109d,Sing,Chassis,???,10000,10000
+0x31583,0x431582,Sing,Chassis,???,14000,14000
+0x31a63,0x431a62,Sing,Chassis,???,16000,16000
+0x31f43,0x431f42,Sing,Chassis,???,11000,11000
+0x32421,0x432420,Sing,Chassis,???,11000,11000
+0x32901,0x432900,Sing,Chassis,???,8000,8000
+0x2c2dd,0x42c2dc,Sing,Chassis,???,1,1
+0x2c7bd,0x42c7bc,Sing,Chassis,???,1,1
+0x2cc9d,0x42cc9c,Sing,Chassis,???,1,1
+0x2d17d,0x42d17c,Sing,Chassis,???,1,1
+0x2d656,0x42d655,Sing,Chassis,???,1,1
+0x2db28,0x42db27,Sing,Chassis,???,1,1
+0x2dffd,0x42dffc,Sing,Chassis,???,1,1
+0x2e4dd,0x42e4dc,Sing,Chassis,???,1,1
+0x2e9bd,0x42e9bc,Sing,Chassis,???,1,1
+0x2ee9d,0x42ee9c,Sing,Chassis,???,1,1
+0x2f376,0x42f375,Sing,Chassis,???,1,1
+0x2f848,0x42f847,Sing,Chassis,???,1,1
+0x2fd1d,0x42fd1c,Sing,Chassis,???,1,1
+0x3020d,0x43020c,Sing,Chassis,???,1,1
+0x306ed,0x4306ec,Sing,Chassis,???,1,1
+0x30bc6,0x430bc5,Sing,Chassis,???,1,1
+0x310a8,0x4310a7,Sing,Chassis,???,1,1
+0x3158d,0x43158c,Sing,Chassis,???,1,1
+0x31a6d,0x431a6c,Sing,Chassis,???,1,1
+0x31f4d,0x431f4c,Sing,Chassis,???,1,1
+0x3242b,0x43242a,Sing,Chassis,???,1,1
+0x3290b,0x43290a,Sing,Chassis,???,1,1
+0x2ccad,0x42ccac,Long,Chassis,???,2,2
+0x2d18d,0x42d18c,Long,Chassis,???,2,2
+0x2d660,0x42d65f,Long,Chassis,???,2,2
+0x2db38,0x42db37,Long,Chassis,???,2,2
+0x2e9cd,0x42e9cc,Long,Chassis,???,2,2
+0x2eead,0x42eeac,Long,Chassis,???,2,2
+0x2f380,0x42f37f,Long,Chassis,???,2,2
+0x2f858,0x42f857,Long,Chassis,???,2,2
+0x2fd2d,0x42fd2c,Long,Chassis,???,2,2
+0x3021d,0x43021c,Long,Chassis,???,2,2
+0x306fd,0x4306fc,Long,Chassis,???,2,2
+0x30bd0,0x430bcf,Long,Chassis,???,2,2
+0x310b8,0x4310b7,Long,Chassis,???,2,2
+0x3159d,0x43159c,Long,Chassis,???,1,1
+0x31a7d,0x431a7c,Long,Chassis,???,1,1
+0x31f5d,0x431f5c,Long,Chassis,???,1,1
+0x3243b,0x43243a,Long,Chassis,???,1,1
+0x3291b,0x43291a,Long,Chassis,???,1,1
+0x2ecfc9,0x6ecfc8,Sing,Chassis,??? Frontal Area (sq ft),20,20
+0x2ee5b1,0x6ee5b0,Sing,Chassis,??? Frontal Area (sq ft),25,25
+0x2c2f2,0x42c2f1,Sing,Chassis,??? Drag,0.33,0.33
+0x2c7d2,0x42c7d1,Sing,Chassis,??? Drag,0.406081,0.406081
+0x2ccb7,0x42ccb6,Sing,Chassis,??? Drag,0.521431,0.521431
+0x2d197,0x42d196,Sing,Chassis,??? Drag,0.541431,0.541431
+0x2d670,0x42d66f,Sing,Chassis,??? Drag,0.541431,0.541431
+0x2db42,0x42db41,Sing,Chassis,??? Drag,0.791431,0.791431
+0x2e012,0x42e011,Sing,Chassis,??? Drag,0.33,0.33
+0x2e4f2,0x42e4f1,Sing,Chassis,??? Drag,0.406081,0.406081
+0x2e9d7,0x42e9d6,Sing,Chassis,??? Drag,0.521431,0.521431
+0x2eeb7,0x42eeb6,Sing,Chassis,??? Drag,0.541431,0.541431
+0x2f390,0x42f38f,Sing,Chassis,??? Drag,0.541431,0.541431
+0x2f862,0x42f861,Sing,Chassis,??? Drag,0.791431,0.791431
+0x2fd37,0x42fd36,Sing,Chassis,??? Drag,0.56,0.56
+0x30227,0x430226,Sing,Chassis,??? Drag,0.57,0.57
+0x30707,0x430706,Sing,Chassis,??? Drag,0.57,0.57
+0x30be0,0x430bdf,Sing,Chassis,??? Drag,0.57,0.57
+0x310c2,0x4310c1,Sing,Chassis,??? Drag,0.82,0.82
+0x315a7,0x4315a6,Sing,Chassis,??? Drag,0.5115,0.5115
+0x31a87,0x431a86,Sing,Chassis,??? Drag,0.54,0.54
+0x31f67,0x431f66,Sing,Chassis,??? Drag,0.56,0.56
+0x32445,0x432444,Sing,Chassis,??? Drag,0.56,0.56
+0x32925,0x432924,Sing,Chassis,??? Drag,0.81,0.81
+0x2c2fc,0x42c2fb,Sing,Chassis,??? Downforce,-0.22,-0.22
+0x2c7dc,0x42c7db,Sing,Chassis,??? Downforce,-0.181044,-0.181044
+0x2ccc1,0x42ccc0,Sing,Chassis,??? Downforce,-0.261369,-0.261369
+0x2d1a1,0x42d1a0,Sing,Chassis,??? Downforce,-0.281369,-0.281369
+0x2d67a,0x42d679,Sing,Chassis,??? Downforce,-0.281369,-0.281369
+0x2db4c,0x42db4b,Sing,Chassis,??? Downforce,-0.271369,-0.271369
+0x2e01c,0x42e01b,Sing,Chassis,??? Downforce,-0.22,-0.22
+0x2e4fc,0x42e4fb,Sing,Chassis,??? Downforce,-0.181044,-0.181044
+0x2e9e1,0x42e9e0,Sing,Chassis,??? Downforce,-0.251369,-0.251369
+0x2eec1,0x42eec0,Sing,Chassis,??? Downforce,-0.271369,-0.271369
+0x2f39a,0x42f399,Sing,Chassis,??? Downforce,-0.271369,-0.271369
+0x2f86c,0x42f86b,Sing,Chassis,??? Downforce,-0.261369,-0.261369
+0x2fd41,0x42fd40,Sing,Chassis,??? Downforce,-0.16,-0.16
+0x30231,0x430230,Sing,Chassis,??? Downforce,-0.18,-0.18
+0x30711,0x430710,Sing,Chassis,??? Downforce,-0.2,-0.2
+0x30bea,0x430be9,Sing,Chassis,??? Downforce,-0.2,-0.2
+0x310cc,0x4310cb,Sing,Chassis,??? Downforce,-0.19,-0.19
+0x315b1,0x4315b0,Sing,Chassis,??? Downforce,-0.21,-0.21
+0x31a91,0x431a90,Sing,Chassis,??? Downforce,-0.23,-0.23
+0x31f71,0x431f70,Sing,Chassis,??? Downforce,-0.25,-0.25
+0x3244f,0x43244e,Sing,Chassis,??? Downforce,-0.25,-0.25
+0x3292f,0x43292e,Sing,Chassis,??? Downforce,-0.24,-0.24
+0x2c306,0x42c305,Sing,Chassis,???,-0.024775,-0.024775
+0x2c7e6,0x42c7e5,Sing,Chassis,???,-0.057281,-0.057281
+0x2cccb,0x42ccca,Sing,Chassis,???,-0.018387,-0.018387
+0x2d1ab,0x42d1aa,Sing,Chassis,???,-0.018387,-0.018387
+0x2d684,0x42d683,Sing,Chassis,???,-0.018387,-0.018387
+0x2db56,0x42db55,Sing,Chassis,???,-0.018387,-0.018387
+0x2e026,0x42e025,Sing,Chassis,???,-0.024775,-0.024775
+0x2e506,0x42e505,Sing,Chassis,???,-0.057281,-0.057281
+0x2e9eb,0x42e9ea,Sing,Chassis,???,-0.018387,-0.018387
+0x2eecb,0x42eeca,Sing,Chassis,???,-0.018387,-0.018387
+0x2f3a4,0x42f3a3,Sing,Chassis,???,-0.018387,-0.018387
+0x2f876,0x42f875,Sing,Chassis,???,-0.018387,-0.018387
+0x2fd4b,0x42fd4a,Sing,Chassis,???,-0.057,-0.057
+0x3023b,0x43023a,Sing,Chassis,???,-0.01,-0.01
+0x3071b,0x43071a,Sing,Chassis,???,-0.01,-0.01
+0x30bf4,0x430bf3,Sing,Chassis,???,-0.01,-0.01
+0x310d6,0x4310d5,Sing,Chassis,???,-0.01,-0.01
+0x315bb,0x4315ba,Sing,Chassis,???,0.02,0.02
+0x31a9b,0x431a9a,Sing,Chassis,???,0.02,0.02
+0x31f7b,0x431f7a,Sing,Chassis,???,0.02,0.02
+0x32459,0x432458,Sing,Chassis,???,0.02,0.02
+0x32939,0x432938,Sing,Chassis,???,0.004,0.004
+0x2ccd5,0x42ccd4,Sing,Chassis,???,0,0
+0x2d1b5,0x42d1b4,Sing,Chassis,???,0,0
+0x2d68e,0x42d68d,Sing,Chassis,???,0,0
+0x2db60,0x42db5f,Sing,Chassis,???,0,0
+0x2e9f5,0x42e9f4,Sing,Chassis,???,0,0
+0x2ee565,0x6ee564,Sing,Chassis,???,-0.003,-0.003
+0x2eed5,0x42eed4,Sing,Chassis,???,0,0
+0x2f3ae,0x42f3ad,Sing,Chassis,???,0,0
+0x2f880,0x42f87f,Sing,Chassis,???,0,0
+0x30331,0x430330,Sing,Chassis,???,0,0
+0x30811,0x430810,Sing,Chassis,???,0,0
+0x30bfe,0x430bfd,Sing,Chassis,???,0,0
+0x311cc,0x4311cb,Sing,Chassis,???,0,0
+0x31b96,0x431b95,Sing,Chassis,???,0,0
+0x32076,0x432075,Sing,Chassis,???,0,0
+0x32554,0x432553,Sing,Chassis,???,0,0
+0x32a34,0x432a33,Sing,Chassis,???,0,0
+0x2c402,0x42c401,Sing,Chassis,Front Wing Drag,0.054,0.054
+0x2c8e2,0x42c8e1,Sing,Chassis,Front Wing Drag,0.054,0.054
+0x2ccdf,0x42ccde,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x2d1bf,0x42d1be,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x2d698,0x42d697,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x2db6a,0x42db69,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x2e122,0x42e121,Sing,Chassis,Front Wing Drag,0.054,0.054
+0x2e602,0x42e601,Sing,Chassis,Front Wing Drag,0.054,0.054
+0x2e9ff,0x42e9fe,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x2eedf,0x42eede,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x2f3b8,0x42f3b7,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x2f88a,0x42f889,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x2fe41,0x42fe40,Sing,Chassis,Front Wing Drag,0.054,0.054
+0x3033b,0x43033a,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x3081b,0x43081a,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x30cf4,0x430cf3,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x311d6,0x4311d5,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x316b6,0x4316b5,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x31ba0,0x431b9f,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x32080,0x43207f,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x3255e,0x43255d,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x32a3e,0x432a3d,Sing,Chassis,Front Wing Drag,0.03,0.03
+0x2c40c,0x42c40b,Sing,Chassis,??? Front DownForce,-0.096,-0.096
+0x2c8ec,0x42c8eb,Sing,Chassis,??? Front DownForce,-0.096,-0.096
+0x2cdc9,0x42cdc8,Sing,Chassis,??? Front DownForce,-0.19,-0.19
+0x2d2a9,0x42d2a8,Sing,Chassis,??? Front DownForce,-0.19,-0.19
+0x2d6a2,0x42d6a1,Sing,Chassis,??? Front DownForce,-0.19,-0.19
+0x2dc54,0x42dc53,Sing,Chassis,??? Front DownForce,-0.19,-0.19
+0x2e12c,0x42e12b,Sing,Chassis,??? Front DownForce,-0.096,-0.096
+0x2e60c,0x42e60b,Sing,Chassis,??? Front DownForce,-0.096,-0.096
+0x2eae9,0x42eae8,Sing,Chassis,??? Front DownForce,-0.19,-0.19
+0x2efc9,0x42efc8,Sing,Chassis,??? Front DownForce,-0.19,-0.19
+0x2f3c2,0x42f3c1,Sing,Chassis,??? Front DownForce,-0.19,-0.19
+0x2f974,0x42f973,Sing,Chassis,??? Front DownForce,-0.19,-0.19
+0x2fe4b,0x42fe4a,Sing,Chassis,??? Front DownForce,-0.096,-0.096
+0x30345,0x430344,Sing,Chassis,??? Front DownForce,-0.19,-0.19
+0x30825,0x430824,Sing,Chassis,??? Front DownForce,-0.19,-0.19
+0x30cfe,0x430cfd,Sing,Chassis,??? Front DownForce,-0.19,-0.19
+0x311e0,0x4311df,Sing,Chassis,??? Front DownForce,-0.19,-0.19
+0x316c0,0x4316bf,Sing,Chassis,??? Front DownForce,-0.05,-0.05
+0x31baa,0x431ba9,Sing,Chassis,??? Front DownForce,-0.06,-0.06
+0x3208a,0x432089,Sing,Chassis,??? Front DownForce,-0.06,-0.06
+0x32568,0x432567,Sing,Chassis,??? Front DownForce,-0.06,-0.06
+0x32a48,0x432a47,Sing,Chassis,??? Front DownForce,-0.06,-0.06
+0x2c416,0x42c415,Sing,Chassis,??? Front Wing Size,0.03,0.03
+0x2c8f6,0x42c8f5,Sing,Chassis,??? Front Wing Size,0.03,0.03
+0x2cdd3,0x42cdd2,Sing,Chassis,??? Front Wing Size,0.08,0.08
+0x2d2b3,0x42d2b2,Sing,Chassis,??? Front Wing Size,0.08,0.08
+0x2d78c,0x42d78b,Sing,Chassis,??? Front Wing Size,0.08,0.08
+0x2dc5e,0x42dc5d,Sing,Chassis,??? Front Wing Size,0.08,0.08
+0x2e136,0x42e135,Sing,Chassis,??? Front Wing Size,0.03,0.03
+0x2e616,0x42e615,Sing,Chassis,??? Front Wing Size,0.03,0.03
+0x2eaf3,0x42eaf2,Sing,Chassis,??? Front Wing Size,0.08,0.08
+0x2efd3,0x42efd2,Sing,Chassis,??? Front Wing Size,0.08,0.08
+0x2f4ac,0x42f4ab,Sing,Chassis,??? Front Wing Size,0.08,0.08
+0x2f97e,0x42f97d,Sing,Chassis,??? Front Wing Size,0.08,0.08
+0x2fe55,0x42fe54,Sing,Chassis,??? Front Wing Size,0.03,0.03
+0x3034f,0x43034e,Sing,Chassis,??? Front Wing Size,0.08,0.08
+0x3082f,0x43082e,Sing,Chassis,??? Front Wing Size,0.08,0.08
+0x30d08,0x430d07,Sing,Chassis,??? Front Wing Size,0.08,0.08
+0x311ea,0x4311e9,Sing,Chassis,??? Front Wing Size,0.08,0.08
+0x316ca,0x4316c9,Sing,Chassis,??? Front Wing Size,0.025,0.025
+0x31bb4,0x431bb3,Sing,Chassis,??? Front Wing Size,0.025,0.025
+0x32094,0x432093,Sing,Chassis,??? Front Wing Size,0.025,0.025
+0x32572,0x432571,Sing,Chassis,??? Front Wing Size,0.025,0.025
+0x32a52,0x432a51,Sing,Chassis,??? Front Wing Size,0.025,0.025
+0x2c420,0x42c41f,Sing,Chassis,Rear Wing Drag,-0.0017,-0.0017
+0x2c900,0x42c8ff,Sing,Chassis,Rear Wing Drag,-0.0017,-0.0017
+0x2cddd,0x42cddc,Sing,Chassis,Rear Wing Drag,-0.0017,-0.0017
+0x2d2bd,0x42d2bc,Sing,Chassis,Rear Wing Drag,-0.0017,-0.0017
+0x2d796,0x42d795,Sing,Chassis,Rear Wing Drag,-0.0017,-0.0017
+0x2dc68,0x42dc67,Sing,Chassis,Rear Wing Drag,-0.0017,-0.0017
+0x2e140,0x42e13f,Sing,Chassis,Rear Wing Drag,-0.0017,-0.0017
+0x2e620,0x42e61f,Sing,Chassis,Rear Wing Drag,-0.0017,-0.0017
+0x2eafd,0x42eafc,Sing,Chassis,Rear Wing Drag,-0.0017,-0.0017
+0x2efdd,0x42efdc,Sing,Chassis,Rear Wing Drag,-0.0017,-0.0017
+0x2f4b6,0x42f4b5,Sing,Chassis,Rear Wing Drag,-0.0017,-0.0017
+0x2f988,0x42f987,Sing,Chassis,Rear Wing Drag,-0.0017,-0.0017
+0x2fe5f,0x42fe5e,Sing,Chassis,Rear Wing Drag,-0.0024,-0.0024
+0x30359,0x430358,Sing,Chassis,Rear Wing Drag,-0.0022,-0.0022
+0x30839,0x430838,Sing,Chassis,Rear Wing Drag,-0.0022,-0.0022
+0x30d12,0x430d11,Sing,Chassis,Rear Wing Drag,-0.0022,-0.0022
+0x311f4,0x4311f3,Sing,Chassis,Rear Wing Drag,-0.0022,-0.0022
+0x316d4,0x4316d3,Sing,Chassis,Rear Wing Drag,-0.0015,-0.0015
+0x31bbe,0x431bbd,Sing,Chassis,Rear Wing Drag,-0.0015,-0.0015
+0x3209e,0x43209d,Sing,Chassis,Rear Wing Drag,-0.0015,-0.0015
+0x3257c,0x43257b,Sing,Chassis,Rear Wing Drag,-0.0015,-0.0015
+0x32a5c,0x432a5b,Sing,Chassis,Rear Wing Drag,-0.0015,-0.0015
+0x2c42a,0x42c429,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x2c90a,0x42c909,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x2cde7,0x42cde6,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x2d2c7,0x42d2c6,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x2d7a0,0x42d79f,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x2dc72,0x42dc71,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x2e14a,0x42e149,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x2e62a,0x42e629,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x2eb07,0x42eb06,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x2efe7,0x42efe6,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x2f4c0,0x42f4bf,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x2f992,0x42f991,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x2fe69,0x42fe68,Sing,Chassis,??? Downforce,-0.011,-0.011
+0x30363,0x430362,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x30843,0x430842,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x30d1c,0x430d1b,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x311fe,0x4311fd,Sing,Chassis,??? Downforce,-0.01,-0.01
+0x316de,0x4316dd,Sing,Chassis,??? Downforce,-0.005,-0.005
+0x31bce,0x431bcd,Sing,Chassis,??? Downforce,-0.005,-0.005
+0x320ae,0x4320ad,Sing,Chassis,??? Downforce,-0.005,-0.005
+0x3258c,0x43258b,Sing,Chassis,??? Downforce,-0.005,-0.005
+0x32a6c,0x432a6b,Sing,Chassis,??? Downforce,-0.005,-0.005
+0x2c434,0x42c433,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x2c914,0x42c913,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x2cdf1,0x42cdf0,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x2d2d1,0x42d2d0,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x2d7aa,0x42d7a9,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x2dc7c,0x42dc7b,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x2e154,0x42e153,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x2e634,0x42e633,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x2eb11,0x42eb10,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x2eff1,0x42eff0,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x2f4ca,0x42f4c9,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x2f99c,0x42f99b,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x2fe73,0x42fe72,Sing,Chassis,??? Rear Downforce,-0.005,-0.005
+0x30373,0x430372,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x30853,0x430852,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x30d26,0x430d25,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x3120e,0x43120d,Sing,Chassis,??? Rear Downforce,-0.004,-0.004
+0x316fa,0x4316f9,Sing,Chassis,??? Rear Downforce,-0.003,-0.003
+0x31bd8,0x431bd7,Sing,Chassis,??? Rear Downforce,-0.003,-0.003
+0x320b8,0x4320b7,Sing,Chassis,??? Rear Downforce,-0.003,-0.003
+0x32596,0x432595,Sing,Chassis,??? Rear Downforce,-0.003,-0.003
+0x32a76,0x432a75,Sing,Chassis,??? Rear Downforce,-0.003,-0.003
+0x2c444,0x42c443,Sing,Chassis,???,1,1
+0x2c924,0x42c923,Sing,Chassis,???,1,1
+0x2cdfb,0x42cdfa,Sing,Chassis,???,1,1
+0x2d2db,0x42d2da,Sing,Chassis,???,1,1
+0x2d7b4,0x42d7b3,Sing,Chassis,???,1,1
+0x2dc86,0x42dc85,Sing,Chassis,???,1,1
+0x2e164,0x42e163,Sing,Chassis,???,1,1
+0x2e644,0x42e643,Sing,Chassis,???,1,1
+0x2eb1b,0x42eb1a,Sing,Chassis,???,1,1
+0x2effb,0x42effa,Sing,Chassis,???,1,1
+0x2f4d4,0x42f4d3,Sing,Chassis,???,1,1
+0x2f9a6,0x42f9a5,Sing,Chassis,???,1,1
+0x2fe8f,0x42fe8e,Sing,Chassis,???,1.35,1.35
+0x3037d,0x43037c,Sing,Chassis,???,1.35,1.35
+0x3085d,0x43085c,Sing,Chassis,???,1.35,1.35
+0x30d36,0x430d35,Sing,Chassis,???,1.35,1.35
+0x31218,0x431217,Sing,Chassis,???,1.35,1.35
+0x31704,0x431703,Sing,Chassis,???,0.9,0.9
+0x31be2,0x431be1,Sing,Chassis,???,0.9,0.9
+0x320c2,0x4320c1,Sing,Chassis,???,0.9,0.9
+0x325a0,0x43259f,Sing,Chassis,???,0.9,0.9
+0x32a80,0x432a7f,Sing,Chassis,???,0.9,0.9
+0x2c44e,0x42c44d,Sing,Chassis,???,1,1
+0x2c92e,0x42c92d,Sing,Chassis,???,1,1
+0x2ce0b,0x42ce0a,Sing,Chassis,???,1,1
+0x2d2eb,0x42d2ea,Sing,Chassis,???,1,1
+0x2d7be,0x42d7bd,Sing,Chassis,???,1,1
+0x2dc96,0x42dc95,Sing,Chassis,???,1,1
+0x2e16e,0x42e16d,Sing,Chassis,???,1,1
+0x2e64e,0x42e64d,Sing,Chassis,???,1,1
+0x2eb2b,0x42eb2a,Sing,Chassis,???,1,1
+0x2f00b,0x42f00a,Sing,Chassis,???,1,1
+0x2f4de,0x42f4dd,Sing,Chassis,???,1,1
+0x2f9b6,0x42f9b5,Sing,Chassis,???,1,1
+0x2fe99,0x42fe98,Sing,Chassis,???,1.15,1.15
+0x30387,0x430386,Sing,Chassis,???,1.15,1.15
+0x30867,0x430866,Sing,Chassis,???,1.15,1.15
+0x30d40,0x430d3f,Sing,Chassis,???,1.15,1.15
+0x31222,0x431221,Sing,Chassis,???,1.15,1.15
+0x3170e,0x43170d,Sing,Chassis,???,0.9,0.9
+0x31bec,0x431beb,Sing,Chassis,???,0.9,0.9
+0x320cc,0x4320cb,Sing,Chassis,???,0.9,0.9
+0x325aa,0x4325a9,Sing,Chassis,???,0.9,0.9
+0x32a8a,0x432a89,Sing,Chassis,???,0.9,0.9
+0x2c458,0x42c457,Sing,Chassis,???,0.07666666,0.07666666
+0x2c938,0x42c937,Sing,Chassis,???,0.07666666,0.07666666
+0x2ce15,0x42ce14,Sing,Chassis,???,0.08333333,0.08333333
+0x2d2f5,0x42d2f4,Sing,Chassis,???,0.09333333,0.09333333
+0x2d7ce,0x42d7cd,Sing,Chassis,???,0.09333333,0.09333333
+0x2dca0,0x42dc9f,Sing,Chassis,???,0.09333333,0.09333333
+0x2e178,0x42e177,Sing,Chassis,???,0.07666666,0.07666666
+0x2e658,0x42e657,Sing,Chassis,???,0.07666666,0.07666666
+0x2eb35,0x42eb34,Sing,Chassis,???,0.08333333,0.08333333
+0x2f015,0x42f014,Sing,Chassis,???,0.09333333,0.09333333
+0x2f4ee,0x42f4ed,Sing,Chassis,???,0.09333333,0.09333333
+0x2f9c0,0x42f9bf,Sing,Chassis,???,0.09333333,0.09333333
+0x2fea3,0x42fea2,Sing,Chassis,???,0.07666666,0.07666666
+0x30391,0x430390,Sing,Chassis,???,0.08333333,0.08333333
+0x30871,0x430870,Sing,Chassis,???,0.09333333,0.09333333
+0x30d4a,0x430d49,Sing,Chassis,???,0.09333333,0.09333333
+0x3122c,0x43122b,Sing,Chassis,???,0.09333333,0.09333333
+0x31718,0x431717,Sing,Chassis,???,0.07666666,0.07666666
+0x31bf6,0x431bf5,Sing,Chassis,???,0.08333333,0.08333333
+0x320d6,0x4320d5,Sing,Chassis,???,0.09333333,0.09333333
+0x325b4,0x4325b3,Sing,Chassis,???,0.09333333,0.09333333
+0x32a94,0x432a93,Sing,Chassis,???,0.09333333,0.09333333
+0x2c462,0x42c461,Sing,Chassis,???,-0.036,-0.036
+0x2c942,0x42c941,Sing,Chassis,???,-0.036,-0.036
+0x2ce1f,0x42ce1e,Sing,Chassis,???,-0.044,-0.044
+0x2d2ff,0x42d2fe,Sing,Chassis,???,-0.056,-0.056
+0x2d7d8,0x42d7d7,Sing,Chassis,???,-0.056,-0.056
+0x2dcaa,0x42dca9,Sing,Chassis,???,-0.044,-0.044
+0x2e182,0x42e181,Sing,Chassis,???,-0.036,-0.036
+0x2e662,0x42e661,Sing,Chassis,???,-0.036,-0.036
+0x2eb3f,0x42eb3e,Sing,Chassis,???,-0.044,-0.044
+0x2f01f,0x42f01e,Sing,Chassis,???,-0.056,-0.056
+0x2f4f8,0x42f4f7,Sing,Chassis,???,-0.056,-0.056
+0x2f9ca,0x42f9c9,Sing,Chassis,???,-0.044,-0.044
+0x2fead,0x42feac,Sing,Chassis,???,-0.036,-0.036
+0x3039b,0x43039a,Sing,Chassis,???,-0.044,-0.044
+0x3087b,0x43087a,Sing,Chassis,???,-0.056,-0.056
+0x30d54,0x430d53,Sing,Chassis,???,-0.056,-0.056
+0x31236,0x431235,Sing,Chassis,???,-0.044,-0.044
+0x31722,0x431721,Sing,Chassis,???,-0.036,-0.036
+0x31c00,0x431bff,Sing,Chassis,???,-0.044,-0.044
+0x320e0,0x4320df,Sing,Chassis,???,-0.056,-0.056
+0x325be,0x4325bd,Sing,Chassis,???,-0.056,-0.056
+0x32a9e,0x432a9d,Sing,Chassis,???,-0.044,-0.044
+0x2c46c,0x42c46b,Sing,Chassis,???,0.05,0.05
+0x2c94c,0x42c94b,Sing,Chassis,???,0.065,0.065
+0x2ce29,0x42ce28,Sing,Chassis,???,0.055,0.055
+0x2d309,0x42d308,Sing,Chassis,???,0.07,0.07
+0x2d7e2,0x42d7e1,Sing,Chassis,???,0.07,0.07
+0x2dcb4,0x42dcb3,Sing,Chassis,???,0.055,0.055
+0x2e18c,0x42e18b,Sing,Chassis,???,0.05,0.05
+0x2e66c,0x42e66b,Sing,Chassis,???,0.06,0.06
+0x2eb49,0x42eb48,Sing,Chassis,???,0.055,0.055
+0x2f029,0x42f028,Sing,Chassis,???,0.07,0.07
+0x2f502,0x42f501,Sing,Chassis,???,0.07,0.07
+0x2f9d4,0x42f9d3,Sing,Chassis,???,0.055,0.055
+0x2feb7,0x42feb6,Sing,Chassis,???,0.05,0.05
+0x303a5,0x4303a4,Sing,Chassis,???,0.055,0.055
+0x30885,0x430884,Sing,Chassis,???,0.07,0.07
+0x30d5e,0x430d5d,Sing,Chassis,???,0.07,0.07
+0x31240,0x43123f,Sing,Chassis,???,0.055,0.055
+0x3172c,0x43172b,Sing,Chassis,???,0.05,0.05
+0x31c0a,0x431c09,Sing,Chassis,???,0.055,0.055
+0x320ea,0x4320e9,Sing,Chassis,???,0.07,0.07
+0x325c8,0x4325c7,Sing,Chassis,???,0.07,0.07
+0x32aa8,0x432aa7,Sing,Chassis,???,0.055,0.055
+0x2c476,0x42c475,Sing,Chassis,???,0.125,0.125
+0x2c956,0x42c955,Sing,Chassis,???,0.125,0.125
+0x2ce33,0x42ce32,Sing,Chassis,???,0.125,0.125
+0x2d313,0x42d312,Sing,Chassis,???,0.125,0.125
+0x2d7ec,0x42d7eb,Sing,Chassis,???,0.125,0.125
+0x2dcbe,0x42dcbd,Sing,Chassis,???,0.125,0.125
+0x2e196,0x42e195,Sing,Chassis,???,0.125,0.125
+0x2e676,0x42e675,Sing,Chassis,???,0.125,0.125
+0x2eb53,0x42eb52,Sing,Chassis,???,0.125,0.125
+0x2f033,0x42f032,Sing,Chassis,???,0.125,0.125
+0x2f50c,0x42f50b,Sing,Chassis,???,0.125,0.125
+0x2f9de,0x42f9dd,Sing,Chassis,???,0.125,0.125
+0x2fec1,0x42fec0,Sing,Chassis,???,0.125,0.125
+0x303af,0x4303ae,Sing,Chassis,???,0.125,0.125
+0x3088f,0x43088e,Sing,Chassis,???,0.125,0.125
+0x30d68,0x430d67,Sing,Chassis,???,0.125,0.125
+0x3124a,0x431249,Sing,Chassis,???,0.125,0.125
+0x3173c,0x43173b,Sing,Chassis,???,0.1,0.1
+0x31c14,0x431c13,Sing,Chassis,???,0.1,0.1
+0x320f4,0x4320f3,Sing,Chassis,???,0.1,0.1
+0x325d2,0x4325d1,Sing,Chassis,???,0.1,0.1
+0x32ab2,0x432ab1,Sing,Chassis,???,0.1,0.1
+0x2c480,0x42c47f,Sing,Chassis,???,0.1,0.1
+0x2c960,0x42c95f,Sing,Chassis,???,0.1,0.1
+0x2ce3d,0x42ce3c,Sing,Chassis,???,0.0675,0.0675
+0x2d31d,0x42d31c,Sing,Chassis,???,0.0675,0.0675
+0x2d7f6,0x42d7f5,Sing,Chassis,???,0.1,0.1
+0x2dcc8,0x42dcc7,Sing,Chassis,???,0.0675,0.0675
+0x2e1a0,0x42e19f,Sing,Chassis,???,0.1,0.1
+0x2e680,0x42e67f,Sing,Chassis,???,0.1,0.1
+0x2eb5d,0x42eb5c,Sing,Chassis,???,0.0675,0.0675
+0x2f03d,0x42f03c,Sing,Chassis,???,0.0675,0.0675
+0x2f516,0x42f515,Sing,Chassis,???,0.1,0.1
+0x2f9e8,0x42f9e7,Sing,Chassis,???,0.0675,0.0675
+0x2fed1,0x42fed0,Sing,Chassis,???,0.1,0.1
+0x303b9,0x4303b8,Sing,Chassis,???,0.0675,0.0675
+0x30899,0x430898,Sing,Chassis,???,0.0675,0.0675
+0x30d72,0x430d71,Sing,Chassis,???,0.1,0.1
+0x31254,0x431253,Sing,Chassis,???,0.0675,0.0675
+0x31746,0x431745,Sing,Chassis,???,0.075,0.075
+0x31c1e,0x431c1d,Sing,Chassis,???,0.075,0.075
+0x320fe,0x4320fd,Sing,Chassis,???,0.075,0.075
+0x325dc,0x4325db,Sing,Chassis,???,0.075,0.075
+0x32abc,0x432abb,Sing,Chassis,???,0.075,0.075
+0x2c570,0x42c56f,Sing,Chassis,???,0,0
+0x2ca50,0x42ca4f,Sing,Chassis,???,0,0
+0x2cf2d,0x42cf2c,Sing,Chassis,???,0,0
+0x2d40d,0x42d40c,Sing,Chassis,???,0,0
+0x2d8e6,0x42d8e5,Sing,Chassis,???,0,0
+0x2ddb8,0x42ddb7,Sing,Chassis,???,0,0
+0x2e290,0x42e28f,Sing,Chassis,???,0,0
+0x2e770,0x42e76f,Sing,Chassis,???,0,0
+0x2ec4d,0x42ec4c,Sing,Chassis,???,0,0
+0x2f12d,0x42f12c,Sing,Chassis,???,0,0
+0x2f606,0x42f605,Sing,Chassis,???,0,0
+0x2fad8,0x42fad7,Sing,Chassis,???,0,0
+0x2ffc1,0x42ffc0,Sing,Chassis,???,0,0
+0x304a9,0x4304a8,Sing,Chassis,???,0,0
+0x30989,0x430988,Sing,Chassis,???,0,0
+0x30e62,0x430e61,Sing,Chassis,???,0,0
+0x31344,0x431343,Sing,Chassis,???,0,0
+0x31827,0x431826,Sing,Chassis,???,0,0
+0x31cff,0x431cfe,Sing,Chassis,???,0,0
+0x321df,0x4321de,Sing,Chassis,???,0,0
+0x326bd,0x4326bc,Sing,Chassis,???,0,0
+0x32b9d,0x432b9c,Sing,Chassis,???,0,0
+0x2c57a,0x42c579,Sing,Chassis,???,10000,10000
+0x2ca5a,0x42ca59,Sing,Chassis,???,10000,10000
+0x2cf37,0x42cf36,Sing,Chassis,???,10000,10000
+0x2d417,0x42d416,Sing,Chassis,???,10000,10000
+0x2d8f0,0x42d8ef,Sing,Chassis,???,10000,10000
+0x2ddc2,0x42ddc1,Sing,Chassis,???,10000,10000
+0x2e29a,0x42e299,Sing,Chassis,???,10000,10000
+0x2e77a,0x42e779,Sing,Chassis,???,10000,10000
+0x2ec57,0x42ec56,Sing,Chassis,???,10000,10000
+0x2f137,0x42f136,Sing,Chassis,???,10000,10000
+0x2f610,0x42f60f,Sing,Chassis,???,10000,10000
+0x2fae2,0x42fae1,Sing,Chassis,???,10000,10000
+0x2ffcb,0x42ffca,Sing,Chassis,???,10000,10000
+0x304b3,0x4304b2,Sing,Chassis,???,10000,10000
+0x30993,0x430992,Sing,Chassis,???,10000,10000
+0x30e6c,0x430e6b,Sing,Chassis,???,10000,10000
+0x3134e,0x43134d,Sing,Chassis,???,10000,10000
+0x31831,0x431830,Sing,Chassis,???,10000,10000
+0x31d09,0x431d08,Sing,Chassis,???,10000,10000
+0x321e9,0x4321e8,Sing,Chassis,???,10000,10000
+0x326c7,0x4326c6,Sing,Chassis,???,10000,10000
+0x32ba7,0x432ba6,Sing,Chassis,???,10000,10000
+0x2c584,0x42c583,Sing,Chassis,???,-116,-116
+0x2ca64,0x42ca63,Sing,Chassis,???,-116,-116
+0x2cf41,0x42cf40,Sing,Chassis,???,-116,-116
+0x2d421,0x42d420,Sing,Chassis,???,-116,-116
+0x2d8fa,0x42d8f9,Sing,Chassis,???,-116,-116
+0x2ddcc,0x42ddcb,Sing,Chassis,???,-116,-116
+0x2e2a4,0x42e2a3,Sing,Chassis,???,-116,-116
+0x2e784,0x42e783,Sing,Chassis,???,-116,-116
+0x2ec61,0x42ec60,Sing,Chassis,???,-116,-116
+0x2f141,0x42f140,Sing,Chassis,???,-116,-116
+0x2f61a,0x42f619,Sing,Chassis,???,-116,-116
+0x2faec,0x42faeb,Sing,Chassis,???,-116,-116
+0x2ffd5,0x42ffd4,Sing,Chassis,???,-116,-116
+0x304bd,0x4304bc,Sing,Chassis,???,-116,-116
+0x3099d,0x43099c,Sing,Chassis,???,-116,-116
+0x30e76,0x430e75,Sing,Chassis,???,-116,-116
+0x31358,0x431357,Sing,Chassis,???,-116,-116
+0x3183b,0x43183a,Sing,Chassis,???,-116,-116
+0x31d13,0x431d12,Sing,Chassis,???,-116,-116
+0x321f3,0x4321f2,Sing,Chassis,???,-116,-116
+0x326d1,0x4326d0,Sing,Chassis,???,-116,-116
+0x32bb1,0x432bb0,Sing,Chassis,???,-116,-116
+0x2c58e,0x42c58d,Sing,Chassis,???,141,141
+0x2ca6e,0x42ca6d,Sing,Chassis,???,141,141
+0x2cf4b,0x42cf4a,Sing,Chassis,???,141,141
+0x2d42b,0x42d42a,Sing,Chassis,???,141,141
+0x2d904,0x42d903,Sing,Chassis,???,141,141
+0x2ddd6,0x42ddd5,Sing,Chassis,???,141,141
+0x2e2ae,0x42e2ad,Sing,Chassis,???,141,141
+0x2e78e,0x42e78d,Sing,Chassis,???,141,141
+0x2ec6b,0x42ec6a,Sing,Chassis,???,141,141
+0x2f14b,0x42f14a,Sing,Chassis,???,141,141
+0x2f624,0x42f623,Sing,Chassis,???,141,141
+0x2faf6,0x42faf5,Sing,Chassis,???,141,141
+0x2ffdf,0x42ffde,Sing,Chassis,???,141,141
+0x304c7,0x4304c6,Sing,Chassis,???,141,141
+0x309a7,0x4309a6,Sing,Chassis,???,141,141
+0x30e80,0x430e7f,Sing,Chassis,???,141,141
+0x31362,0x431361,Sing,Chassis,???,141,141
+0x31845,0x431844,Sing,Chassis,???,141,141
+0x31d1d,0x431d1c,Sing,Chassis,???,141,141
+0x321fd,0x4321fc,Sing,Chassis,???,141,141
+0x326db,0x4326da,Sing,Chassis,???,141,141
+0x32bbb,0x432bba,Sing,Chassis,???,141,141
+0x2c598,0x42c597,Sing,Chassis,???,0,0
+0x2ca78,0x42ca77,Sing,Chassis,???,0,0
+0x2cf55,0x42cf54,Sing,Chassis,???,0,0
+0x2d435,0x42d434,Sing,Chassis,???,0,0
+0x2d90e,0x42d90d,Sing,Chassis,???,0,0
+0x2dde0,0x42dddf,Sing,Chassis,???,0,0
+0x2e2b8,0x42e2b7,Sing,Chassis,???,0,0
+0x2e798,0x42e797,Sing,Chassis,???,0,0
+0x2ec75,0x42ec74,Sing,Chassis,???,0,0
+0x2f155,0x42f154,Sing,Chassis,???,0,0
+0x2f62e,0x42f62d,Sing,Chassis,???,0,0
+0x2fb00,0x42faff,Sing,Chassis,???,0,0
+0x2ffe9,0x42ffe8,Sing,Chassis,???,0,0
+0x304d1,0x4304d0,Sing,Chassis,???,0,0
+0x309b1,0x4309b0,Sing,Chassis,???,0,0
+0x30e8a,0x430e89,Sing,Chassis,???,0,0
+0x3136c,0x43136b,Sing,Chassis,???,0,0
+0x3184f,0x43184e,Sing,Chassis,???,0,0
+0x31d27,0x431d26,Sing,Chassis,???,0,0
+0x32207,0x432206,Sing,Chassis,???,0,0
+0x326e5,0x4326e4,Sing,Chassis,???,0,0
+0x32bc5,0x432bc4,Sing,Chassis,???,0,0
+0x2c5a2,0x42c5a1,Sing,Chassis,???,10000,10000
+0x2ca82,0x42ca81,Sing,Chassis,???,10000,10000
+0x2cf5f,0x42cf5e,Sing,Chassis,???,10000,10000
+0x2d43f,0x42d43e,Sing,Chassis,???,10000,10000
+0x2d918,0x42d917,Sing,Chassis,???,10000,10000
+0x2ddea,0x42dde9,Sing,Chassis,???,10000,10000
+0x2e2c2,0x42e2c1,Sing,Chassis,???,10000,10000
+0x2e7a2,0x42e7a1,Sing,Chassis,???,10000,10000
+0x2ec7f,0x42ec7e,Sing,Chassis,???,10000,10000
+0x2f15f,0x42f15e,Sing,Chassis,???,10000,10000
+0x2f638,0x42f637,Sing,Chassis,???,10000,10000
+0x2fb0a,0x42fb09,Sing,Chassis,???,10000,10000
+0x2fff3,0x42fff2,Sing,Chassis,???,10000,10000
+0x304db,0x4304da,Sing,Chassis,???,10000,10000
+0x309bb,0x4309ba,Sing,Chassis,???,10000,10000
+0x30e94,0x430e93,Sing,Chassis,???,10000,10000
+0x31376,0x431375,Sing,Chassis,???,10000,10000
+0x31859,0x431858,Sing,Chassis,???,10000,10000
+0x31d31,0x431d30,Sing,Chassis,???,10000,10000
+0x32211,0x432210,Sing,Chassis,???,10000,10000
+0x326ef,0x4326ee,Sing,Chassis,???,10000,10000
+0x32bcf,0x432bce,Sing,Chassis,???,10000,10000
+0x2c5ac,0x42c5ab,Sing,Chassis,???,-116,-116
+0x2ca8c,0x42ca8b,Sing,Chassis,???,-116,-116
+0x2cf69,0x42cf68,Sing,Chassis,???,-116,-116
+0x2d449,0x42d448,Sing,Chassis,???,-116,-116
+0x2d922,0x42d921,Sing,Chassis,???,-116,-116
+0x2ddf4,0x42ddf3,Sing,Chassis,???,-116,-116
+0x2e2cc,0x42e2cb,Sing,Chassis,???,-116,-116
+0x2e7ac,0x42e7ab,Sing,Chassis,???,-116,-116
+0x2ec89,0x42ec88,Sing,Chassis,???,-116,-116
+0x2f169,0x42f168,Sing,Chassis,???,-116,-116
+0x2f642,0x42f641,Sing,Chassis,???,-116,-116
+0x2fb14,0x42fb13,Sing,Chassis,???,-116,-116
+0x2fffd,0x42fffc,Sing,Chassis,???,-116,-116
+0x304e5,0x4304e4,Sing,Chassis,???,-116,-116
+0x309c5,0x4309c4,Sing,Chassis,???,-116,-116
+0x30e9e,0x430e9d,Sing,Chassis,???,-116,-116
+0x31380,0x43137f,Sing,Chassis,???,-116,-116
+0x31863,0x431862,Sing,Chassis,???,-116,-116
+0x31d3b,0x431d3a,Sing,Chassis,???,-116,-116
+0x3221b,0x43221a,Sing,Chassis,???,-116,-116
+0x326f9,0x4326f8,Sing,Chassis,???,-116,-116
+0x32bd9,0x432bd8,Sing,Chassis,???,-116,-116
+0x2c5b6,0x42c5b5,Sing,Chassis,???,141,141
+0x2ca96,0x42ca95,Sing,Chassis,???,141,141
+0x2cf73,0x42cf72,Sing,Chassis,???,141,141
+0x2d453,0x42d452,Sing,Chassis,???,141,141
+0x2d92c,0x42d92b,Sing,Chassis,???,141,141
+0x2ddfe,0x42ddfd,Sing,Chassis,???,141,141
+0x2e2d6,0x42e2d5,Sing,Chassis,???,141,141
+0x2e7b6,0x42e7b5,Sing,Chassis,???,141,141
+0x2ec93,0x42ec92,Sing,Chassis,???,141,141
+0x2f173,0x42f172,Sing,Chassis,???,141,141
+0x2f64c,0x42f64b,Sing,Chassis,???,141,141
+0x2fb1e,0x42fb1d,Sing,Chassis,???,141,141
+0x30007,0x430006,Sing,Chassis,???,141,141
+0x304ef,0x4304ee,Sing,Chassis,???,141,141
+0x309cf,0x4309ce,Sing,Chassis,???,141,141
+0x30ea8,0x430ea7,Sing,Chassis,???,141,141
+0x3138a,0x431389,Sing,Chassis,???,141,141
+0x3186d,0x43186c,Sing,Chassis,???,141,141
+0x31d45,0x431d44,Sing,Chassis,???,141,141
+0x32225,0x432224,Sing,Chassis,???,141,141
+0x32703,0x432702,Sing,Chassis,???,141,141
+0x32be3,0x432be2,Sing,Chassis,???,141,141
+0x2c5c0,0x42c5bf,Sing,Chassis,???,0,0
+0x2caa0,0x42ca9f,Sing,Chassis,???,0,0
+0x2cf7d,0x42cf7c,Sing,Chassis,???,0,0
+0x2d45d,0x42d45c,Sing,Chassis,???,0,0
+0x2d936,0x42d935,Sing,Chassis,???,0,0
+0x2de08,0x42de07,Sing,Chassis,???,0,0
+0x2e2e0,0x42e2df,Sing,Chassis,???,0,0
+0x2e7c0,0x42e7bf,Sing,Chassis,???,0,0
+0x2ec9d,0x42ec9c,Sing,Chassis,???,0,0
+0x2f17d,0x42f17c,Sing,Chassis,???,0,0
+0x2f656,0x42f655,Sing,Chassis,???,0,0
+0x2fb28,0x42fb27,Sing,Chassis,???,0,0
+0x30011,0x430010,Sing,Chassis,???,0,0
+0x304f9,0x4304f8,Sing,Chassis,???,0,0
+0x309d9,0x4309d8,Sing,Chassis,???,0,0
+0x30eb2,0x430eb1,Sing,Chassis,???,0,0
+0x31394,0x431393,Sing,Chassis,???,0,0
+0x31877,0x431876,Sing,Chassis,???,0,0
+0x31d4f,0x431d4e,Sing,Chassis,???,0,0
+0x3222f,0x43222e,Sing,Chassis,???,0,0
+0x3270d,0x43270c,Sing,Chassis,???,0,0
+0x32bed,0x432bec,Sing,Chassis,???,0,0
+0x2c5ca,0x42c5c9,Sing,Chassis,???,1.08,1.08
+0x2caaa,0x42caa9,Sing,Chassis,???,1.08,1.08
+0x2cf87,0x42cf86,Sing,Chassis,???,1.08,1.08
+0x2d467,0x42d466,Sing,Chassis,???,1.08,1.08
+0x2d940,0x42d93f,Sing,Chassis,???,1.08,1.08
+0x2de12,0x42de11,Sing,Chassis,???,1.08,1.08
+0x2e2ea,0x42e2e9,Sing,Chassis,???,1.08,1.08
+0x2e7ca,0x42e7c9,Sing,Chassis,???,1.08,1.08
+0x2eca7,0x42eca6,Sing,Chassis,???,1.08,1.08
+0x2f187,0x42f186,Sing,Chassis,???,1.08,1.08
+0x2f660,0x42f65f,Sing,Chassis,???,1.08,1.08
+0x2fb32,0x42fb31,Sing,Chassis,???,1.08,1.08
+0x3001b,0x43001a,Sing,Chassis,???,1.08,1.08
+0x30503,0x430502,Sing,Chassis,???,1.08,1.08
+0x309e3,0x4309e2,Sing,Chassis,???,1.08,1.08
+0x30ebc,0x430ebb,Sing,Chassis,???,1.08,1.08
+0x3139e,0x43139d,Sing,Chassis,???,1.08,1.08
+0x31881,0x431880,Sing,Chassis,???,1.08,1.08
+0x31d59,0x431d58,Sing,Chassis,???,1.08,1.08
+0x32239,0x432238,Sing,Chassis,???,1.08,1.08
+0x32717,0x432716,Sing,Chassis,???,1.08,1.08
+0x32bf7,0x432bf6,Sing,Chassis,???,1.08,1.08
+0x2c5d4,0x42c5d3,Sing,Chassis,???,-40,-40
+0x2cab4,0x42cab3,Sing,Chassis,???,-40,-40
+0x2cf91,0x42cf90,Sing,Chassis,???,-40,-40
+0x2d471,0x42d470,Sing,Chassis,???,-40,-40
+0x2d94a,0x42d949,Sing,Chassis,???,-40,-40
+0x2de1c,0x42de1b,Sing,Chassis,???,-40,-40
+0x2e2f4,0x42e2f3,Sing,Chassis,???,-40,-40
+0x2e7d4,0x42e7d3,Sing,Chassis,???,-40,-40
+0x2ecb1,0x42ecb0,Sing,Chassis,???,-40,-40
+0x2f191,0x42f190,Sing,Chassis,???,-40,-40
+0x2f66a,0x42f669,Sing,Chassis,???,-40,-40
+0x2fb3c,0x42fb3b,Sing,Chassis,???,-40,-40
+0x30025,0x430024,Sing,Chassis,???,-40,-40
+0x3050d,0x43050c,Sing,Chassis,???,-40,-40
+0x309ed,0x4309ec,Sing,Chassis,???,-40,-40
+0x30ec6,0x430ec5,Sing,Chassis,???,-40,-40
+0x313a8,0x4313a7,Sing,Chassis,???,-40,-40
+0x3188b,0x43188a,Sing,Chassis,???,-40,-40
+0x31d63,0x431d62,Sing,Chassis,???,-40,-40
+0x32243,0x432242,Sing,Chassis,???,-40,-40
+0x32721,0x432720,Sing,Chassis,???,-40,-40
+0x32c01,0x432c00,Sing,Chassis,???,-40,-40
+0x2c5de,0x42c5dd,Sing,Chassis,???,220,220
+0x2cabe,0x42cabd,Sing,Chassis,???,220,220
+0x2cf9b,0x42cf9a,Sing,Chassis,???,220,220
+0x2d47b,0x42d47a,Sing,Chassis,???,220,220
+0x2d954,0x42d953,Sing,Chassis,???,220,220
+0x2de26,0x42de25,Sing,Chassis,???,220,220
+0x2e2fe,0x42e2fd,Sing,Chassis,???,220,220
+0x2e7de,0x42e7dd,Sing,Chassis,???,220,220
+0x2ecbb,0x42ecba,Sing,Chassis,???,220,220
+0x2f19b,0x42f19a,Sing,Chassis,???,220,220
+0x2f674,0x42f673,Sing,Chassis,???,220,220
+0x2fb46,0x42fb45,Sing,Chassis,???,220,220
+0x3002f,0x43002e,Sing,Chassis,???,220,220
+0x30517,0x430516,Sing,Chassis,???,220,220
+0x309f7,0x4309f6,Sing,Chassis,???,220,220
+0x30ed0,0x430ecf,Sing,Chassis,???,220,220
+0x313b2,0x4313b1,Sing,Chassis,???,220,220
+0x31895,0x431894,Sing,Chassis,???,220,220
+0x31d6d,0x431d6c,Sing,Chassis,???,220,220
+0x3224d,0x43224c,Sing,Chassis,???,220,220
+0x3272b,0x43272a,Sing,Chassis,???,220,220
+0x32c0b,0x432c0a,Sing,Chassis,???,220,220
+0x2c5e8,0x42c5e7,Sing,Chassis,???,60,60
+0x2cac8,0x42cac7,Sing,Chassis,???,60,60
+0x2cfa5,0x42cfa4,Sing,Chassis,???,60,60
+0x2d485,0x42d484,Sing,Chassis,???,60,60
+0x2d95e,0x42d95d,Sing,Chassis,???,60,60
+0x2de30,0x42de2f,Sing,Chassis,???,60,60
+0x2e308,0x42e307,Sing,Chassis,???,60,60
+0x2e7e8,0x42e7e7,Sing,Chassis,???,60,60
+0x2ecc5,0x42ecc4,Sing,Chassis,???,60,60
+0x2f1a5,0x42f1a4,Sing,Chassis,???,60,60
+0x2f67e,0x42f67d,Sing,Chassis,???,60,60
+0x2fb50,0x42fb4f,Sing,Chassis,???,60,60
+0x30039,0x430038,Sing,Chassis,???,60,60
+0x30521,0x430520,Sing,Chassis,???,60,60
+0x30a01,0x430a00,Sing,Chassis,???,60,60
+0x30eda,0x430ed9,Sing,Chassis,???,60,60
+0x313bc,0x4313bb,Sing,Chassis,???,60,60
+0x3189f,0x43189e,Sing,Chassis,???,60,60
+0x31d77,0x431d76,Sing,Chassis,???,60,60
+0x32257,0x432256,Sing,Chassis,???,60,60
+0x32735,0x432734,Sing,Chassis,???,60,60
+0x32c15,0x432c14,Sing,Chassis,???,60,60
+0x2c5f2,0x42c5f1,Sing,Chassis,???,127,127
+0x2cad2,0x42cad1,Sing,Chassis,???,127,127
+0x2cfaf,0x42cfae,Sing,Chassis,???,127,127
+0x2d48f,0x42d48e,Sing,Chassis,???,127,127
+0x2d968,0x42d967,Sing,Chassis,???,127,127
+0x2de3a,0x42de39,Sing,Chassis,???,127,127
+0x2e312,0x42e311,Sing,Chassis,???,127,127
+0x2e7f2,0x42e7f1,Sing,Chassis,???,127,127
+0x2eccf,0x42ecce,Sing,Chassis,???,127,127
+0x2f1af,0x42f1ae,Sing,Chassis,???,127,127
+0x2f688,0x42f687,Sing,Chassis,???,127,127
+0x2fb5a,0x42fb59,Sing,Chassis,???,127,127
+0x30043,0x430042,Sing,Chassis,???,127,127
+0x3052b,0x43052a,Sing,Chassis,???,127,127
+0x30a0b,0x430a0a,Sing,Chassis,???,127,127
+0x30ee4,0x430ee3,Sing,Chassis,???,127,127
+0x313c6,0x4313c5,Sing,Chassis,???,127,127
+0x318a9,0x4318a8,Sing,Chassis,???,127,127
+0x31d81,0x431d80,Sing,Chassis,???,127,127
+0x32261,0x432260,Sing,Chassis,???,127,127
+0x3273f,0x43273e,Sing,Chassis,???,127,127
+0x32c1f,0x432c1e,Sing,Chassis,???,127,127
+0x2c5fc,0x42c5fb,Sing,Chassis,???,-40,-40
+0x2cadc,0x42cadb,Sing,Chassis,???,-40,-40
+0x2cfb9,0x42cfb8,Sing,Chassis,???,-40,-40
+0x2d499,0x42d498,Sing,Chassis,???,-40,-40
+0x2d972,0x42d971,Sing,Chassis,???,-40,-40
+0x2de44,0x42de43,Sing,Chassis,???,-40,-40
+0x2e31c,0x42e31b,Sing,Chassis,???,-40,-40
+0x2e7fc,0x42e7fb,Sing,Chassis,???,-40,-40
+0x2ecd9,0x42ecd8,Sing,Chassis,???,-40,-40
+0x2f1b9,0x42f1b8,Sing,Chassis,???,-40,-40
+0x2f692,0x42f691,Sing,Chassis,???,-40,-40
+0x2fb64,0x42fb63,Sing,Chassis,???,-40,-40
+0x3004d,0x43004c,Sing,Chassis,???,-40,-40
+0x30535,0x430534,Sing,Chassis,???,-40,-40
+0x30a15,0x430a14,Sing,Chassis,???,-40,-40
+0x30eee,0x430eed,Sing,Chassis,???,-40,-40
+0x313d0,0x4313cf,Sing,Chassis,???,-40,-40
+0x318b3,0x4318b2,Sing,Chassis,???,-40,-40
+0x31d8b,0x431d8a,Sing,Chassis,???,-40,-40
+0x3226b,0x43226a,Sing,Chassis,???,-40,-40
+0x32749,0x432748,Sing,Chassis,???,-40,-40
+0x32c29,0x432c28,Sing,Chassis,???,-40,-40
+0x2c606,0x42c605,Sing,Chassis,???,220,220
+0x2cae6,0x42cae5,Sing,Chassis,???,220,220
+0x2cfc3,0x42cfc2,Sing,Chassis,???,220,220
+0x2d4a3,0x42d4a2,Sing,Chassis,???,220,220
+0x2d97c,0x42d97b,Sing,Chassis,???,220,220
+0x2de4e,0x42de4d,Sing,Chassis,???,220,220
+0x2e326,0x42e325,Sing,Chassis,???,220,220
+0x2e806,0x42e805,Sing,Chassis,???,220,220
+0x2ece3,0x42ece2,Sing,Chassis,???,220,220
+0x2f1c3,0x42f1c2,Sing,Chassis,???,220,220
+0x2f69c,0x42f69b,Sing,Chassis,???,220,220
+0x2fb6e,0x42fb6d,Sing,Chassis,???,220,220
+0x30057,0x430056,Sing,Chassis,???,220,220
+0x3053f,0x43053e,Sing,Chassis,???,220,220
+0x30a1f,0x430a1e,Sing,Chassis,???,220,220
+0x30ef8,0x430ef7,Sing,Chassis,???,220,220
+0x313da,0x4313d9,Sing,Chassis,???,220,220
+0x318bd,0x4318bc,Sing,Chassis,???,220,220
+0x31d95,0x431d94,Sing,Chassis,???,220,220
+0x32275,0x432274,Sing,Chassis,???,220,220
+0x32753,0x432752,Sing,Chassis,???,220,220
+0x32c33,0x432c32,Sing,Chassis,???,220,220
+0x2c610,0x42c60f,Sing,Chassis,???,60,60
+0x2caf0,0x42caef,Sing,Chassis,???,60,60
+0x2cfcd,0x42cfcc,Sing,Chassis,???,60,60
+0x2d4ad,0x42d4ac,Sing,Chassis,???,60,60
+0x2d986,0x42d985,Sing,Chassis,???,60,60
+0x2de58,0x42de57,Sing,Chassis,???,60,60
+0x2e330,0x42e32f,Sing,Chassis,???,60,60
+0x2e810,0x42e80f,Sing,Chassis,???,60,60
+0x2eced,0x42ecec,Sing,Chassis,???,60,60
+0x2f1cd,0x42f1cc,Sing,Chassis,???,60,60
+0x2f6a6,0x42f6a5,Sing,Chassis,???,60,60
+0x2fb78,0x42fb77,Sing,Chassis,???,60,60
+0x30061,0x430060,Sing,Chassis,???,60,60
+0x30549,0x430548,Sing,Chassis,???,60,60
+0x30a29,0x430a28,Sing,Chassis,???,60,60
+0x30f02,0x430f01,Sing,Chassis,???,60,60
+0x313e4,0x4313e3,Sing,Chassis,???,60,60
+0x318c7,0x4318c6,Sing,Chassis,???,60,60
+0x31d9f,0x431d9e,Sing,Chassis,???,60,60
+0x3227f,0x43227e,Sing,Chassis,???,60,60
+0x3275d,0x43275c,Sing,Chassis,???,60,60
+0x32c3d,0x432c3c,Sing,Chassis,???,60,60
+0x2c61a,0x42c619,Sing,Chassis,???,127,127
+0x2cafa,0x42caf9,Sing,Chassis,???,127,127
+0x2cfd7,0x42cfd6,Sing,Chassis,???,127,127
+0x2d4b7,0x42d4b6,Sing,Chassis,???,127,127
+0x2d990,0x42d98f,Sing,Chassis,???,127,127
+0x2de62,0x42de61,Sing,Chassis,???,127,127
+0x2e33a,0x42e339,Sing,Chassis,???,127,127
+0x2e81a,0x42e819,Sing,Chassis,???,127,127
+0x2ecf7,0x42ecf6,Sing,Chassis,???,127,127
+0x2f1d7,0x42f1d6,Sing,Chassis,???,127,127
+0x2f6b0,0x42f6af,Sing,Chassis,???,127,127
+0x2fb82,0x42fb81,Sing,Chassis,???,127,127
+0x3006b,0x43006a,Sing,Chassis,???,127,127
+0x30553,0x430552,Sing,Chassis,???,127,127
+0x30a33,0x430a32,Sing,Chassis,???,127,127
+0x30f0c,0x430f0b,Sing,Chassis,???,127,127
+0x313ee,0x4313ed,Sing,Chassis,???,127,127
+0x318d1,0x4318d0,Sing,Chassis,???,127,127
+0x31da9,0x431da8,Sing,Chassis,???,127,127
+0x32289,0x432288,Sing,Chassis,???,127,127
+0x32767,0x432766,Sing,Chassis,???,127,127
+0x32c47,0x432c46,Sing,Chassis,???,127,127
+0x2c624,0x42c623,Sing,Chassis,???,-40,-40
+0x2cb04,0x42cb03,Sing,Chassis,???,-40,-40
+0x2cfe1,0x42cfe0,Sing,Chassis,???,-40,-40
+0x2d4c1,0x42d4c0,Sing,Chassis,???,-40,-40
+0x2d99a,0x42d999,Sing,Chassis,???,-40,-40
+0x2de6c,0x42de6b,Sing,Chassis,???,-40,-40
+0x2e344,0x42e343,Sing,Chassis,???,-40,-40
+0x2e824,0x42e823,Sing,Chassis,???,-40,-40
+0x2ed01,0x42ed00,Sing,Chassis,???,-40,-40
+0x2f1e1,0x42f1e0,Sing,Chassis,???,-40,-40
+0x2f6ba,0x42f6b9,Sing,Chassis,???,-40,-40
+0x2fb8c,0x42fb8b,Sing,Chassis,???,-40,-40
+0x30075,0x430074,Sing,Chassis,???,-40,-40
+0x3055d,0x43055c,Sing,Chassis,???,-40,-40
+0x30a3d,0x430a3c,Sing,Chassis,???,-40,-40
+0x30f16,0x430f15,Sing,Chassis,???,-40,-40
+0x313f8,0x4313f7,Sing,Chassis,???,-40,-40
+0x318db,0x4318da,Sing,Chassis,???,-40,-40
+0x31db3,0x431db2,Sing,Chassis,???,-40,-40
+0x32293,0x432292,Sing,Chassis,???,-40,-40
+0x32771,0x432770,Sing,Chassis,???,-40,-40
+0x32c51,0x432c50,Sing,Chassis,???,-40,-40
+0x2c62e,0x42c62d,Sing,Chassis,???,220,220
+0x2cb0e,0x42cb0d,Sing,Chassis,???,220,220
+0x2cfeb,0x42cfea,Sing,Chassis,???,220,220
+0x2d4cb,0x42d4ca,Sing,Chassis,???,220,220
+0x2d9a4,0x42d9a3,Sing,Chassis,???,220,220
+0x2de76,0x42de75,Sing,Chassis,???,220,220
+0x2e34e,0x42e34d,Sing,Chassis,???,220,220
+0x2e82e,0x42e82d,Sing,Chassis,???,220,220
+0x2ed0b,0x42ed0a,Sing,Chassis,???,220,220
+0x2f1eb,0x42f1ea,Sing,Chassis,???,220,220
+0x2f6c4,0x42f6c3,Sing,Chassis,???,220,220
+0x2fb96,0x42fb95,Sing,Chassis,???,220,220
+0x3007f,0x43007e,Sing,Chassis,???,220,220
+0x30567,0x430566,Sing,Chassis,???,220,220
+0x30a47,0x430a46,Sing,Chassis,???,220,220
+0x30f20,0x430f1f,Sing,Chassis,???,220,220
+0x31402,0x431401,Sing,Chassis,???,220,220
+0x318e5,0x4318e4,Sing,Chassis,???,220,220
+0x31dbd,0x431dbc,Sing,Chassis,???,220,220
+0x3229d,0x43229c,Sing,Chassis,???,220,220
+0x3277b,0x43277a,Sing,Chassis,???,220,220
+0x32c5b,0x432c5a,Sing,Chassis,???,220,220
+0x2c638,0x42c637,Sing,Chassis,???,0.5,0.5
+0x2cb18,0x42cb17,Sing,Chassis,???,0.5,0.5
+0x2cff5,0x42cff4,Sing,Chassis,???,0.5,0.5
+0x2d4d5,0x42d4d4,Sing,Chassis,???,0.5,0.5
+0x2d9ae,0x42d9ad,Sing,Chassis,???,0.5,0.5
+0x2de80,0x42de7f,Sing,Chassis,???,0.5,0.5
+0x2e358,0x42e357,Sing,Chassis,???,0.5,0.5
+0x2e838,0x42e837,Sing,Chassis,???,0.5,0.5
+0x2ed15,0x42ed14,Sing,Chassis,???,0.5,0.5
+0x2f1f5,0x42f1f4,Sing,Chassis,???,0.5,0.5
+0x2f6ce,0x42f6cd,Sing,Chassis,???,0.5,0.5
+0x2fba0,0x42fb9f,Sing,Chassis,???,0.5,0.5
+0x30089,0x430088,Sing,Chassis,???,0.5,0.5
+0x30571,0x430570,Sing,Chassis,???,0.5,0.5
+0x30a51,0x430a50,Sing,Chassis,???,0.5,0.5
+0x30f2a,0x430f29,Sing,Chassis,???,0.5,0.5
+0x3140c,0x43140b,Sing,Chassis,???,0.5,0.5
+0x318ef,0x4318ee,Sing,Chassis,???,0.5,0.5
+0x31dc7,0x431dc6,Sing,Chassis,???,0.5,0.5
+0x322a7,0x4322a6,Sing,Chassis,???,0.5,0.5
+0x32785,0x432784,Sing,Chassis,???,0.5,0.5
+0x32c65,0x432c64,Sing,Chassis,???,0.5,0.5
+0x2c642,0x42c641,Sing,Chassis,???,6.5,6.5
+0x2cb22,0x42cb21,Sing,Chassis,???,6.5,6.5
+0x2cfff,0x42cffe,Sing,Chassis,???,6.5,6.5
+0x2d4df,0x42d4de,Sing,Chassis,???,6.5,6.5
+0x2d9b8,0x42d9b7,Sing,Chassis,???,6.5,6.5
+0x2de8a,0x42de89,Sing,Chassis,???,6.5,6.5
+0x2e362,0x42e361,Sing,Chassis,???,6.5,6.5
+0x2e842,0x42e841,Sing,Chassis,???,6.5,6.5
+0x2ed1f,0x42ed1e,Sing,Chassis,???,6.5,6.5
+0x2f1ff,0x42f1fe,Sing,Chassis,???,6.5,6.5
+0x2f6d8,0x42f6d7,Sing,Chassis,???,6.5,6.5
+0x2fbaa,0x42fba9,Sing,Chassis,???,6.5,6.5
+0x30093,0x430092,Sing,Chassis,???,6.5,6.5
+0x3057b,0x43057a,Sing,Chassis,???,6.5,6.5
+0x30a5b,0x430a5a,Sing,Chassis,???,6.5,6.5
+0x30f34,0x430f33,Sing,Chassis,???,6.5,6.5
+0x31416,0x431415,Sing,Chassis,???,6.5,6.5
+0x318f9,0x4318f8,Sing,Chassis,???,6.5,6.5
+0x31dd1,0x431dd0,Sing,Chassis,???,6.5,6.5
+0x322b1,0x4322b0,Sing,Chassis,???,6.5,6.5
+0x3278f,0x43278e,Sing,Chassis,???,6.5,6.5
+0x32c6f,0x432c6e,Sing,Chassis,???,6.5,6.5
+0x2c64c,0x42c64b,Sing,Chassis,???,-40,-40
+0x2cb2c,0x42cb2b,Sing,Chassis,???,-40,-40
+0x2d009,0x42d008,Sing,Chassis,???,-40,-40
+0x2d4e9,0x42d4e8,Sing,Chassis,???,-40,-40
+0x2d9c2,0x42d9c1,Sing,Chassis,???,-40,-40
+0x2de94,0x42de93,Sing,Chassis,???,-40,-40
+0x2e36c,0x42e36b,Sing,Chassis,???,-40,-40
+0x2e84c,0x42e84b,Sing,Chassis,???,-40,-40
+0x2ed29,0x42ed28,Sing,Chassis,???,-40,-40
+0x2f209,0x42f208,Sing,Chassis,???,-40,-40
+0x2f6e2,0x42f6e1,Sing,Chassis,???,-40,-40
+0x2fbb4,0x42fbb3,Sing,Chassis,???,-40,-40
+0x3009d,0x43009c,Sing,Chassis,???,-40,-40
+0x30585,0x430584,Sing,Chassis,???,-40,-40
+0x30a65,0x430a64,Sing,Chassis,???,-40,-40
+0x30f3e,0x430f3d,Sing,Chassis,???,-40,-40
+0x31420,0x43141f,Sing,Chassis,???,-40,-40
+0x31903,0x431902,Sing,Chassis,???,-40,-40
+0x31ddb,0x431dda,Sing,Chassis,???,-40,-40
+0x322bb,0x4322ba,Sing,Chassis,???,-40,-40
+0x32799,0x432798,Sing,Chassis,???,-40,-40
+0x32c79,0x432c78,Sing,Chassis,???,-40,-40
+0x2c656,0x42c655,Sing,Chassis,???,220,220
+0x2cb36,0x42cb35,Sing,Chassis,???,220,220
+0x2d013,0x42d012,Sing,Chassis,???,220,220
+0x2d4f3,0x42d4f2,Sing,Chassis,???,220,220
+0x2d9cc,0x42d9cb,Sing,Chassis,???,220,220
+0x2de9e,0x42de9d,Sing,Chassis,???,220,220
+0x2e376,0x42e375,Sing,Chassis,???,220,220
+0x2e856,0x42e855,Sing,Chassis,???,220,220
+0x2ed33,0x42ed32,Sing,Chassis,???,220,220
+0x2f213,0x42f212,Sing,Chassis,???,220,220
+0x2f6ec,0x42f6eb,Sing,Chassis,???,220,220
+0x2fbbe,0x42fbbd,Sing,Chassis,???,220,220
+0x300a7,0x4300a6,Sing,Chassis,???,220,220
+0x3058f,0x43058e,Sing,Chassis,???,220,220
+0x30a6f,0x430a6e,Sing,Chassis,???,220,220
+0x30f48,0x430f47,Sing,Chassis,???,220,220
+0x3142a,0x431429,Sing,Chassis,???,220,220
+0x3190d,0x43190c,Sing,Chassis,???,220,220
+0x31de5,0x431de4,Sing,Chassis,???,220,220
+0x322c5,0x4322c4,Sing,Chassis,???,220,220
+0x327a3,0x4327a2,Sing,Chassis,???,220,220
+0x32c83,0x432c82,Sing,Chassis,???,220,220
+0x2c660,0x42c65f,Sing,Chassis,???,0,0
+0x2cb40,0x42cb3f,Sing,Chassis,???,0,0
+0x2d01d,0x42d01c,Sing,Chassis,???,0,0
+0x2d4fd,0x42d4fc,Sing,Chassis,???,0,0
+0x2d9d6,0x42d9d5,Sing,Chassis,???,0,0
+0x2dea8,0x42dea7,Sing,Chassis,???,0,0
+0x2e380,0x42e37f,Sing,Chassis,???,0,0
+0x2e860,0x42e85f,Sing,Chassis,???,0,0
+0x2ed3d,0x42ed3c,Sing,Chassis,???,0,0
+0x2f21d,0x42f21c,Sing,Chassis,???,0,0
+0x2f6f6,0x42f6f5,Sing,Chassis,???,0,0
+0x2fbc8,0x42fbc7,Sing,Chassis,???,0,0
+0x300b1,0x4300b0,Sing,Chassis,???,0,0
+0x30599,0x430598,Sing,Chassis,???,0,0
+0x30a79,0x430a78,Sing,Chassis,???,0,0
+0x30f52,0x430f51,Sing,Chassis,???,0,0
+0x31434,0x431433,Sing,Chassis,???,0,0
+0x31917,0x431916,Sing,Chassis,???,0,0
+0x31def,0x431dee,Sing,Chassis,???,0,0
+0x322cf,0x4322ce,Sing,Chassis,???,0,0
+0x327ad,0x4327ac,Sing,Chassis,???,0,0
+0x32c8d,0x432c8c,Sing,Chassis,???,0,0
+0x2c66a,0x42c669,Sing,Chassis,???,27,27
+0x2cb4a,0x42cb49,Sing,Chassis,???,27,27
+0x2d027,0x42d026,Sing,Chassis,???,27,27
+0x2d507,0x42d506,Sing,Chassis,???,27,27
+0x2d9e0,0x42d9df,Sing,Chassis,???,27,27
+0x2deb2,0x42deb1,Sing,Chassis,???,27,27
+0x2e38a,0x42e389,Sing,Chassis,???,27,27
+0x2e86a,0x42e869,Sing,Chassis,???,27,27
+0x2ed47,0x42ed46,Sing,Chassis,???,27,27
+0x2f227,0x42f226,Sing,Chassis,???,27,27
+0x2f700,0x42f6ff,Sing,Chassis,???,27,27
+0x2fbd2,0x42fbd1,Sing,Chassis,???,27,27
+0x300bb,0x4300ba,Sing,Chassis,???,27,27
+0x305a3,0x4305a2,Sing,Chassis,???,27,27
+0x30a83,0x430a82,Sing,Chassis,???,27,27
+0x30f5c,0x430f5b,Sing,Chassis,???,27,27
+0x3143e,0x43143d,Sing,Chassis,???,27,27
+0x31921,0x431920,Sing,Chassis,???,27,27
+0x31df9,0x431df8,Sing,Chassis,???,27,27
+0x322d9,0x4322d8,Sing,Chassis,???,27,27
+0x327b7,0x4327b6,Sing,Chassis,???,27,27
+0x32c97,0x432c96,Sing,Chassis,???,27,27
+0x2c674,0x42c673,Sing,Chassis,???,-40,-40
+0x2cb54,0x42cb53,Sing,Chassis,???,-40,-40
+0x2d031,0x42d030,Sing,Chassis,???,-40,-40
+0x2d511,0x42d510,Sing,Chassis,???,-40,-40
+0x2d9ea,0x42d9e9,Sing,Chassis,???,-40,-40
+0x2debc,0x42debb,Sing,Chassis,???,-40,-40
+0x2e394,0x42e393,Sing,Chassis,???,-40,-40
+0x2e874,0x42e873,Sing,Chassis,???,-40,-40
+0x2ed51,0x42ed50,Sing,Chassis,???,-40,-40
+0x2f231,0x42f230,Sing,Chassis,???,-40,-40
+0x2f70a,0x42f709,Sing,Chassis,???,-40,-40
+0x2fbdc,0x42fbdb,Sing,Chassis,???,-40,-40
+0x300c5,0x4300c4,Sing,Chassis,???,-40,-40
+0x305ad,0x4305ac,Sing,Chassis,???,-40,-40
+0x30a8d,0x430a8c,Sing,Chassis,???,-40,-40
+0x30f66,0x430f65,Sing,Chassis,???,-40,-40
+0x31448,0x431447,Sing,Chassis,???,-40,-40
+0x3192b,0x43192a,Sing,Chassis,???,-40,-40
+0x31e03,0x431e02,Sing,Chassis,???,-40,-40
+0x322e3,0x4322e2,Sing,Chassis,???,-40,-40
+0x327c1,0x4327c0,Sing,Chassis,???,-40,-40
+0x32ca1,0x432ca0,Sing,Chassis,???,-40,-40
+0x2c67e,0x42c67d,Sing,Chassis,???,220,220
+0x2cb5e,0x42cb5d,Sing,Chassis,???,220,220
+0x2d03b,0x42d03a,Sing,Chassis,???,220,220
+0x2d51b,0x42d51a,Sing,Chassis,???,220,220
+0x2d9f4,0x42d9f3,Sing,Chassis,???,220,220
+0x2dec6,0x42dec5,Sing,Chassis,???,220,220
+0x2e39e,0x42e39d,Sing,Chassis,???,220,220
+0x2e87e,0x42e87d,Sing,Chassis,???,220,220
+0x2ed5b,0x42ed5a,Sing,Chassis,???,220,220
+0x2f23b,0x42f23a,Sing,Chassis,???,220,220
+0x2f714,0x42f713,Sing,Chassis,???,220,220
+0x2fbe6,0x42fbe5,Sing,Chassis,???,220,220
+0x300cf,0x4300ce,Sing,Chassis,???,220,220
+0x305b7,0x4305b6,Sing,Chassis,???,220,220
+0x30a97,0x430a96,Sing,Chassis,???,220,220
+0x30f70,0x430f6f,Sing,Chassis,???,220,220
+0x31452,0x431451,Sing,Chassis,???,220,220
+0x31935,0x431934,Sing,Chassis,???,220,220
+0x31e0d,0x431e0c,Sing,Chassis,???,220,220
+0x322ed,0x4322ec,Sing,Chassis,???,220,220
+0x327cb,0x4327ca,Sing,Chassis,???,220,220
+0x32cab,0x432caa,Sing,Chassis,???,220,220
+0x2c688,0x42c687,Long,Chassis,???,-1,-1
+0x2cb68,0x42cb67,Long,Chassis,???,-1,-1
+0x2d045,0x42d044,Long,Chassis,???,-1,-1
+0x2d525,0x42d524,Long,Chassis,???,-1,-1
+0x2d9fe,0x42d9fd,Long,Chassis,???,-1,-1
+0x2ded0,0x42decf,Long,Chassis,???,-1,-1
+0x2e3a8,0x42e3a7,Long,Chassis,???,-1,-1
+0x2e888,0x42e887,Long,Chassis,???,-1,-1
+0x2ed65,0x42ed64,Long,Chassis,???,-1,-1
+0x2f245,0x42f244,Long,Chassis,???,-1,-1
+0x2f71e,0x42f71d,Long,Chassis,???,-1,-1
+0x2fbf0,0x42fbef,Long,Chassis,???,-1,-1
+0x300d9,0x4300d8,Long,Chassis,???,65,65
+0x305c1,0x4305c0,Long,Chassis,???,-1,-1
+0x30aa1,0x430aa0,Long,Chassis,???,-1,-1
+0x30f7a,0x430f79,Long,Chassis,???,-1,-1
+0x3145c,0x43145b,Long,Chassis,???,-1,-1
+0x3193f,0x43193e,Long,Chassis,???,-1,-1
+0x31e17,0x431e16,Long,Chassis,???,-1,-1
+0x322f7,0x4322f6,Long,Chassis,???,-1,-1
+0x327d5,0x4327d4,Long,Chassis,???,-1,-1
+0x32cb5,0x432cb4,Long,Chassis,???,-1,-1
+0x2c692,0x42c691,Sing,Chassis,???,3800,3800
+0x2cb72,0x42cb71,Sing,Chassis,???,3800,3800
+0x2d04f,0x42d04e,Sing,Chassis,???,3800,3800
+0x2d52f,0x42d52e,Sing,Chassis,???,3800,3800
+0x2da08,0x42da07,Sing,Chassis,???,5000,5000
+0x2deda,0x42ded9,Sing,Chassis,???,3800,3800
+0x2e3b2,0x42e3b1,Sing,Chassis,???,3800,3800
+0x2e892,0x42e891,Sing,Chassis,???,3800,3800
+0x2ed6f,0x42ed6e,Sing,Chassis,???,3800,3800
+0x2f24f,0x42f24e,Sing,Chassis,???,3800,3800
+0x2f728,0x42f727,Sing,Chassis,???,5000,5000
+0x2fbfa,0x42fbf9,Sing,Chassis,???,3800,3800
+0x300e3,0x4300e2,Sing,Chassis,???,3800,3800
+0x305cb,0x4305ca,Sing,Chassis,???,3800,3800
+0x30aab,0x430aaa,Sing,Chassis,???,3800,3800
+0x30f84,0x430f83,Sing,Chassis,???,5000,5000
+0x31466,0x431465,Sing,Chassis,???,3800,3800
+0x31949,0x431948,Sing,Chassis,???,3600,3600
+0x31e21,0x431e20,Sing,Chassis,???,3600,3600
+0x32301,0x432300,Sing,Chassis,???,3600,3600
+0x327df,0x4327de,Sing,Chassis,???,3600,3600
+0x32cbf,0x432cbe,Sing,Chassis,???,3600,3600
+0x2ee561,0x6ee560,Sing,Chassis,???,0.0873,0.0873
+0x2ee589,0x6ee588,Sing,Chassis,???,0.1378,0.1378
+0x2eeca9,0x6eeca8,Sing,Engine,RPM-1,0,0
+0x2eed19,0x6eed18,Sing,Engine,RPM-1,0,0
+0x2eed89,0x6eed88,Sing,Engine,RPM-1,0,0
+0x2eedf9,0x6eedf8,Sing,Engine,RPM-1,0,0
+0x2eee69,0x6eee68,Sing,Engine,RPM-1,0,0
+0x2eeed9,0x6eeed8,Sing,Engine,RPM-1,0,0
+0x2eef49,0x6eef48,Sing,Engine,RPM-1,0,0
+0x2eefb9,0x6eefb8,Sing,Engine,RPM-1,0,0
+0x2ef029,0x6ef028,Sing,Engine,RPM-1,0,0
+0x2ef099,0x6ef098,Sing,Engine,RPM-1,0,0
+0x2ef109,0x6ef108,Sing,Engine,RPM-1,0,0
+0x2ef179,0x6ef178,Sing,Engine,RPM-1,0,0
+0x2ef1e9,0x6ef1e8,Sing,Engine,RPM-1,0,0
+0x2ef259,0x6ef258,Sing,Engine,RPM-1,0,0
+0x2ef2c9,0x6ef2c8,Sing,Engine,RPM-1,0,0
+0x2ef339,0x6ef338,Sing,Engine,RPM-1,0,0
+0x2eecad,0x6eecac,Sing,Engine,Torque-1,120,120
+0x2eed1d,0x6eed1c,Sing,Engine,Torque-1,120,120
+0x2eed8d,0x6eed8c,Sing,Engine,Torque-1,100,100
+0x2eedfd,0x6eedfc,Sing,Engine,Torque-1,100,100
+0x2eee6d,0x6eee6c,Sing,Engine,Torque-1,110,110
+0x2eeedd,0x6eeedc,Sing,Engine,Torque-1,110,110
+0x2eef4d,0x6eef4c,Sing,Engine,Torque-1,110,110
+0x2eefbd,0x6eefbc,Sing,Engine,Torque-1,90,90
+0x2ef02d,0x6ef02c,Sing,Engine,Torque-1,90,90
+0x2ef09d,0x6ef09c,Sing,Engine,Torque-1,110,110
+0x2ef10d,0x6ef10c,Sing,Engine,Torque-1,115,115
+0x2ef17d,0x6ef17c,Sing,Engine,Torque-1,115,115
+0x2ef1ed,0x6ef1ec,Sing,Engine,Torque-1,110,110
+0x2ef25d,0x6ef25c,Sing,Engine,Torque-1,100,100
+0x2ef2cd,0x6ef2cc,Sing,Engine,Torque-1,100,100
+0x2ef33d,0x6ef33c,Sing,Engine,Torque-1,110,110
+0x2eecb1,0x6eecb0,Sing,Engine,RPM-2,7000,7000
+0x2eed21,0x6eed20,Sing,Engine,RPM-2,7000,7000
+0x2eed91,0x6eed90,Sing,Engine,RPM-2,4200,4200
+0x2eee01,0x6eee00,Sing,Engine,RPM-2,4200,4200
+0x2eee71,0x6eee70,Sing,Engine,RPM-2,5500,5500
+0x2eeee1,0x6eeee0,Sing,Engine,RPM-2,6200,6200
+0x2eef51,0x6eef50,Sing,Engine,RPM-2,6200,6200
+0x2eefc1,0x6eefc0,Sing,Engine,RPM-2,4400,4400
+0x2ef031,0x6ef030,Sing,Engine,RPM-2,4400,4400
+0x2ef0a1,0x6ef0a0,Sing,Engine,RPM-2,5500,5500
+0x2ef111,0x6ef110,Sing,Engine,RPM-2,5700,5700
+0x2ef181,0x6ef180,Sing,Engine,RPM-2,5700,5700
+0x2ef1f1,0x6ef1f0,Sing,Engine,RPM-2,5500,5500
+0x2ef261,0x6ef260,Sing,Engine,RPM-2,6200,6200
+0x2ef2d1,0x6ef2d0,Sing,Engine,RPM-2,6200,6200
+0x2ef341,0x6ef340,Sing,Engine,RPM-2,5500,5500
+0x2eecb5,0x6eecb4,Sing,Engine,Torque-2,231,231
+0x2eed25,0x6eed24,Sing,Engine,Torque-2,231,231
+0x2eed95,0x6eed94,Sing,Engine,Torque-2,168,168
+0x2eee05,0x6eee04,Sing,Engine,Torque-2,168,168
+0x2eee75,0x6eee74,Sing,Engine,Torque-2,215,215
+0x2eeee5,0x6eeee4,Sing,Engine,Torque-2,225,225
+0x2eef55,0x6eef54,Sing,Engine,Torque-2,225,225
+0x2eefc5,0x6eefc4,Sing,Engine,Torque-2,155,155
+0x2ef035,0x6ef034,Sing,Engine,Torque-2,155,155
+0x2ef0a5,0x6ef0a4,Sing,Engine,Torque-2,215,215
+0x2ef115,0x6ef114,Sing,Engine,Torque-2,210,210
+0x2ef185,0x6ef184,Sing,Engine,Torque-2,210,210
+0x2ef1f5,0x6ef1f4,Sing,Engine,Torque-2,215,215
+0x2ef265,0x6ef264,Sing,Engine,Torque-2,230,230
+0x2ef2d5,0x6ef2d4,Sing,Engine,Torque-2,230,230
+0x2ef345,0x6ef344,Sing,Engine,Torque-2,215,215
+0x2eecb9,0x6eecb8,Sing,Engine,RPM-3,9000,9000
+0x2eed29,0x6eed28,Sing,Engine,RPM-3,9000,9000
+0x2eed99,0x6eed98,Sing,Engine,RPM-3,9000,9000
+0x2eee09,0x6eee08,Sing,Engine,RPM-3,9000,9000
+0x2eee79,0x6eee78,Sing,Engine,RPM-3,8500,8500
+0x2eeee9,0x6eeee8,Sing,Engine,RPM-3,9000,9000
+0x2eef59,0x6eef58,Sing,Engine,RPM-3,9000,9000
+0x2eefc9,0x6eefc8,Sing,Engine,RPM-3,9000,9000
+0x2ef039,0x6ef038,Sing,Engine,RPM-3,9000,9000
+0x2ef0a9,0x6ef0a8,Sing,Engine,RPM-3,8500,8500
+0x2ef119,0x6ef118,Sing,Engine,RPM-3,9000,9000
+0x2ef189,0x6ef188,Sing,Engine,RPM-3,9000,9000
+0x2ef1f9,0x6ef1f8,Sing,Engine,RPM-3,8500,8500
+0x2ef269,0x6ef268,Sing,Engine,RPM-3,7800,7800
+0x2ef2d9,0x6ef2d8,Sing,Engine,RPM-3,7800,7800
+0x2ef349,0x6ef348,Sing,Engine,RPM-3,8500,8500
+0x2eecbd,0x6eecbc,Sing,Engine,Torque-3,202,202
+0x2eed2d,0x6eed2c,Sing,Engine,Torque-3,202,202
+0x2eed9d,0x6eed9c,Sing,Engine,Torque-3,80,80
+0x2eee0d,0x6eee0c,Sing,Engine,Torque-3,80,80
+0x2eee7d,0x6eee7c,Sing,Engine,Torque-3,185,185
+0x2eeeed,0x6eeeec,Sing,Engine,Torque-3,160,160
+0x2eef5d,0x6eef5c,Sing,Engine,Torque-3,160,160
+0x2eefcd,0x6eefcc,Sing,Engine,Torque-3,60,60
+0x2ef03d,0x6ef03c,Sing,Engine,Torque-3,60,60
+0x2ef0ad,0x6ef0ac,Sing,Engine,Torque-3,185,185
+0x2ef11d,0x6ef11c,Sing,Engine,Torque-3,160,160
+0x2ef18d,0x6ef18c,Sing,Engine,Torque-3,160,160
+0x2ef1fd,0x6ef1fc,Sing,Engine,Torque-3,185,185
+0x2ef26d,0x6ef26c,Sing,Engine,Torque-3,205,205
+0x2ef2dd,0x6ef2dc,Sing,Engine,Torque-3,205,205
+0x2ef34d,0x6ef34c,Sing,Engine,Torque-3,185,185
+0x2eecc1,0x6eecc0,Sing,Engine,Stroke (in),3.308,3.308
+0x2eed31,0x6eed30,Sing,Engine,Stroke (in),3.308,3.308
+0x2eeda1,0x6eeda0,Sing,Engine,Stroke (in),3.5,3.5
+0x2eee11,0x6eee10,Sing,Engine,Stroke (in),3.5,3.5
+0x2eee81,0x6eee80,Sing,Engine,Stroke (in),4,4
+0x2eeef1,0x6eeef0,Sing,Engine,Stroke (in),3.308,3.308
+0x2eef61,0x6eef60,Sing,Engine,Stroke (in),3.308,3.308
+0x2eefd1,0x6eefd0,Sing,Engine,Stroke (in),3.5,3.5
+0x2ef041,0x6ef040,Sing,Engine,Stroke (in),3.5,3.5
+0x2ef0b1,0x6ef0b0,Sing,Engine,Stroke (in),4,4
+0x2ef121,0x6ef120,Sing,Engine,Stroke (in),3.308,3.308
+0x2ef191,0x6ef190,Sing,Engine,Stroke (in),3.308,3.308
+0x2ef201,0x6ef200,Sing,Engine,Stroke (in),4,4
+0x2ef271,0x6ef270,Sing,Engine,Stroke (in),3.308,3.308
+0x2ef2e1,0x6ef2e0,Sing,Engine,Stroke (in),3.308,3.308
+0x2ef351,0x6ef350,Sing,Engine,Stroke (in),4,4
+0x2eecc5,0x6eecc4,Sing,Engine,C.I.D.,358,358
+0x2eed35,0x6eed34,Sing,Engine,C.I.D.,358,358
+0x2eeda5,0x6eeda4,Sing,Engine,C.I.D.,358,358
+0x2eee15,0x6eee14,Sing,Engine,C.I.D.,358,358
+0x2eee85,0x6eee84,Sing,Engine,C.I.D.,450,450
+0x2eeef5,0x6eeef4,Sing,Engine,C.I.D.,358,358
+0x2eef65,0x6eef64,Sing,Engine,C.I.D.,358,358
+0x2eefd5,0x6eefd4,Sing,Engine,C.I.D.,358,358
+0x2ef045,0x6ef044,Sing,Engine,C.I.D.,358,358
+0x2ef0b5,0x6ef0b4,Sing,Engine,C.I.D.,450,450
+0x2ef125,0x6ef124,Sing,Engine,C.I.D.,358,358
+0x2ef195,0x6ef194,Sing,Engine,C.I.D.,358,358
+0x2ef205,0x6ef204,Sing,Engine,C.I.D.,450,450
+0x2ef275,0x6ef274,Sing,Engine,C.I.D.,358,358
+0x2ef2e5,0x6ef2e4,Sing,Engine,C.I.D.,358,358
+0x2ef355,0x6ef354,Sing,Engine,C.I.D.,450,450
+0x2eecc9,0x6eecc8,Sing,Engine,Cylinders,8,8
+0x2eed39,0x6eed38,Sing,Engine,Cylinders,8,8
+0x2eeda9,0x6eeda8,Sing,Engine,Cylinders,8,8
+0x2eee19,0x6eee18,Sing,Engine,Cylinders,8,8
+0x2eee89,0x6eee88,Sing,Engine,Cylinders,8,8
+0x2eeef9,0x6eeef8,Sing,Engine,Cylinders,8,8
+0x2eef69,0x6eef68,Sing,Engine,Cylinders,8,8
+0x2eefd9,0x6eefd8,Sing,Engine,Cylinders,8,8
+0x2ef049,0x6ef048,Sing,Engine,Cylinders,8,8
+0x2ef0b9,0x6ef0b8,Sing,Engine,Cylinders,8,8
+0x2ef129,0x6ef128,Sing,Engine,Cylinders,8,8
+0x2ef199,0x6ef198,Sing,Engine,Cylinders,8,8
+0x2ef209,0x6ef208,Sing,Engine,Cylinders,8,8
+0x2ef279,0x6ef278,Sing,Engine,Cylinders,8,8
+0x2ef2e9,0x6ef2e8,Sing,Engine,Cylinders,8,8
+0x2ef359,0x6ef358,Sing,Engine,Cylinders,8,8
+0x2eeccd,0x6eeccc,Sing,Engine,# Intake Valves,1,1
+0x2eed3d,0x6eed3c,Sing,Engine,# Intake Valves,1,1
+0x2eedad,0x6eedac,Sing,Engine,# Intake Valves,1,1
+0x2eee1d,0x6eee1c,Sing,Engine,# Intake Valves,1,1
+0x2eee8d,0x6eee8c,Sing,Engine,# Intake Valves,1,1
+0x2eeefd,0x6eeefc,Sing,Engine,# Intake Valves,1,1
+0x2eef6d,0x6eef6c,Sing,Engine,# Intake Valves,1,1
+0x2eefdd,0x6eefdc,Sing,Engine,# Intake Valves,1,1
+0x2ef04d,0x6ef04c,Sing,Engine,# Intake Valves,1,1
+0x2ef0bd,0x6ef0bc,Sing,Engine,# Intake Valves,1,1
+0x2ef12d,0x6ef12c,Sing,Engine,# Intake Valves,1,1
+0x2ef19d,0x6ef19c,Sing,Engine,# Intake Valves,1,1
+0x2ef20d,0x6ef20c,Sing,Engine,# Intake Valves,1,1
+0x2ef27d,0x6ef27c,Sing,Engine,# Intake Valves,1,1
+0x2ef2ed,0x6ef2ec,Sing,Engine,# Intake Valves,1,1
+0x2ef35d,0x6ef35c,Sing,Engine,# Intake Valves,1,1
+0x2eecd1,0x6eecd0,Sing,Engine,Intake Valve Size,2.07,2.07
+0x2eed41,0x6eed40,Sing,Engine,Intake Valve Size,2.07,2.07
+0x2eedb1,0x6eedb0,Sing,Engine,Intake Valve Size,2.07,2.07
+0x2eee21,0x6eee20,Sing,Engine,Intake Valve Size,2.07,2.07
+0x2eee91,0x6eee90,Sing,Engine,Intake Valve Size,2.2,2.2
+0x2eef01,0x6eef00,Sing,Engine,Intake Valve Size,2.07,2.07
+0x2eef71,0x6eef70,Sing,Engine,Intake Valve Size,2.07,2.07
+0x2eefe1,0x6eefe0,Sing,Engine,Intake Valve Size,2.07,2.07
+0x2ef051,0x6ef050,Sing,Engine,Intake Valve Size,2.07,2.07
+0x2ef0c1,0x6ef0c0,Sing,Engine,Intake Valve Size,2.2,2.2
+0x2ef131,0x6ef130,Sing,Engine,Intake Valve Size,2.07,2.07
+0x2ef1a1,0x6ef1a0,Sing,Engine,Intake Valve Size,2.07,2.07
+0x2ef211,0x6ef210,Sing,Engine,Intake Valve Size,2.2,2.2
+0x2ef281,0x6ef280,Sing,Engine,Intake Valve Size,2.07,2.07
+0x2ef2f1,0x6ef2f0,Sing,Engine,Intake Valve Size,2.07,2.07
+0x2ef361,0x6ef360,Sing,Engine,Intake Valve Size,2.2,2.2
+0x2eecd5,0x6eecd4,Sing,Engine,Redline,9300,9300
+0x2eed45,0x6eed44,Sing,Engine,Redline,9300,9300
+0x2eedb5,0x6eedb4,Sing,Engine,Redline,7300,7300
+0x2eee25,0x6eee24,Sing,Engine,Redline,7300,7300
+0x2eee95,0x6eee94,Sing,Engine,Redline,9300,9300
+0x2eef05,0x6eef04,Sing,Engine,Redline,9400,9400
+0x2eef75,0x6eef74,Sing,Engine,Redline,9300,9300
+0x2eefe5,0x6eefe4,Sing,Engine,Redline,7300,7300
+0x2ef055,0x6ef054,Sing,Engine,Redline,7300,7300
+0x2ef0c5,0x6ef0c4,Sing,Engine,Redline,9300,9300
+0x2ef135,0x6ef134,Sing,Engine,Redline,9300,9300
+0x2ef1a5,0x6ef1a4,Sing,Engine,Redline,9300,9300
+0x2ef215,0x6ef214,Sing,Engine,Redline,9300,9300
+0x2ef285,0x6ef284,Sing,Engine,Redline,8200,8200
+0x2ef2f5,0x6ef2f4,Sing,Engine,Redline,8200,8200
+0x2ef365,0x6ef364,Sing,Engine,Redline,8200,8200
+0x2eecd9,0x6eecd8,Sing,Engine,??? Peak Power,815,815
+0x2eed49,0x6eed48,Sing,Engine,??? Peak Power,815,815
+0x2eedb9,0x6eedb8,Sing,Engine,??? Peak Power,435,435
+0x2eee29,0x6eee28,Sing,Engine,??? Peak Power,435,435
+0x2eee99,0x6eee98,Sing,Engine,??? Peak Power,900,900
+0x2eef09,0x6eef08,Sing,Engine,??? Peak Power,725,725
+0x2eef79,0x6eef78,Sing,Engine,??? Peak Power,725,725
+0x2eefe9,0x6eefe8,Sing,Engine,??? Peak Power,403,403
+0x2ef059,0x6ef058,Sing,Engine,??? Peak Power,403,403
+0x2ef0c9,0x6ef0c8,Sing,Engine,??? Peak Power,700,700
+0x2ef139,0x6ef138,Sing,Engine,??? Peak Power,670,670
+0x2ef1a9,0x6ef1a8,Sing,Engine,??? Peak Power,670,670
+0x2ef219,0x6ef218,Sing,Engine,??? Peak Power,700,700
+0x2ef289,0x6ef288,Sing,Engine,??? Peak Power,680,680
+0x2ef2f9,0x6ef2f8,Sing,Engine,??? Peak Power,680,680
+0x2ef369,0x6ef368,Sing,Engine,??? Peak Power,700,700
+0x2eecdd,0x6eecdc,Sing,Engine,???,19,19
+0x2eed4d,0x6eed4c,Sing,Engine,???,19,19
+0x2eedbd,0x6eedbc,Sing,Engine,???,19,19
+0x2eee2d,0x6eee2c,Sing,Engine,???,19,19
+0x2eee9d,0x6eee9c,Sing,Engine,???,19,19
+0x2eef0d,0x6eef0c,Sing,Engine,???,19,19
+0x2eef7d,0x6eef7c,Sing,Engine,???,19,19
+0x2eefed,0x6eefec,Sing,Engine,???,19,19
+0x2ef05d,0x6ef05c,Sing,Engine,???,19,19
+0x2ef0cd,0x6ef0cc,Sing,Engine,???,19,19
+0x2ef13d,0x6ef13c,Sing,Engine,???,19,19
+0x2ef1ad,0x6ef1ac,Sing,Engine,???,19,19
+0x2ef21d,0x6ef21c,Sing,Engine,???,19,19
+0x2ef28d,0x6ef28c,Sing,Engine,???,19,19
+0x2ef2fd,0x6ef2fc,Sing,Engine,???,19,19
+0x2ef36d,0x6ef36c,Sing,Engine,???,19,19
+0x2eece1,0x6eece0,Sing,Engine,??? Race/Qual,18,18
+0x2eed51,0x6eed50,Sing,Engine,??? Race/Qual,12,12
+0x2eedc1,0x6eedc0,Sing,Engine,??? Race/Qual,18,18
+0x2eee31,0x6eee30,Sing,Engine,??? Race/Qual,12,12
+0x2eeea1,0x6eeea0,Sing,Engine,??? Race/Qual,12,12
+0x2eef11,0x6eef10,Sing,Engine,??? Race/Qual,18,18
+0x2eef81,0x6eef80,Sing,Engine,??? Race/Qual,12,12
+0x2eeff1,0x6eeff0,Sing,Engine,??? Race/Qual,18,18
+0x2ef061,0x6ef060,Sing,Engine,??? Race/Qual,12,12
+0x2ef0d1,0x6ef0d0,Sing,Engine,??? Race/Qual,12,12
+0x2ef141,0x6ef140,Sing,Engine,??? Race/Qual,18,18
+0x2ef1b1,0x6ef1b0,Sing,Engine,??? Race/Qual,12,12
+0x2ef221,0x6ef220,Sing,Engine,??? Race/Qual,12,12
+0x2ef291,0x6ef290,Sing,Engine,??? Race/Qual,18,18
+0x2ef301,0x6ef300,Sing,Engine,??? Race/Qual,12,12
+0x2ef371,0x6ef370,Sing,Engine,??? Race/Qual,12,12
+0x2eece5,0x6eece4,Sing,Engine,Oil Cooling,450,450
+0x2eed55,0x6eed54,Sing,Engine,Oil Cooling,450,450
+0x2eedc5,0x6eedc4,Sing,Engine,Oil Cooling,350,350
+0x2eee35,0x6eee34,Sing,Engine,Oil Cooling,350,350
+0x2eeea5,0x6eeea4,Sing,Engine,Oil Cooling,1050,1050
+0x2eef15,0x6eef14,Sing,Engine,Oil Cooling,450,450
+0x2eef85,0x6eef84,Sing,Engine,Oil Cooling,450,450
+0x2eeff5,0x6eeff4,Sing,Engine,Oil Cooling,350,350
+0x2ef065,0x6ef064,Sing,Engine,Oil Cooling,350,350
+0x2ef0d5,0x6ef0d4,Sing,Engine,Oil Cooling,1050,1050
+0x2ef145,0x6ef144,Sing,Engine,Oil Cooling,450,450
+0x2ef1b5,0x6ef1b4,Sing,Engine,Oil Cooling,450,450
+0x2ef225,0x6ef224,Sing,Engine,Oil Cooling,1050,1050
+0x2ef295,0x6ef294,Sing,Engine,Oil Cooling,450,450
+0x2ef305,0x6ef304,Sing,Engine,Oil Cooling,450,450
+0x2ef375,0x6ef374,Sing,Engine,Oil Cooling,1050,1050
+0x2eece9,0x6eece8,Sing,Engine,Water cooling,1390,1390
+0x2eed59,0x6eed58,Sing,Engine,Water cooling,1390,1390
+0x2eedc9,0x6eedc8,Sing,Engine,Water cooling,1000,1000
+0x2eee39,0x6eee38,Sing,Engine,Water cooling,1000,1000
+0x2eeea9,0x6eeea8,Sing,Engine,Water cooling,1900,1900
+0x2eef19,0x6eef18,Sing,Engine,Water cooling,1390,1390
+0x2eef89,0x6eef88,Sing,Engine,Water cooling,1390,1390
+0x2eeff9,0x6eeff8,Sing,Engine,Water cooling,1000,1000
+0x2ef069,0x6ef068,Sing,Engine,Water cooling,1000,1000
+0x2ef0d9,0x6ef0d8,Sing,Engine,Water cooling,1900,1900
+0x2ef149,0x6ef148,Sing,Engine,Water cooling,1390,1390
+0x2ef1b9,0x6ef1b8,Sing,Engine,Water cooling,1390,1390
+0x2ef229,0x6ef228,Sing,Engine,Water cooling,1900,1900
+0x2ef299,0x6ef298,Sing,Engine,Water cooling,1390,1390
+0x2ef309,0x6ef308,Sing,Engine,Water cooling,1390,1390
+0x2ef379,0x6ef378,Sing,Engine,Water cooling,1900,1900
+0x2eeced,0x6eecec,Long,Engine,Gears,4,4
+0x2eed5d,0x6eed5c,Long,Engine,Gears,4,4
+0x2eedcd,0x6eedcc,Long,Engine,Gears,4,4
+0x2eee3d,0x6eee3c,Long,Engine,Gears,4,4
+0x2eeead,0x6eeeac,Long,Engine,Gears,4,4
+0x2eef1d,0x6eef1c,Long,Engine,Gears,4,4
+0x2eef8d,0x6eef8c,Long,Engine,Gears,4,4
+0x2eeffd,0x6eeffc,Long,Engine,Gears,4,4
+0x2ef06d,0x6ef06c,Long,Engine,Gears,4,4
+0x2ef0dd,0x6ef0dc,Long,Engine,Gears,4,4
+0x2ef14d,0x6ef14c,Long,Engine,Gears,4,4
+0x2ef1bd,0x6ef1bc,Long,Engine,Gears,4,4
+0x2ef22d,0x6ef22c,Long,Engine,Gears,4,4
+0x2ef29d,0x6ef29c,Long,Engine,Gears,6,6
+0x2ef30d,0x6ef30c,Long,Engine,Gears,6,6
+0x2ef37d,0x6ef37c,Long,Engine,Gears,6,6
+0x2eecf1,0x6eecf0,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2eed61,0x6eed60,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2eedd1,0x6eedd0,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2eee41,0x6eee40,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2eeeb1,0x6eeeb0,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2eef21,0x6eef20,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2eef91,0x6eef90,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2ef001,0x6ef000,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2ef071,0x6ef070,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2ef0e1,0x6ef0e0,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2ef151,0x6ef150,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2ef1c1,0x6ef1c0,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2ef231,0x6ef230,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2ef2a1,0x6ef2a0,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2ef311,0x6ef310,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2ef381,0x6ef380,Sing,Engine,AI Reverse,-2.733333,-2.733333
+0x2eecf5,0x6eecf4,Sing,Engine,AI Neutral,0,0
+0x2eed65,0x6eed64,Sing,Engine,AI Neutral,0,0
+0x2eedd5,0x6eedd4,Sing,Engine,AI Neutral,0,0
+0x2eee45,0x6eee44,Sing,Engine,AI Neutral,0,0
+0x2eeeb5,0x6eeeb4,Sing,Engine,AI Neutral,0,0
+0x2eef25,0x6eef24,Sing,Engine,AI Neutral,0,0
+0x2eef95,0x6eef94,Sing,Engine,AI Neutral,0,0
+0x2ef005,0x6ef004,Sing,Engine,AI Neutral,0,0
+0x2ef075,0x6ef074,Sing,Engine,AI Neutral,0,0
+0x2ef0e5,0x6ef0e4,Sing,Engine,AI Neutral,0,0
+0x2ef155,0x6ef154,Sing,Engine,AI Neutral,0,0
+0x2ef1c5,0x6ef1c4,Sing,Engine,AI Neutral,0,0
+0x2ef235,0x6ef234,Sing,Engine,AI Neutral,0,0
+0x2ef2a5,0x6ef2a4,Sing,Engine,AI Neutral,0,0
+0x2ef315,0x6ef314,Sing,Engine,AI Neutral,0,0
+0x2ef385,0x6ef384,Sing,Engine,AI Neutral,0,0
+0x2eecf9,0x6eecf8,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2eed69,0x6eed68,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2eedd9,0x6eedd8,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2eee49,0x6eee48,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2eeeb9,0x6eeeb8,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2eef29,0x6eef28,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2eef99,0x6eef98,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2ef009,0x6ef008,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2ef079,0x6ef078,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2ef0e9,0x6ef0e8,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2ef159,0x6ef158,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2ef1c9,0x6ef1c8,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2ef239,0x6ef238,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2ef2a9,0x6ef2a8,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2ef319,0x6ef318,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2ef389,0x6ef388,Sing,Engine,AI 1st Gear,2.733333,2.733333
+0x2eecfd,0x6eecfc,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2eed6d,0x6eed6c,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2eeddd,0x6eeddc,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2eee4d,0x6eee4c,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2eeebd,0x6eeebc,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2eef2d,0x6eef2c,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2eef9d,0x6eef9c,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2ef00d,0x6ef00c,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2ef07d,0x6ef07c,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2ef0ed,0x6ef0ec,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2ef15d,0x6ef15c,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2ef1cd,0x6ef1cc,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2ef23d,0x6ef23c,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2ef2ad,0x6ef2ac,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2ef31d,0x6ef31c,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2ef38d,0x6ef38c,Sing,Engine,AI 2nd Gear,1.8,1.8
+0x2eed01,0x6eed00,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2eed71,0x6eed70,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2eede1,0x6eede0,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2eee51,0x6eee50,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2eeec1,0x6eeec0,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2eef31,0x6eef30,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2eefa1,0x6eefa0,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2ef011,0x6ef010,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2ef081,0x6ef080,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2ef0f1,0x6ef0f0,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2ef161,0x6ef160,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2ef1d1,0x6ef1d0,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2ef241,0x6ef240,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2ef2b1,0x6ef2b0,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2ef321,0x6ef320,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2ef391,0x6ef390,Sing,Engine,AI 3rd Gear,1.333333,1.333333
+0x2eed05,0x6eed04,Sing,Engine,AI 4th Gear,1,1
+0x2eed75,0x6eed74,Sing,Engine,AI 4th Gear,1,1
+0x2eede5,0x6eede4,Sing,Engine,AI 4th Gear,1,1
+0x2eee55,0x6eee54,Sing,Engine,AI 4th Gear,1,1
+0x2eeec5,0x6eeec4,Sing,Engine,AI 4th Gear,1,1
+0x2eef35,0x6eef34,Sing,Engine,AI 4th Gear,1,1
+0x2eefa5,0x6eefa4,Sing,Engine,AI 4th Gear,1,1
+0x2ef015,0x6ef014,Sing,Engine,AI 4th Gear,1,1
+0x2ef085,0x6ef084,Sing,Engine,AI 4th Gear,1,1
+0x2ef0f5,0x6ef0f4,Sing,Engine,AI 4th Gear,1,1
+0x2ef165,0x6ef164,Sing,Engine,AI 4th Gear,1,1
+0x2ef1d5,0x6ef1d4,Sing,Engine,AI 4th Gear,1,1
+0x2ef245,0x6ef244,Sing,Engine,AI 4th Gear,1,1
+0x2ef2b5,0x6ef2b4,Sing,Engine,AI 4th Gear,1,1
+0x2ef325,0x6ef324,Sing,Engine,AI 4th Gear,1,1
+0x2ef395,0x6ef394,Sing,Engine,AI 4th Gear,1,1
+0x2eed09,0x6eed08,Sing,Engine,AI 5th Gear,1,1
+0x2eed79,0x6eed78,Sing,Engine,AI 5th Gear,1,1
+0x2eede9,0x6eede8,Sing,Engine,AI 5th Gear,1,1
+0x2eee59,0x6eee58,Sing,Engine,AI 5th Gear,1,1
+0x2eeec9,0x6eeec8,Sing,Engine,AI 5th Gear,1,1
+0x2eef39,0x6eef38,Sing,Engine,AI 5th Gear,1,1
+0x2eefa9,0x6eefa8,Sing,Engine,AI 5th Gear,1,1
+0x2ef019,0x6ef018,Sing,Engine,AI 5th Gear,1,1
+0x2ef089,0x6ef088,Sing,Engine,AI 5th Gear,1,1
+0x2ef0f9,0x6ef0f8,Sing,Engine,AI 5th Gear,1,1
+0x2ef169,0x6ef168,Sing,Engine,AI 5th Gear,1,1
+0x2ef1d9,0x6ef1d8,Sing,Engine,AI 5th Gear,1,1
+0x2ef249,0x6ef248,Sing,Engine,AI 5th Gear,1,1
+0x2ef2b9,0x6ef2b8,Sing,Engine,AI 5th Gear,1,1
+0x2ef329,0x6ef328,Sing,Engine,AI 5th Gear,1,1
+0x2ef399,0x6ef398,Sing,Engine,AI 5th Gear,1,1
+0x2eed0d,0x6eed0c,Sing,Engine,AI 6th Gear,1,1
+0x2eed7d,0x6eed7c,Sing,Engine,AI 6th Gear,1,1
+0x2eeded,0x6eedec,Sing,Engine,AI 6th Gear,1,1
+0x2eee5d,0x6eee5c,Sing,Engine,AI 6th Gear,1,1
+0x2eeecd,0x6eeecc,Sing,Engine,AI 6th Gear,1,1
+0x2eef3d,0x6eef3c,Sing,Engine,AI 6th Gear,1,1
+0x2eefad,0x6eefac,Sing,Engine,AI 6th Gear,1,1
+0x2ef01d,0x6ef01c,Sing,Engine,AI 6th Gear,1,1
+0x2ef08d,0x6ef08c,Sing,Engine,AI 6th Gear,1,1
+0x2ef0fd,0x6ef0fc,Sing,Engine,AI 6th Gear,1,1
+0x2ef16d,0x6ef16c,Sing,Engine,AI 6th Gear,1,1
+0x2ef1dd,0x6ef1dc,Sing,Engine,AI 6th Gear,1,1
+0x2ef24d,0x6ef24c,Sing,Engine,AI 6th Gear,1,1
+0x2ef2bd,0x6ef2bc,Sing,Engine,AI 6th Gear,1,1
+0x2ef32d,0x6ef32c,Sing,Engine,AI 6th Gear,1,1
+0x2ef39d,0x6ef39c,Sing,Engine,AI 6th Gear,1,1
+0x2eed11,0x6eed10,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2eed81,0x6eed80,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2eedf1,0x6eedf0,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2eee61,0x6eee60,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2eeed1,0x6eeed0,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2eef41,0x6eef40,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2eefb1,0x6eefb0,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2ef021,0x6ef020,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2ef091,0x6ef090,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2ef101,0x6ef100,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2ef171,0x6ef170,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2ef1e1,0x6ef1e0,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2ef251,0x6ef250,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2ef2c1,0x6ef2c0,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2ef331,0x6ef330,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2ef3a1,0x6ef3a0,Sing,Engine,AI Diff Ratio,3.4375,3.4375
+0x2eed15,0x6eed14,Long,Engine,??? Qual/Race,1,1
+0x2eed85,0x6eed84,Long,Engine,??? Qual/Race,0,0
+0x2eedf5,0x6eedf4,Long,Engine,??? Qual/Race,1,1
+0x2eee65,0x6eee64,Long,Engine,??? Qual/Race,0,0
+0x2eeed5,0x6eeed4,Long,Engine,??? Qual/Race,0,0
+0x2eef45,0x6eef44,Long,Engine,??? Qual/Race,1,1
+0x2eefb5,0x6eefb4,Long,Engine,??? Qual/Race,0,0
+0x2ef025,0x6ef024,Long,Engine,??? Qual/Race,1,1
+0x2ef095,0x6ef094,Long,Engine,??? Qual/Race,0,0
+0x2ef105,0x6ef104,Long,Engine,??? Qual/Race,0,0
+0x2ef175,0x6ef174,Long,Engine,??? Qual/Race,1,1
+0x2ef1e5,0x6ef1e4,Long,Engine,??? Qual/Race,0,0
+0x2ef255,0x6ef254,Long,Engine,??? Qual/Race,0,0
+0x2ef2c5,0x6ef2c4,Long,Engine,??? Qual/Race,1,1
+0x2ef335,0x6ef334,Long,Engine,??? Qual/Race,0,0
+0x2ef3a5,0x6ef3a4,Long,Engine,??? Qual/Race,0,0
+0x2efb91,0x6efb90,Doub,Wheel,Tire Radius? (In),13.98971974,13.98971974
+0x2efba1,0x6efba0,Doub,Wheel,Tire Radius? (In),14.08521246,14.08521246
+0x2efbb1,0x6efbb0,Doub,Wheel,Tire Radius? (In),13.89422702,13.89422702
+0x2efbc1,0x6efbc0,Doub,Wheel,Tire Radius? (In),14.10112772,14.10112772
+0x2efbd1,0x6efbd0,Doub,Wheel,Tire Radius? (In),13.91014227,13.91014227
+0x2efbf9,0x6efbf8,Doub,Wheel,Tire Radius? (In),12.46183253,12.46183253
+0x2efb8d,0x6efb8c,Sing,Wheel,Rim Radius? (In),7.5,7.5
+0x2ea479,0x6ea478,Sing,Wheel,??? Rim Width (in),10,10
+0x2efbf1,0x6efbf0,Sing,Wheel,??? Rim Width (in),12.5,12.5
+0x2efb89,0x6efb88,Sing,Wheel,Tread Width (in),10.6,10.6
+0x2efb99,0x6efb98,Sing,Wheel,Tread Width (in),10.8,10.8
+0x2efba9,0x6efba8,Sing,Wheel,Tread Width (in),11.2,11.2
+0x2efbb9,0x6efbb8,Sing,Wheel,Tread Width (in),11.6,11.6
+0x2efbe1,0x6efbe0,Sing,Wheel,Tread Width (in),12.8,12.8
+0x2efbe5,0x6efbe4,Sing,Wheel,Tread Width (in),13.2,13.2
+0x2efb85,0x6efb84,Sing,Wheel,Weight-1 (lbs),61,61
+0x2efbdd,0x6efbdc,Sing,Wheel,Weight-1 (lbs),59,59
+0x2efbed,0x6efbec,Sing,Wheel,Weight-1 (lbs),57,57
+0x2ed00d,0x6ed00c,Sing,Wheel,Weight-2 (lbs),100,100
+0x2efb81,0x6efb80,Sing,Wheel,Weight-2 (lbs),92,92
+0x2efbc9,0x6efbc8,Sing,Wheel,Weight-2 (lbs),103,103
+0x2efbd9,0x6efbd8,Sing,Wheel,Weight-2 (lbs),80,80
+0x2efbe9,0x6efbe8,Sing,Wheel,Weight-2 (lbs),90,90
+0x554e5,0x4554e4,Sing,Wheel,???,0.1,0.1
+0x556c5,0x4556c4,Sing,Wheel,???,0.1,0.1
+0x558a5,0x4558a4,Sing,Wheel,???,0.1,0.1
+0x55a85,0x455a84,Sing,Wheel,???,0.1,0.1
+0x55c65,0x455c64,Sing,Wheel,???,0.1,0.1
+0x55e45,0x455e44,Sing,Wheel,???,0.1,0.1
+0x56025,0x456024,Sing,Wheel,???,0.1,0.1
+0x56205,0x456204,Sing,Wheel,???,0.05,0.05
+0x563e5,0x4563e4,Sing,Wheel,???,0.05,0.05
+0x565c5,0x4565c4,Sing,Wheel,???,0.1,0.1
+0x567a5,0x4567a4,Sing,Wheel,???,0.1,0.1
+0x56985,0x456984,Sing,Wheel,???,0.1,0.1
+0x56b65,0x456b64,Sing,Wheel,???,0.1,0.1
+0x56d45,0x456d44,Sing,Wheel,???,0.1,0.1
+0x56f25,0x456f24,Sing,Wheel,???,0.1,0.1
+0x57105,0x457104,Sing,Wheel,???,0.1,0.1
+0x572e5,0x4572e4,Sing,Wheel,???,0.1,0.1
+0x574c5,0x4574c4,Sing,Wheel,???,0.1,0.1
+0x576a5,0x4576a4,Sing,Wheel,???,0.1,0.1
+0x57885,0x457884,Sing,Wheel,???,0.1,0.1
+0x57a65,0x457a64,Sing,Wheel,???,0.1,0.1
+0x57c45,0x457c44,Sing,Wheel,???,0.1,0.1
+0x57e25,0x457e24,Sing,Wheel,???,0.1,0.1
+0x58005,0x458004,Sing,Wheel,???,0.1,0.1
+0x581e5,0x4581e4,Sing,Wheel,???,0.05,0.05
+0x583c5,0x4583c4,Sing,Wheel,???,0.05,0.05
+0x554ef,0x4554ee,Sing,Wheel,??? Low Pressure,28,28
+0x556cf,0x4556ce,Sing,Wheel,??? Low Pressure,48,48
+0x558af,0x4558ae,Sing,Wheel,??? Low Pressure,28,28
+0x55a8f,0x455a8e,Sing,Wheel,??? Low Pressure,48,48
+0x55c6f,0x455c6e,Sing,Wheel,??? Low Pressure,22,22
+0x55e4f,0x455e4e,Sing,Wheel,??? Low Pressure,35,35
+0x5602f,0x45602e,Sing,Wheel,??? Low Pressure,19,19
+0x5620f,0x45620e,Sing,Wheel,??? Low Pressure,30,30
+0x563ef,0x4563ee,Sing,Wheel,??? Low Pressure,30,30
+0x565cf,0x4565ce,Sing,Wheel,??? Low Pressure,28,28
+0x567af,0x4567ae,Sing,Wheel,??? Low Pressure,48,48
+0x5698f,0x45698e,Sing,Wheel,??? Low Pressure,28,28
+0x56b6f,0x456b6e,Sing,Wheel,??? Low Pressure,48,48
+0x56d4f,0x456d4e,Sing,Wheel,??? Low Pressure,22,22
+0x56f2f,0x456f2e,Sing,Wheel,??? Low Pressure,35,35
+0x5710f,0x45710e,Sing,Wheel,??? Low Pressure,19,19
+0x572ef,0x4572ee,Sing,Wheel,??? Low Pressure,28,28
+0x574cf,0x4574ce,Sing,Wheel,??? Low Pressure,48,48
+0x576af,0x4576ae,Sing,Wheel,??? Low Pressure,28,28
+0x5788f,0x45788e,Sing,Wheel,??? Low Pressure,48,48
+0x57a6f,0x457a6e,Sing,Wheel,??? Low Pressure,22,22
+0x57c4f,0x457c4e,Sing,Wheel,??? Low Pressure,35,35
+0x57e2f,0x457e2e,Sing,Wheel,??? Low Pressure,19,19
+0x5800f,0x45800e,Sing,Wheel,??? Low Pressure,19,19
+0x581ef,0x4581ee,Sing,Wheel,??? Low Pressure,30,30
+0x583cf,0x4583ce,Sing,Wheel,??? Low Pressure,30,30
+0x554f9,0x4554f8,Sing,Wheel,???,40,40
+0x556d9,0x4556d8,Sing,Wheel,???,40,40
+0x558b9,0x4558b8,Sing,Wheel,???,40,40
+0x55a99,0x455a98,Sing,Wheel,???,40,40
+0x55c79,0x455c78,Sing,Wheel,???,40,40
+0x55e59,0x455e58,Sing,Wheel,???,40,40
+0x56039,0x456038,Sing,Wheel,???,40,40
+0x56219,0x456218,Sing,Wheel,???,40,40
+0x563f9,0x4563f8,Sing,Wheel,???,40,40
+0x565d9,0x4565d8,Sing,Wheel,???,40,40
+0x567b9,0x4567b8,Sing,Wheel,???,40,40
+0x56999,0x456998,Sing,Wheel,???,40,40
+0x56b79,0x456b78,Sing,Wheel,???,40,40
+0x56d59,0x456d58,Sing,Wheel,???,40,40
+0x56f39,0x456f38,Sing,Wheel,???,40,40
+0x57119,0x457118,Sing,Wheel,???,40,40
+0x572f9,0x4572f8,Sing,Wheel,???,40,40
+0x574d9,0x4574d8,Sing,Wheel,???,40,40
+0x576b9,0x4576b8,Sing,Wheel,???,40,40
+0x57899,0x457898,Sing,Wheel,???,40,40
+0x57a79,0x457a78,Sing,Wheel,???,40,40
+0x57c59,0x457c58,Sing,Wheel,???,40,40
+0x57e39,0x457e38,Sing,Wheel,???,40,40
+0x58019,0x458018,Sing,Wheel,???,40,40
+0x581f9,0x4581f8,Sing,Wheel,???,40,40
+0x583d9,0x4583d8,Sing,Wheel,???,40,40
+0x55503,0x455502,Sing,Wheel,Optimal Pressure?,34,34
+0x556e3,0x4556e2,Sing,Wheel,Optimal Pressure?,56,56
+0x558c3,0x4558c2,Sing,Wheel,Optimal Pressure?,34,34
+0x55aa3,0x455aa2,Sing,Wheel,Optimal Pressure?,56,56
+0x55c83,0x455c82,Sing,Wheel,Optimal Pressure?,28,28
+0x55e63,0x455e62,Sing,Wheel,Optimal Pressure?,42,42
+0x56043,0x456042,Sing,Wheel,Optimal Pressure?,26,26
+0x56223,0x456222,Sing,Wheel,Optimal Pressure?,50,50
+0x56403,0x456402,Sing,Wheel,Optimal Pressure?,50,50
+0x565e3,0x4565e2,Sing,Wheel,Optimal Pressure?,34,34
+0x567c3,0x4567c2,Sing,Wheel,Optimal Pressure?,56,56
+0x569a3,0x4569a2,Sing,Wheel,Optimal Pressure?,34,34
+0x56b83,0x456b82,Sing,Wheel,Optimal Pressure?,56,56
+0x56d63,0x456d62,Sing,Wheel,Optimal Pressure?,28,28
+0x56f43,0x456f42,Sing,Wheel,Optimal Pressure?,42,42
+0x57123,0x457122,Sing,Wheel,Optimal Pressure?,26,26
+0x57303,0x457302,Sing,Wheel,Optimal Pressure?,34,34
+0x574e3,0x4574e2,Sing,Wheel,Optimal Pressure?,56,56
+0x576c3,0x4576c2,Sing,Wheel,Optimal Pressure?,34,34
+0x578a3,0x4578a2,Sing,Wheel,Optimal Pressure?,56,56
+0x57a83,0x457a82,Sing,Wheel,Optimal Pressure?,28,28
+0x57c63,0x457c62,Sing,Wheel,Optimal Pressure?,42,42
+0x57e43,0x457e42,Sing,Wheel,Optimal Pressure?,26,26
+0x58023,0x458022,Sing,Wheel,Optimal Pressure?,26,26
+0x58203,0x458202,Sing,Wheel,Optimal Pressure?,50,50
+0x583e3,0x4583e2,Sing,Wheel,Optimal Pressure?,50,50
+0x5551f,0x45551e,Sing,Wheel,Heat,1.35,1.35
+0x556ff,0x4556fe,Sing,Wheel,Heat,1.69,1.69
+0x558df,0x4558de,Sing,Wheel,Heat,1.26,1.26
+0x55abf,0x455abe,Sing,Wheel,Heat,1.52,1.52
+0x55c9f,0x455c9e,Sing,Wheel,Heat,1.41,1.41
+0x55e7f,0x455e7e,Sing,Wheel,Heat,1.65,1.65
+0x5605f,0x45605e,Sing,Wheel,Heat,1.56,1.56
+0x5623f,0x45623e,Sing,Wheel,Heat,1,1
+0x5641f,0x45641e,Sing,Wheel,Heat,1,1
+0x565ff,0x4565fe,Sing,Wheel,Heat,1.35,1.35
+0x567df,0x4567de,Sing,Wheel,Heat,1.69,1.69
+0x569bf,0x4569be,Sing,Wheel,Heat,1.26,1.26
+0x56b9f,0x456b9e,Sing,Wheel,Heat,1.52,1.52
+0x56d7f,0x456d7e,Sing,Wheel,Heat,1.41,1.41
+0x56f5f,0x456f5e,Sing,Wheel,Heat,1.65,1.65
+0x5713f,0x45713e,Sing,Wheel,Heat,1.56,1.56
+0x5731f,0x45731e,Sing,Wheel,Heat,1.15,1.15
+0x574ff,0x4574fe,Sing,Wheel,Heat,1.6,1.6
+0x576df,0x4576de,Sing,Wheel,Heat,1.5,1.5
+0x578bf,0x4578be,Sing,Wheel,Heat,2,2
+0x57a9f,0x457a9e,Sing,Wheel,Heat,2,2
+0x57c7f,0x457c7e,Sing,Wheel,Heat,2.4,2.4
+0x57e5f,0x457e5e,Sing,Wheel,Heat,1.54,1.54
+0x5803f,0x45803e,Sing,Wheel,Heat,1.81,1.81
+0x5821f,0x45821e,Sing,Wheel,Heat,1,1
+0x583ff,0x4583fe,Sing,Wheel,Heat,1,1
+0x55529,0x455528,Sing,Wheel,???,650,650
+0x55709,0x455708,Sing,Wheel,???,650,650
+0x558e9,0x4558e8,Sing,Wheel,???,650,650
+0x55ac9,0x455ac8,Sing,Wheel,???,650,650
+0x55ca9,0x455ca8,Sing,Wheel,???,650,650
+0x55e89,0x455e88,Sing,Wheel,???,650,650
+0x56069,0x456068,Sing,Wheel,???,650,650
+0x56249,0x456248,Sing,Wheel,???,650,650
+0x56429,0x456428,Sing,Wheel,???,650,650
+0x56609,0x456608,Sing,Wheel,???,650,650
+0x567e9,0x4567e8,Sing,Wheel,???,650,650
+0x569c9,0x4569c8,Sing,Wheel,???,650,650
+0x56ba9,0x456ba8,Sing,Wheel,???,650,650
+0x56d89,0x456d88,Sing,Wheel,???,650,650
+0x56f69,0x456f68,Sing,Wheel,???,650,650
+0x57149,0x457148,Sing,Wheel,???,650,650
+0x57329,0x457328,Sing,Wheel,???,650,650
+0x57509,0x457508,Sing,Wheel,???,650,650
+0x576e9,0x4576e8,Sing,Wheel,???,650,650
+0x578c9,0x4578c8,Sing,Wheel,???,650,650
+0x57aa9,0x457aa8,Sing,Wheel,???,650,650
+0x57c89,0x457c88,Sing,Wheel,???,650,650
+0x57e69,0x457e68,Sing,Wheel,???,620,620
+0x58049,0x458048,Sing,Wheel,???,650,650
+0x58229,0x458228,Sing,Wheel,???,650,650
+0x58409,0x458408,Sing,Wheel,???,650,650
+0x55533,0x455532,Sing,Wheel,??? Point-1,4500,4500
+0x55713,0x455712,Sing,Wheel,??? Point-1,4500,4500
+0x558f3,0x4558f2,Sing,Wheel,??? Point-1,4500,4500
+0x55ad3,0x455ad2,Sing,Wheel,??? Point-1,4500,4500
+0x55cb3,0x455cb2,Sing,Wheel,??? Point-1,4500,4500
+0x55e93,0x455e92,Sing,Wheel,??? Point-1,4500,4500
+0x56073,0x456072,Sing,Wheel,??? Point-1,4500,4500
+0x56253,0x456252,Sing,Wheel,??? Point-1,4500,4500
+0x56433,0x456432,Sing,Wheel,??? Point-1,4500,4500
+0x56613,0x456612,Sing,Wheel,??? Point-1,4500,4500
+0x567f3,0x4567f2,Sing,Wheel,??? Point-1,4500,4500
+0x569d3,0x4569d2,Sing,Wheel,??? Point-1,4500,4500
+0x56bb3,0x456bb2,Sing,Wheel,??? Point-1,4500,4500
+0x56d93,0x456d92,Sing,Wheel,??? Point-1,4500,4500
+0x56f73,0x456f72,Sing,Wheel,??? Point-1,4500,4500
+0x57153,0x457152,Sing,Wheel,??? Point-1,4500,4500
+0x57333,0x457332,Sing,Wheel,??? Point-1,4500,4500
+0x57513,0x457512,Sing,Wheel,??? Point-1,4500,4500
+0x576f3,0x4576f2,Sing,Wheel,??? Point-1,4500,4500
+0x578d3,0x4578d2,Sing,Wheel,??? Point-1,4500,4500
+0x57ab3,0x457ab2,Sing,Wheel,??? Point-1,4500,4500
+0x57c93,0x457c92,Sing,Wheel,??? Point-1,4500,4500
+0x57e73,0x457e72,Sing,Wheel,??? Point-1,4200,4200
+0x58053,0x458052,Sing,Wheel,??? Point-1,4500,4500
+0x58233,0x458232,Sing,Wheel,??? Point-1,4500,4500
+0x58413,0x458412,Sing,Wheel,??? Point-1,4500,4500
+0x5553d,0x45553c,Sing,Wheel,???,1.5,1.5
+0x5571d,0x45571c,Sing,Wheel,???,1.64,1.64
+0x558fd,0x4558fc,Sing,Wheel,???,1.7,1.7
+0x55add,0x455adc,Sing,Wheel,???,1.78,1.78
+0x55cbd,0x455cbc,Sing,Wheel,???,1.72,1.72
+0x55e9d,0x455e9c,Sing,Wheel,???,1.9,1.9
+0x5607d,0x45607c,Sing,Wheel,???,1.92,1.92
+0x5625d,0x45625c,Sing,Wheel,???,2,2
+0x5643d,0x45643c,Sing,Wheel,???,2.1,2.1
+0x5661d,0x45661c,Sing,Wheel,???,1.425,1.425
+0x567fd,0x4567fc,Sing,Wheel,???,1.558,1.558
+0x569dd,0x4569dc,Sing,Wheel,???,1.615,1.615
+0x56bbd,0x456bbc,Sing,Wheel,???,1.691,1.691
+0x56d9d,0x456d9c,Sing,Wheel,???,1.634,1.634
+0x56f7d,0x456f7c,Sing,Wheel,???,1.805,1.805
+0x5715d,0x45715c,Sing,Wheel,???,1.824,1.824
+0x5733d,0x45733c,Sing,Wheel,???,1.6,1.6
+0x5751d,0x45751c,Sing,Wheel,???,1.74,1.74
+0x576fd,0x4576fc,Sing,Wheel,???,1.7,1.7
+0x578dd,0x4578dc,Sing,Wheel,???,1.78,1.78
+0x57abd,0x457abc,Sing,Wheel,???,1.72,1.72
+0x57c9d,0x457c9c,Sing,Wheel,???,1.9,1.9
+0x57e7d,0x457e7c,Sing,Wheel,???,1.96,1.96
+0x5805d,0x45805c,Sing,Wheel,???,2,2
+0x5823d,0x45823c,Sing,Wheel,???,2,2
+0x5841d,0x45841c,Sing,Wheel,???,2.1,2.1
+0x5554d,0x45554c,Sing,Wheel,Grip,1.3,1.3
+0x5572d,0x45572c,Sing,Wheel,Grip,1.2,1.2
+0x5590d,0x45590c,Sing,Wheel,Grip,1.52,1.52
+0x55aed,0x455aec,Sing,Wheel,Grip,1.33,1.33
+0x55ccd,0x455ccc,Sing,Wheel,Grip,1.52,1.52
+0x55ead,0x455eac,Sing,Wheel,Grip,1.47,1.47
+0x5608d,0x45608c,Sing,Wheel,Grip,1.75,1.75
+0x5626d,0x45626c,Sing,Wheel,Grip,1.73,1.73
+0x5644d,0x45644c,Sing,Wheel,Grip,1.74,1.74
+0x5662d,0x45662c,Sing,Wheel,Grip,1.235,1.235
+0x5680d,0x45680c,Sing,Wheel,Grip,1.14,1.14
+0x569ed,0x4569ec,Sing,Wheel,Grip,1.444,1.444
+0x56bcd,0x456bcc,Sing,Wheel,Grip,1.2635,1.2635
+0x56dad,0x456dac,Sing,Wheel,Grip,1.444,1.444
+0x56f8d,0x456f8c,Sing,Wheel,Grip,1.3965,1.3965
+0x5716d,0x45716c,Sing,Wheel,Grip,1.6625,1.6625
+0x5734d,0x45734c,Sing,Wheel,Grip,1.4,1.4
+0x5752d,0x45752c,Sing,Wheel,Grip,1.3,1.3
+0x5770d,0x45770c,Sing,Wheel,Grip,1.52,1.52
+0x578ed,0x4578ec,Sing,Wheel,Grip,1.33,1.33
+0x57acd,0x457acc,Sing,Wheel,Grip,1.52,1.52
+0x57cad,0x457cac,Sing,Wheel,Grip,1.47,1.47
+0x57e8d,0x457e8c,Sing,Wheel,Grip,1.79,1.79
+0x5806d,0x45806c,Sing,Wheel,Grip,1.84,1.84
+0x5824d,0x45824c,Sing,Wheel,Grip,1.73,1.73
+0x5842d,0x45842c,Sing,Wheel,Grip,1.74,1.74
+0x55557,0x455556,Sing,Wheel,???,1.5,1.5
+0x55737,0x455736,Sing,Wheel,???,1.2,1.2
+0x55917,0x455916,Sing,Wheel,???,1.3,1.3
+0x55af7,0x455af6,Sing,Wheel,???,1.2,1.2
+0x55cd7,0x455cd6,Sing,Wheel,???,1.3,1.3
+0x55eb7,0x455eb6,Sing,Wheel,???,1.3,1.3
+0x56097,0x456096,Sing,Wheel,???,1.2,1.2
+0x56277,0x456276,Sing,Wheel,???,1.4,1.4
+0x56457,0x456456,Sing,Wheel,???,1.2,1.2
+0x56637,0x456636,Sing,Wheel,???,1.5,1.5
+0x56817,0x456816,Sing,Wheel,???,1.2,1.2
+0x569f7,0x4569f6,Sing,Wheel,???,1.3,1.3
+0x56bd7,0x456bd6,Sing,Wheel,???,1.2,1.2
+0x56db7,0x456db6,Sing,Wheel,???,1.3,1.3
+0x56f97,0x456f96,Sing,Wheel,???,1.3,1.3
+0x57177,0x457176,Sing,Wheel,???,1.2,1.2
+0x57357,0x457356,Sing,Wheel,???,1.5,1.5
+0x57537,0x457536,Sing,Wheel,???,1.2,1.2
+0x57717,0x457716,Sing,Wheel,???,1.3,1.3
+0x578f7,0x4578f6,Sing,Wheel,???,1.2,1.2
+0x57ad7,0x457ad6,Sing,Wheel,???,1.3,1.3
+0x57cb7,0x457cb6,Sing,Wheel,???,1.3,1.3
+0x57e97,0x457e96,Sing,Wheel,???,1.2,1.2
+0x58077,0x458076,Sing,Wheel,???,1.2,1.2
+0x58257,0x458256,Sing,Wheel,???,1.4,1.4
+0x58437,0x458436,Sing,Wheel,???,1.2,1.2
+0x55561,0x455560,Sing,Wheel,???,120,120
+0x55741,0x455740,Sing,Wheel,???,120,120
+0x55921,0x455920,Sing,Wheel,???,120,120
+0x55b01,0x455b00,Sing,Wheel,???,120,120
+0x55ce1,0x455ce0,Sing,Wheel,???,120,120
+0x55ec1,0x455ec0,Sing,Wheel,???,120,120
+0x560a1,0x4560a0,Sing,Wheel,???,120,120
+0x56281,0x456280,Sing,Wheel,???,90,90
+0x56461,0x456460,Sing,Wheel,???,180,180
+0x56641,0x456640,Sing,Wheel,???,120,120
+0x56821,0x456820,Sing,Wheel,???,120,120
+0x56a01,0x456a00,Sing,Wheel,???,120,120
+0x56be1,0x456be0,Sing,Wheel,???,120,120
+0x56dc1,0x456dc0,Sing,Wheel,???,120,120
+0x56fa1,0x456fa0,Sing,Wheel,???,120,120
+0x57181,0x457180,Sing,Wheel,???,120,120
+0x57361,0x457360,Sing,Wheel,???,120,120
+0x57541,0x457540,Sing,Wheel,???,120,120
+0x57721,0x457720,Sing,Wheel,???,120,120
+0x57901,0x457900,Sing,Wheel,???,120,120
+0x57ae1,0x457ae0,Sing,Wheel,???,120,120
+0x57cc1,0x457cc0,Sing,Wheel,???,120,120
+0x57ea1,0x457ea0,Sing,Wheel,???,120,120
+0x58081,0x458080,Sing,Wheel,???,120,120
+0x58261,0x458260,Sing,Wheel,???,90,90
+0x58441,0x458440,Sing,Wheel,???,180,180
+0x5556b,0x45556a,Sing,Wheel,???,0.02,0.02
+0x5574b,0x45574a,Sing,Wheel,???,0.02,0.02
+0x5592b,0x45592a,Sing,Wheel,???,0.02,0.02
+0x55b0b,0x455b0a,Sing,Wheel,???,0.02,0.02
+0x55ceb,0x455cea,Sing,Wheel,???,0.02,0.02
+0x55ecb,0x455eca,Sing,Wheel,???,0.02,0.02
+0x560ab,0x4560aa,Sing,Wheel,???,0.02,0.02
+0x5628b,0x45628a,Sing,Wheel,???,0.1,0.1
+0x5646b,0x45646a,Sing,Wheel,???,0.1,0.1
+0x5664b,0x45664a,Sing,Wheel,???,0.02,0.02
+0x5682b,0x45682a,Sing,Wheel,???,0.02,0.02
+0x56a0b,0x456a0a,Sing,Wheel,???,0.02,0.02
+0x56beb,0x456bea,Sing,Wheel,???,0.02,0.02
+0x56dcb,0x456dca,Sing,Wheel,???,0.02,0.02
+0x56fab,0x456faa,Sing,Wheel,???,0.02,0.02
+0x5718b,0x45718a,Sing,Wheel,???,0.02,0.02
+0x5736b,0x45736a,Sing,Wheel,???,0.02,0.02
+0x5754b,0x45754a,Sing,Wheel,???,0.02,0.02
+0x5772b,0x45772a,Sing,Wheel,???,0.02,0.02
+0x5790b,0x45790a,Sing,Wheel,???,0.02,0.02
+0x57aeb,0x457aea,Sing,Wheel,???,0.02,0.02
+0x57ccb,0x457cca,Sing,Wheel,???,0.02,0.02
+0x57eab,0x457eaa,Sing,Wheel,???,0.02,0.02
+0x5808b,0x45808a,Sing,Wheel,???,0.02,0.02
+0x5826b,0x45826a,Sing,Wheel,???,0.1,0.1
+0x5844b,0x45844a,Sing,Wheel,???,0.1,0.1
+0x5558d,0x45558c,Sing,Wheel,???,1,1
+0x5576d,0x45576c,Sing,Wheel,???,1,1
+0x5594d,0x45594c,Sing,Wheel,???,1,1
+0x55b2d,0x455b2c,Sing,Wheel,???,1,1
+0x55d0d,0x455d0c,Sing,Wheel,???,1,1
+0x55eed,0x455eec,Sing,Wheel,???,1,1
+0x560cd,0x4560cc,Sing,Wheel,???,1,1
+0x562ad,0x4562ac,Sing,Wheel,???,0.9,0.9
+0x5648d,0x45648c,Sing,Wheel,???,0.9,0.9
+0x5666d,0x45666c,Sing,Wheel,???,1,1
+0x5684d,0x45684c,Sing,Wheel,???,1,1
+0x56a2d,0x456a2c,Sing,Wheel,???,1,1
+0x56c0d,0x456c0c,Sing,Wheel,???,1,1
+0x56ded,0x456dec,Sing,Wheel,???,1,1
+0x56fcd,0x456fcc,Sing,Wheel,???,1,1
+0x571ad,0x4571ac,Sing,Wheel,???,1,1
+0x5738d,0x45738c,Sing,Wheel,???,1,1
+0x5756d,0x45756c,Sing,Wheel,???,1,1
+0x5774d,0x45774c,Sing,Wheel,???,1,1
+0x5792d,0x45792c,Sing,Wheel,???,1,1
+0x57b0d,0x457b0c,Sing,Wheel,???,1,1
+0x57ced,0x457cec,Sing,Wheel,???,1,1
+0x57ecd,0x457ecc,Sing,Wheel,???,1,1
+0x580ad,0x4580ac,Sing,Wheel,???,1,1
+0x5828d,0x45828c,Sing,Wheel,???,0.9,0.9
+0x5846d,0x45846c,Sing,Wheel,???,0.9,0.9
+0x55597,0x455596,Sing,Wheel,Grip-2,-0.23,-0.23
+0x55777,0x455776,Sing,Wheel,Grip-2,-0.15,-0.15
+0x55957,0x455956,Sing,Wheel,Grip-2,-0.24,-0.24
+0x55b37,0x455b36,Sing,Wheel,Grip-2,-0.17,-0.17
+0x55d17,0x455d16,Sing,Wheel,Grip-2,-0.22,-0.22
+0x55ef7,0x455ef6,Sing,Wheel,Grip-2,-0.22,-0.22
+0x560d7,0x4560d6,Sing,Wheel,Grip-2,-0.36,-0.36
+0x562b7,0x4562b6,Sing,Wheel,Grip-2,-0.2,-0.2
+0x56497,0x456496,Sing,Wheel,Grip-2,-0.2,-0.2
+0x56677,0x456676,Sing,Wheel,Grip-2,-0.23,-0.23
+0x56857,0x456856,Sing,Wheel,Grip-2,-0.15,-0.15
+0x56a37,0x456a36,Sing,Wheel,Grip-2,-0.24,-0.24
+0x56c17,0x456c16,Sing,Wheel,Grip-2,-0.17,-0.17
+0x56df7,0x456df6,Sing,Wheel,Grip-2,-0.22,-0.22
+0x56fd7,0x456fd6,Sing,Wheel,Grip-2,-0.22,-0.22
+0x571b7,0x4571b6,Sing,Wheel,Grip-2,-0.36,-0.36
+0x57397,0x457396,Sing,Wheel,Grip-2,-0.26,-0.26
+0x57577,0x457576,Sing,Wheel,Grip-2,-0.17,-0.17
+0x57757,0x457756,Sing,Wheel,Grip-2,-0.24,-0.24
+0x57937,0x457936,Sing,Wheel,Grip-2,-0.17,-0.17
+0x57b17,0x457b16,Sing,Wheel,Grip-2,-0.22,-0.22
+0x57cf7,0x457cf6,Sing,Wheel,Grip-2,-0.22,-0.22
+0x57ed7,0x457ed6,Sing,Wheel,Grip-2,-0.32,-0.32
+0x580b7,0x4580b6,Sing,Wheel,Grip-2,-0.3,-0.3
+0x58297,0x458296,Sing,Wheel,Grip-2,-0.2,-0.2
+0x58477,0x458476,Sing,Wheel,Grip-2,-0.2,-0.2
+0x555a3,0x4555a2,Sing,Wheel,??? Point-2,4700,4700
+0x55783,0x455782,Sing,Wheel,??? Point-2,7500,7500
+0x55963,0x455962,Sing,Wheel,??? Point-2,4450,4450
+0x55b43,0x455b42,Sing,Wheel,??? Point-2,7200,7200
+0x55d23,0x455d22,Sing,Wheel,??? Point-2,4200,4200
+0x55f03,0x455f02,Sing,Wheel,??? Point-2,6300,6300
+0x560e3,0x4560e2,Sing,Wheel,??? Point-2,3350,3350
+0x562c3,0x4562c2,Sing,Wheel,??? Point-2,5000,5000
+0x564a3,0x4564a2,Sing,Wheel,??? Point-2,5000,5000
+0x56683,0x456682,Sing,Wheel,??? Point-2,4700,4700
+0x56863,0x456862,Sing,Wheel,??? Point-2,7500,7500
+0x56a43,0x456a42,Sing,Wheel,??? Point-2,4450,4450
+0x56c23,0x456c22,Sing,Wheel,??? Point-2,7200,7200
+0x56e03,0x456e02,Sing,Wheel,??? Point-2,4200,4200
+0x56fe3,0x456fe2,Sing,Wheel,??? Point-2,6300,6300
+0x571c3,0x4571c2,Sing,Wheel,??? Point-2,3350,3350
+0x573a3,0x4573a2,Sing,Wheel,??? Point-2,3760,3760
+0x57583,0x457582,Sing,Wheel,??? Point-2,6000,6000
+0x57763,0x457762,Sing,Wheel,??? Point-2,3560,3560
+0x57943,0x457942,Sing,Wheel,??? Point-2,5760,5760
+0x57b23,0x457b22,Sing,Wheel,??? Point-2,3360,3360
+0x57d03,0x457d02,Sing,Wheel,??? Point-2,5040,5040
+0x57ee3,0x457ee2,Sing,Wheel,??? Point-2,2610,2610
+0x580c3,0x4580c2,Sing,Wheel,??? Point-2,2710,2710
+0x582a3,0x4582a2,Sing,Wheel,??? Point-2,5000,5000
+0x58483,0x458482,Sing,Wheel,??? Point-2,5000,5000
+0x555ad,0x4555ac,Sing,Wheel,???,0.42,0.42
+0x5578d,0x45578c,Sing,Wheel,???,0.28,0.28
+0x5596d,0x45596c,Sing,Wheel,???,0.33,0.33
+0x55b4d,0x455b4c,Sing,Wheel,???,0.29,0.29
+0x55d2d,0x455d2c,Sing,Wheel,???,0.26,0.26
+0x55f0d,0x455f0c,Sing,Wheel,???,0.21,0.21
+0x560ed,0x4560ec,Sing,Wheel,???,0.3,0.3
+0x562cd,0x4562cc,Sing,Wheel,???,0.16,0.16
+0x564ad,0x4564ac,Sing,Wheel,???,0.16,0.16
+0x5668d,0x45668c,Sing,Wheel,???,0.42,0.42
+0x5686d,0x45686c,Sing,Wheel,???,0.28,0.28
+0x56a4d,0x456a4c,Sing,Wheel,???,0.33,0.33
+0x56c2d,0x456c2c,Sing,Wheel,???,0.29,0.29
+0x56e0d,0x456e0c,Sing,Wheel,???,0.26,0.26
+0x56fed,0x456fec,Sing,Wheel,???,0.21,0.21
+0x571cd,0x4571cc,Sing,Wheel,???,0.3,0.3
+0x573ad,0x4573ac,Sing,Wheel,???,0.38,0.38
+0x5758d,0x45758c,Sing,Wheel,???,0.28,0.28
+0x5776d,0x45776c,Sing,Wheel,???,0.33,0.33
+0x5794d,0x45794c,Sing,Wheel,???,0.29,0.29
+0x57b2d,0x457b2c,Sing,Wheel,???,0.26,0.26
+0x57d0d,0x457d0c,Sing,Wheel,???,0.21,0.21
+0x57eed,0x457eec,Sing,Wheel,???,0.3,0.3
+0x580cd,0x4580cc,Sing,Wheel,???,0.3,0.3
+0x582ad,0x4582ac,Sing,Wheel,???,0.16,0.16
+0x5848d,0x45848c,Sing,Wheel,???,0.16,0.16
+0x555b7,0x4555b6,Sing,Wheel,???,1.13,1.13
+0x55797,0x455796,Sing,Wheel,???,1.13,1.13
+0x55977,0x455976,Sing,Wheel,???,1.13,1.13
+0x55b57,0x455b56,Sing,Wheel,???,1.13,1.13
+0x55d37,0x455d36,Sing,Wheel,???,1.13,1.13
+0x55f17,0x455f16,Sing,Wheel,???,1.13,1.13
+0x560f7,0x4560f6,Sing,Wheel,???,1.13,1.13
+0x562d7,0x4562d6,Sing,Wheel,???,1.13,1.13
+0x564b7,0x4564b6,Sing,Wheel,???,1.1,1.1
+0x56697,0x456696,Sing,Wheel,???,1.13,1.13
+0x56877,0x456876,Sing,Wheel,???,1.13,1.13
+0x56a57,0x456a56,Sing,Wheel,???,1.13,1.13
+0x56c37,0x456c36,Sing,Wheel,???,1.13,1.13
+0x56e17,0x456e16,Sing,Wheel,???,1.13,1.13
+0x56ff7,0x456ff6,Sing,Wheel,???,1.13,1.13
+0x571d7,0x4571d6,Sing,Wheel,???,1.13,1.13
+0x573b7,0x4573b6,Sing,Wheel,???,1.13,1.13
+0x57597,0x457596,Sing,Wheel,???,1.13,1.13
+0x57777,0x457776,Sing,Wheel,???,1.13,1.13
+0x57957,0x457956,Sing,Wheel,???,1.13,1.13
+0x57b37,0x457b36,Sing,Wheel,???,1.13,1.13
+0x57d17,0x457d16,Sing,Wheel,???,1.13,1.13
+0x57ef7,0x457ef6,Sing,Wheel,???,1.13,1.13
+0x580d7,0x4580d6,Sing,Wheel,???,1.13,1.13
+0x582b7,0x4582b6,Sing,Wheel,???,1.13,1.13
+0x58497,0x458496,Sing,Wheel,???,1.1,1.1
+0x555c1,0x4555c0,Sing,Wheel,???,4.33E-06,4.33E-06
+0x557a1,0x4557a0,Sing,Wheel,???,6.67E-06,6.67E-06
+0x55981,0x455980,Sing,Wheel,???,6.33E-06,6.33E-06
+0x55b61,0x455b60,Sing,Wheel,???,6.67E-06,6.67E-06
+0x55d41,0x455d40,Sing,Wheel,???,6.33E-06,6.33E-06
+0x55f21,0x455f20,Sing,Wheel,???,6.67E-06,6.67E-06
+0x56101,0x456100,Sing,Wheel,???,6.67E-06,6.67E-06
+0x562e1,0x4562e0,Sing,Wheel,???,6.67E-09,6.67E-09
+0x564c1,0x4564c0,Sing,Wheel,???,6.67E-09,6.67E-09
+0x566a1,0x4566a0,Sing,Wheel,???,0.00000286,0.00000286
+0x56881,0x456880,Sing,Wheel,???,0.0000044,0.0000044
+0x56a61,0x456a60,Sing,Wheel,???,0.00000418,0.00000418
+0x56c41,0x456c40,Sing,Wheel,???,0.0000044,0.0000044
+0x56e21,0x456e20,Sing,Wheel,???,0.00000418,0.00000418
+0x57001,0x457000,Sing,Wheel,???,0.0000044,0.0000044
+0x571e1,0x4571e0,Sing,Wheel,???,0.0000044,0.0000044
+0x573c1,0x4573c0,Sing,Wheel,???,0.000002,0.000002
+0x575a1,0x4575a0,Sing,Wheel,???,0.000002,0.000002
+0x57781,0x457780,Sing,Wheel,???,0.000002,0.000002
+0x57961,0x457960,Sing,Wheel,???,0.000002,0.000002
+0x57b41,0x457b40,Sing,Wheel,???,0.000002,0.000002
+0x57d21,0x457d20,Sing,Wheel,???,0.000002,0.000002
+0x57f01,0x457f00,Sing,Wheel,???,0.000002,0.000002
+0x580e1,0x4580e0,Sing,Wheel,???,0.000002,0.000002
+0x582c1,0x4582c0,Sing,Wheel,???,0.000000002,0.000000002
+0x584a1,0x4584a0,Sing,Wheel,???,0.000000002,0.000000002
+0x555cb,0x4555ca,Sing,Wheel,???,0.000181818,0.000181818
+0x557ab,0x4557aa,Sing,Wheel,???,0.000181818,0.000181818
+0x5598b,0x45598a,Sing,Wheel,???,0.000181818,0.000181818
+0x55b6b,0x455b6a,Sing,Wheel,???,0.000181818,0.000181818
+0x55d4b,0x455d4a,Sing,Wheel,???,0.000181818,0.000181818
+0x55f2b,0x455f2a,Sing,Wheel,???,0.000181818,0.000181818
+0x5610b,0x45610a,Sing,Wheel,???,0.000181818,0.000181818
+0x562eb,0x4562ea,Sing,Wheel,???,0.000181818,0.000181818
+0x564cb,0x4564ca,Sing,Wheel,???,0.000181818,0.000181818
+0x566ab,0x4566aa,Sing,Wheel,???,0.00012,0.00012
+0x5688b,0x45688a,Sing,Wheel,???,0.00012,0.00012
+0x56a6b,0x456a6a,Sing,Wheel,???,0.00012,0.00012
+0x56c4b,0x456c4a,Sing,Wheel,???,0.00012,0.00012
+0x56e2b,0x456e2a,Sing,Wheel,???,0.00012,0.00012
+0x5700b,0x45700a,Sing,Wheel,???,0.00012,0.00012
+0x571eb,0x4571ea,Sing,Wheel,???,0.00012,0.00012
+0x573cb,0x4573ca,Sing,Wheel,???,0.000181818,0.000181818
+0x575ab,0x4575aa,Sing,Wheel,???,0.000181818,0.000181818
+0x5778b,0x45778a,Sing,Wheel,???,0.000181818,0.000181818
+0x5796b,0x45796a,Sing,Wheel,???,0.000181818,0.000181818
+0x57b4b,0x457b4a,Sing,Wheel,???,0.000181818,0.000181818
+0x57d2b,0x457d2a,Sing,Wheel,???,0.000181818,0.000181818
+0x57f0b,0x457f0a,Sing,Wheel,???,0.000181818,0.000181818
+0x580eb,0x4580ea,Sing,Wheel,???,0.000181818,0.000181818
+0x582cb,0x4582ca,Sing,Wheel,???,0.000181818,0.000181818
+0x584ab,0x4584aa,Sing,Wheel,???,0.000181818,0.000181818
+0x555d5,0x4555d4,Sing,Wheel,???,6.67E-06,6.67E-06
+0x557b5,0x4557b4,Sing,Wheel,???,6.67E-06,6.67E-06
+0x55995,0x455994,Sing,Wheel,???,6.67E-06,6.67E-06
+0x55b75,0x455b74,Sing,Wheel,???,6.67E-06,6.67E-06
+0x55d55,0x455d54,Sing,Wheel,???,6.67E-06,6.67E-06
+0x55f35,0x455f34,Sing,Wheel,???,6.67E-06,6.67E-06
+0x56115,0x456114,Sing,Wheel,???,6.67E-06,6.67E-06
+0x562f5,0x4562f4,Sing,Wheel,???,6.67E-06,6.67E-06
+0x564d5,0x4564d4,Sing,Wheel,???,6.67E-06,6.67E-06
+0x566b5,0x4566b4,Sing,Wheel,???,6.67E-06,6.67E-06
+0x56895,0x456894,Sing,Wheel,???,6.67E-06,6.67E-06
+0x56a75,0x456a74,Sing,Wheel,???,6.67E-06,6.67E-06
+0x56c55,0x456c54,Sing,Wheel,???,6.67E-06,6.67E-06
+0x56e35,0x456e34,Sing,Wheel,???,6.67E-06,6.67E-06
+0x57015,0x457014,Sing,Wheel,???,6.67E-06,6.67E-06
+0x571f5,0x4571f4,Sing,Wheel,???,6.67E-06,6.67E-06
+0x573d5,0x4573d4,Sing,Wheel,???,6.67E-06,6.67E-06
+0x575b5,0x4575b4,Sing,Wheel,???,6.67E-06,6.67E-06
+0x57795,0x457794,Sing,Wheel,???,6.67E-06,6.67E-06
+0x57975,0x457974,Sing,Wheel,???,6.67E-06,6.67E-06
+0x57b55,0x457b54,Sing,Wheel,???,6.67E-06,6.67E-06
+0x57d35,0x457d34,Sing,Wheel,???,6.67E-06,6.67E-06
+0x57f15,0x457f14,Sing,Wheel,???,6.67E-06,6.67E-06
+0x580f5,0x4580f4,Sing,Wheel,???,6.67E-06,6.67E-06
+0x582d5,0x4582d4,Sing,Wheel,???,6.67E-06,6.67E-06
+0x584b5,0x4584b4,Sing,Wheel,???,6.67E-06,6.67E-06
+0x555fd,0x4555fc,Sing,Wheel,???,0.000666667,0.000666667
+0x557dd,0x4557dc,Sing,Wheel,???,0.000666667,0.000666667
+0x559bd,0x4559bc,Sing,Wheel,???,0.000666667,0.000666667
+0x55b9d,0x455b9c,Sing,Wheel,???,0.000666667,0.000666667
+0x55d7d,0x455d7c,Sing,Wheel,???,0.000666667,0.000666667
+0x55f5d,0x455f5c,Sing,Wheel,???,0.000666667,0.000666667
+0x5613d,0x45613c,Sing,Wheel,???,0.000666667,0.000666667
+0x5631d,0x45631c,Sing,Wheel,???,0.000666667,0.000666667
+0x564fd,0x4564fc,Sing,Wheel,???,0.000666667,0.000666667
+0x566dd,0x4566dc,Sing,Wheel,???,0.000666667,0.000666667
+0x568bd,0x4568bc,Sing,Wheel,???,0.000666667,0.000666667
+0x56a9d,0x456a9c,Sing,Wheel,???,0.000666667,0.000666667
+0x56c7d,0x456c7c,Sing,Wheel,???,0.000666667,0.000666667
+0x56e5d,0x456e5c,Sing,Wheel,???,0.000666667,0.000666667
+0x5703d,0x45703c,Sing,Wheel,???,0.000666667,0.000666667
+0x5721d,0x45721c,Sing,Wheel,???,0.000666667,0.000666667
+0x573fd,0x4573fc,Sing,Wheel,???,0.000666667,0.000666667
+0x575dd,0x4575dc,Sing,Wheel,???,0.000666667,0.000666667
+0x577bd,0x4577bc,Sing,Wheel,???,0.000666667,0.000666667
+0x5799d,0x45799c,Sing,Wheel,???,0.000666667,0.000666667
+0x57b7d,0x457b7c,Sing,Wheel,???,0.000666667,0.000666667
+0x57d5d,0x457d5c,Sing,Wheel,???,0.000666667,0.000666667
+0x57f3d,0x457f3c,Sing,Wheel,???,0.000666667,0.000666667
+0x5811d,0x45811c,Sing,Wheel,???,0.000666667,0.000666667
+0x582fd,0x4582fc,Sing,Wheel,???,0.000666667,0.000666667
+0x584dd,0x4584dc,Sing,Wheel,???,0.000666667,0.000666667
+0x55607,0x455606,Sing,Wheel,???,35,35
+0x557e7,0x4557e6,Sing,Wheel,???,35,35
+0x559c7,0x4559c6,Sing,Wheel,???,35,35
+0x55ba7,0x455ba6,Sing,Wheel,???,35,35
+0x55d87,0x455d86,Sing,Wheel,???,35,35
+0x55f67,0x455f66,Sing,Wheel,???,35,35
+0x56147,0x456146,Sing,Wheel,???,35,35
+0x56327,0x456326,Sing,Wheel,???,35,35
+0x56507,0x456506,Sing,Wheel,???,35,35
+0x566e7,0x4566e6,Sing,Wheel,???,35,35
+0x568c7,0x4568c6,Sing,Wheel,???,35,35
+0x56aa7,0x456aa6,Sing,Wheel,???,35,35
+0x56c87,0x456c86,Sing,Wheel,???,35,35
+0x56e67,0x456e66,Sing,Wheel,???,35,35
+0x57047,0x457046,Sing,Wheel,???,35,35
+0x57227,0x457226,Sing,Wheel,???,35,35
+0x57407,0x457406,Sing,Wheel,???,35,35
+0x575e7,0x4575e6,Sing,Wheel,???,35,35
+0x577c7,0x4577c6,Sing,Wheel,???,35,35
+0x579a7,0x4579a6,Sing,Wheel,???,35,35
+0x57b87,0x457b86,Sing,Wheel,???,35,35
+0x57d67,0x457d66,Sing,Wheel,???,35,35
+0x57f47,0x457f46,Sing,Wheel,???,35,35
+0x58127,0x458126,Sing,Wheel,???,35,35
+0x58307,0x458306,Sing,Wheel,???,35,35
+0x584e7,0x4584e6,Sing,Wheel,???,35,35
+0x55613,0x455612,Sing,Wheel,???,372,372
+0x557f3,0x4557f2,Sing,Wheel,???,388,388
+0x559d3,0x4559d2,Sing,Wheel,???,372,372
+0x55bb3,0x455bb2,Sing,Wheel,???,388,388
+0x55d93,0x455d92,Sing,Wheel,???,372,372
+0x55f73,0x455f72,Sing,Wheel,???,388,388
+0x56153,0x456152,Sing,Wheel,???,372,372
+0x56333,0x456332,Sing,Wheel,???,400,400
+0x56513,0x456512,Sing,Wheel,???,400,400
+0x566f3,0x4566f2,Sing,Wheel,???,372,372
+0x568d3,0x4568d2,Sing,Wheel,???,388,388
+0x56ab3,0x456ab2,Sing,Wheel,???,372,372
+0x56c93,0x456c92,Sing,Wheel,???,388,388
+0x56e73,0x456e72,Sing,Wheel,???,372,372
+0x57053,0x457052,Sing,Wheel,???,388,388
+0x57233,0x457232,Sing,Wheel,???,372,372
+0x57413,0x457412,Sing,Wheel,???,372,372
+0x575f3,0x4575f2,Sing,Wheel,???,388,388
+0x577d3,0x4577d2,Sing,Wheel,???,372,372
+0x579b3,0x4579b2,Sing,Wheel,???,388,388
+0x57b93,0x457b92,Sing,Wheel,???,372,372
+0x57d73,0x457d72,Sing,Wheel,???,388,388
+0x57f53,0x457f52,Sing,Wheel,???,372,372
+0x58133,0x458132,Sing,Wheel,???,372,372
+0x58313,0x458312,Sing,Wheel,???,400,400
+0x584f3,0x4584f2,Sing,Wheel,???,400,400
+0x5561d,0x45561c,Sing,Wheel,???,505,505
+0x557fd,0x4557fc,Sing,Wheel,???,505,505
+0x559dd,0x4559dc,Sing,Wheel,???,505,505
+0x55bbd,0x455bbc,Sing,Wheel,???,505,505
+0x55d9d,0x455d9c,Sing,Wheel,???,505,505
+0x55f7d,0x455f7c,Sing,Wheel,???,505,505
+0x5615d,0x45615c,Sing,Wheel,???,505,505
+0x5633d,0x45633c,Sing,Wheel,???,505,505
+0x5651d,0x45651c,Sing,Wheel,???,505,505
+0x566fd,0x4566fc,Sing,Wheel,???,505,505
+0x568dd,0x4568dc,Sing,Wheel,???,505,505
+0x56abd,0x456abc,Sing,Wheel,???,505,505
+0x56c9d,0x456c9c,Sing,Wheel,???,505,505
+0x56e7d,0x456e7c,Sing,Wheel,???,505,505
+0x5705d,0x45705c,Sing,Wheel,???,505,505
+0x5723d,0x45723c,Sing,Wheel,???,505,505
+0x5741d,0x45741c,Sing,Wheel,???,505,505
+0x575fd,0x4575fc,Sing,Wheel,???,505,505
+0x577dd,0x4577dc,Sing,Wheel,???,505,505
+0x579bd,0x4579bc,Sing,Wheel,???,505,505
+0x57b9d,0x457b9c,Sing,Wheel,???,505,505
+0x57d7d,0x457d7c,Sing,Wheel,???,505,505
+0x57f5d,0x457f5c,Sing,Wheel,???,505,505
+0x5813d,0x45813c,Sing,Wheel,???,505,505
+0x5831d,0x45831c,Sing,Wheel,???,505,505
+0x584fd,0x4584fc,Sing,Wheel,???,505,505
+0x55627,0x455626,Sing,Wheel,???,9200,9200
+0x55807,0x455806,Sing,Wheel,???,9200,9200
+0x559e7,0x4559e6,Sing,Wheel,???,9200,9200
+0x55bc7,0x455bc6,Sing,Wheel,???,9200,9200
+0x55da7,0x455da6,Sing,Wheel,???,9200,9200
+0x55f87,0x455f86,Sing,Wheel,???,9200,9200
+0x56167,0x456166,Sing,Wheel,???,9200,9200
+0x56347,0x456346,Sing,Wheel,???,9200,9200
+0x56527,0x456526,Sing,Wheel,???,9200,9200
+0x56707,0x456706,Sing,Wheel,???,9200,9200
+0x568e7,0x4568e6,Sing,Wheel,???,9200,9200
+0x56ac7,0x456ac6,Sing,Wheel,???,9200,9200
+0x56ca7,0x456ca6,Sing,Wheel,???,9200,9200
+0x56e87,0x456e86,Sing,Wheel,???,9200,9200
+0x57067,0x457066,Sing,Wheel,???,9200,9200
+0x57247,0x457246,Sing,Wheel,???,9200,9200
+0x57427,0x457426,Sing,Wheel,???,9200,9200
+0x57607,0x457606,Sing,Wheel,???,9200,9200
+0x577e7,0x4577e6,Sing,Wheel,???,9200,9200
+0x579c7,0x4579c6,Sing,Wheel,???,9200,9200
+0x57ba7,0x457ba6,Sing,Wheel,???,9200,9200
+0x57d87,0x457d86,Sing,Wheel,???,9200,9200
+0x57f67,0x457f66,Sing,Wheel,???,9200,9200
+0x58147,0x458146,Sing,Wheel,???,9200,9200
+0x58327,0x458326,Sing,Wheel,???,9200,9200
+0x58507,0x458506,Sing,Wheel,???,9200,9200
+0x55631,0x455630,Sing,Wheel,???,0.0036,0.0036
+0x55811,0x455810,Sing,Wheel,???,0.0036,0.0036
+0x559f1,0x4559f0,Sing,Wheel,???,0.0036,0.0036
+0x55bd1,0x455bd0,Sing,Wheel,???,0.0036,0.0036
+0x55db1,0x455db0,Sing,Wheel,???,0.0036,0.0036
+0x55f91,0x455f90,Sing,Wheel,???,0.0036,0.0036
+0x56171,0x456170,Sing,Wheel,???,0.0036,0.0036
+0x56351,0x456350,Sing,Wheel,???,0.0036,0.0036
+0x56531,0x456530,Sing,Wheel,???,0.0036,0.0036
+0x56711,0x456710,Sing,Wheel,???,0.0036,0.0036
+0x568f1,0x4568f0,Sing,Wheel,???,0.0036,0.0036
+0x56ad1,0x456ad0,Sing,Wheel,???,0.0036,0.0036
+0x56cb1,0x456cb0,Sing,Wheel,???,0.0036,0.0036
+0x56e91,0x456e90,Sing,Wheel,???,0.0036,0.0036
+0x57071,0x457070,Sing,Wheel,???,0.0036,0.0036
+0x57251,0x457250,Sing,Wheel,???,0.0036,0.0036
+0x57431,0x457430,Sing,Wheel,???,0.0036,0.0036
+0x57611,0x457610,Sing,Wheel,???,0.0036,0.0036
+0x577f1,0x4577f0,Sing,Wheel,???,0.0036,0.0036
+0x579d1,0x4579d0,Sing,Wheel,???,0.0036,0.0036
+0x57bb1,0x457bb0,Sing,Wheel,???,0.0036,0.0036
+0x57d91,0x457d90,Sing,Wheel,???,0.0036,0.0036
+0x57f71,0x457f70,Sing,Wheel,???,0.0036,0.0036
+0x58151,0x458150,Sing,Wheel,???,0.0036,0.0036
+0x58331,0x458330,Sing,Wheel,???,0.0036,0.0036
+0x58511,0x458510,Sing,Wheel,???,0.0036,0.0036
+0x55645,0x455644,Sing,Wheel,???,400,400
+0x55825,0x455824,Sing,Wheel,???,400,400
+0x55a05,0x455a04,Sing,Wheel,???,400,400
+0x55be5,0x455be4,Sing,Wheel,???,400,400
+0x55dc5,0x455dc4,Sing,Wheel,???,400,400
+0x55fa5,0x455fa4,Sing,Wheel,???,400,400
+0x56185,0x456184,Sing,Wheel,???,400,400
+0x56365,0x456364,Sing,Wheel,???,400,400
+0x56545,0x456544,Sing,Wheel,???,400,400
+0x56725,0x456724,Sing,Wheel,???,400,400
+0x56905,0x456904,Sing,Wheel,???,400,400
+0x56ae5,0x456ae4,Sing,Wheel,???,400,400
+0x56cc5,0x456cc4,Sing,Wheel,???,400,400
+0x56ea5,0x456ea4,Sing,Wheel,???,400,400
+0x57085,0x457084,Sing,Wheel,???,400,400
+0x57265,0x457264,Sing,Wheel,???,400,400
+0x57445,0x457444,Sing,Wheel,???,400,400
+0x57625,0x457624,Sing,Wheel,???,400,400
+0x57805,0x457804,Sing,Wheel,???,400,400
+0x579e5,0x4579e4,Sing,Wheel,???,400,400
+0x57bc5,0x457bc4,Sing,Wheel,???,400,400
+0x57da5,0x457da4,Sing,Wheel,???,400,400
+0x57f85,0x457f84,Sing,Wheel,???,400,400
+0x58165,0x458164,Sing,Wheel,???,400,400
+0x58345,0x458344,Sing,Wheel,???,400,400
+0x58525,0x458524,Sing,Wheel,???,400,400
+0x5564f,0x45564e,Sing,Wheel,???,550,550
+0x5582f,0x45582e,Sing,Wheel,???,550,550
+0x55a0f,0x455a0e,Sing,Wheel,???,550,550
+0x55bef,0x455bee,Sing,Wheel,???,550,550
+0x55dcf,0x455dce,Sing,Wheel,???,550,550
+0x55faf,0x455fae,Sing,Wheel,???,550,550
+0x5618f,0x45618e,Sing,Wheel,???,550,550
+0x5636f,0x45636e,Sing,Wheel,???,550,550
+0x5654f,0x45654e,Sing,Wheel,???,550,550
+0x5672f,0x45672e,Sing,Wheel,???,550,550
+0x5690f,0x45690e,Sing,Wheel,???,550,550
+0x56aef,0x456aee,Sing,Wheel,???,550,550
+0x56ccf,0x456cce,Sing,Wheel,???,550,550
+0x56eaf,0x456eae,Sing,Wheel,???,550,550
+0x5708f,0x45708e,Sing,Wheel,???,550,550
+0x5726f,0x45726e,Sing,Wheel,???,550,550
+0x5744f,0x45744e,Sing,Wheel,???,550,550
+0x5762f,0x45762e,Sing,Wheel,???,550,550
+0x5780f,0x45780e,Sing,Wheel,???,550,550
+0x579ef,0x4579ee,Sing,Wheel,???,550,550
+0x57bcf,0x457bce,Sing,Wheel,???,550,550
+0x57daf,0x457dae,Sing,Wheel,???,550,550
+0x57f8f,0x457f8e,Sing,Wheel,???,550,550
+0x5816f,0x45816e,Sing,Wheel,???,550,550
+0x5834f,0x45834e,Sing,Wheel,???,550,550
+0x5852f,0x45852e,Sing,Wheel,???,550,550
+0x2f035c,0x6f035b,Sing,Wheel,Spring  KPA ???,34992,34992
+0x2f0360,0x6f035f,Sing,Wheel,Spring  KPA ???,34992,34992
+0x2f0364,0x6f0363,Sing,Wheel,Spring  KPA ???,34992,34992
+0x2f0368,0x6f0367,Sing,Wheel,Spring  KPA ???,34992,34992
+0x2f036c,0x6f036b,Sing,Wheel,Spring  KPA ???,41664,41664
+0x2f0378,0x6f0377,Sing,Wheel,Spring  KPA ???,41408,41408
+0x2f037c,0x6f037b,Sing,Wheel,Spring  KPA ???,41552,41552
+0x2f0380,0x6f037f,Sing,Wheel,Spring  KPA ???,41584,41584
+0x2f0384,0x6f0383,Sing,Wheel,Spring  KPA ???,41616,41616
+0x2f0388,0x6f0387,Sing,Wheel,Spring  KPA ???,41632,41632
+0x2f038c,0x6f038b,Sing,Wheel,Spring  KPA ???,41648,41648
+0x2f0398,0x6f0397,Sing,Wheel,Spring  KPA ???,41280,41280
+0x2f039c,0x6f039b,Sing,Wheel,Spring  KPA ???,41376,41376
