@@ -1,3 +1,7 @@
+Do not use. 
+
+There are some fundamental errors in this for how it works that I have not sorted out 
+
 These are my files including the build directory for when I made the windows exe in python
 
 It works for me in wine under linux mint the python should/might work in windows (with python installed) and there is also windows exe in the /dist/ folder that should/might work in windows ymmv
